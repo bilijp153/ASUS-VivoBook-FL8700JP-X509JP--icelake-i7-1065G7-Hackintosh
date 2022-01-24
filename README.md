@@ -1,6 +1,6 @@
 # EFI-for-ASUS-VivoBook-FL8700JP-
 
-该EFI为华硕 vivobook FL8700JP 专用的OpenCore EFI （现版本OC0.7.7）
+该EFI为华硕 vivobook FL8700JP 专用的OpenCore EFI （版本OpenCore 0.7.7）
 此机型配置：
 CPU：i7-1065G7
 显卡：Intel lris Plus Graphics G7 + MX330
@@ -27,7 +27,7 @@ bug：
 电池显示容量和电池实际情况对不上
 
 注意事项：
-默认开启跑码模式，可自行关闭
-如存在安装最新系统卡还剩15分钟可
-
-使用的时候记得更新三码！使用的时候记得更新三码！使用的时候记得更新三码！
+默认开启跑码模式（-v），可自行关闭
+如存在安装最新系统卡还剩15分钟可先安装黑果小兵的10.15.7（19H2）然后使用系统更新升级到最新系统
+如OpenCore中的Windows无法启动，可打开oc编辑器 Misc>Entries 下修改Windows所在路径或删除此项去 Misc>Security 将Scan Policy值设为0
+使用的时候记得更新三码！使用的时候记得更新三码！使用的时候记得更新三码！（重要的事情说三遍）
