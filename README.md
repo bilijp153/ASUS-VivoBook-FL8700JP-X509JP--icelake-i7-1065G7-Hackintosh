@@ -18,7 +18,7 @@
 |     内存      |     8GB+4GB DDR4        |
 |     硬盘      |       西数 512G SSD        |
 |     声卡      |       Realtek ALC256        |
-|   无线网卡     |        BIntel Wireless-AC 9461      |
+|   无线网卡     |        Intel Wireless-AC 9461      |
 
 注意：我的机型没有带指纹识别，如果是带有指纹识别的同款机型则指纹不能用
 
