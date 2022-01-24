@@ -1,4 +1,4 @@
-# EFI-for-ASUS VivoBook FL8700JP
+# EFI for ASUS VivoBook FL8700JP
 
 # BIOS设置：
 
