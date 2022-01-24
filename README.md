@@ -2,7 +2,8 @@
 
 该EFI为华硕 vivobook FL8700JP 专用的OpenCore EFI （版本OpenCore 0.7.7）
 
-.
+![image](https://user-images.githubusercontent.com/86920625/150804421-05aa6704-58fe-49c6-a91b-e1967ba0ac2b.png)
+
 .
 .
 .
