@@ -1,4 +1,4 @@
-# EFI for ASUS VivoBook FL8700JP
+# macOS Catalina/Big Sur/Monterey for ASUS VivoBook FL8700JP
 
 # BIOS设置：
 
