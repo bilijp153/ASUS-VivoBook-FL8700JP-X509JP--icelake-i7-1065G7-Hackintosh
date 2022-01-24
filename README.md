@@ -24,6 +24,8 @@ CPU：i7-1065G7
 
 网卡：Intel Wireless-AC 9461
 
+内存8GB+4GB DDR4
+
 
 没有带指纹识别
 
