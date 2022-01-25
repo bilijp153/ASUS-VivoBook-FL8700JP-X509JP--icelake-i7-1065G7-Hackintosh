@@ -22,6 +22,8 @@
 |     硬盘      |       西数 512G SSD        |
 |     声卡      |       Realtek ALC256        |
 |   无线网卡     |        Intel Wireless-AC 9461      |
+|   Mac模拟机型     |        MacBookPro 16,2      |
+|   支持安装版本（为已做测试的版本）     |        Mac OS Catalina 10.15.7（19H2) ~ Mac OS  Monterey 12.2    |
 
 注意：我的机型没有带指纹识别，如果是带有指纹识别的同款机型则指纹不能用
 
