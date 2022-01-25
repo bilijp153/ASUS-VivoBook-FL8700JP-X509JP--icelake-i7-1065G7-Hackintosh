@@ -62,12 +62,12 @@
 ## 五、注意事项
 1.下载的EFI请替换其中的三码后再使用，防止出现冲突。  
 
-2.默认开启跑码模式（-v），可自行关闭 
+2.默认开启跑码模式`-v`，可自行关闭 
 
-3.如存在安装最新系统存在停留在还剩15分钟可先安装黑果小兵的 Mac OS Catalina 10.15.7（19H2）然后再使用系统更新升级到最新系统
+3.如存在安装最新系统存在停留在还剩15分钟可先安装黑果小兵的 `Mac OS Catalina 10.15.7（19H2）`然后再使用系统更新升级到最新系统
 
-4.如OpenCore中的Windows无法启动，可打开oc编辑器 Misc>Entries 下修改Windows启动项文件所在盘符路径或删除此项 前往 Misc>Security 将Scan Policy值设为0
+4.如OpenCore中的Windows无法启动，可打开oc编辑器 `Misc>Entries` 下修改Windows启动项文件所在盘符路径或删除此项 前往`Misc>Security`  将`Scan Policy`值设为0
 
 5.本EFI未进行USB定制，如有需要，请自行定制
 
-## 六、本机NVRAM在Mac下不能正常使用，但能通过开机按Ctrl+Enter选择默认启动盘。
+## 六、本机NVRAM在Mac下不能正常使用，但能通过开机按`Ctrl+Enter`选择默认启动盘。
