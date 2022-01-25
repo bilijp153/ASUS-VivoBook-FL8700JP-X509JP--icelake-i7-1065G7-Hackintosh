@@ -68,6 +68,6 @@
 
 4.如OpenCore中的Windows无法启动，可打开oc编辑器 `Misc>Entries` 下修改Windows启动项文件所在盘符路径 或删除此项前往`Misc>Security`  将`Scan Policy`值设为0
 
-5.EFI未进行USB定制，如有需要，请自行定制
+5.未进行USB定制，如有需要，请自行定制
 
 ## 六、本机NVRAM在Mac下能正常使用，需通过开机按`Ctrl+Enter`选择默认启动盘。
