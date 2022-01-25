@@ -23,7 +23,7 @@
 |     声卡      |       Realtek ALC256        |
 |   无线网卡     |        Intel Wireless-AC 9461      |
 
-
+|             |                           |
 |--------------|-----------------------------|
 |   Mac模拟机型     |        MacBookPro 16,2      |
 |   支持安装版本（已做测试）     |        Mac OS Catalina 10.15.7（19H2) ~ Mac OS  Monterey 12.2    |
