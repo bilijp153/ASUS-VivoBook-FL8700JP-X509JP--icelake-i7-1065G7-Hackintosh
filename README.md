@@ -69,8 +69,6 @@
 
 3.如存在安装最新系统存在停留在还剩15分钟可先安装 `Mac OS Catalina 10.15.7（19H2)`然后再使用系统更新升级到最新系统
 
-4.如OpenCore中的Windows无法启动，可打开oc编辑器 `Misc>Entries` 下修改Windows启动项文件所在盘符路径 或删除此项前往`Misc>Security`  将`Scan Policy`值设为0
-
-5.未进行USB定制，如有需要，请自行定制
+4.未进行USB定制，如有需要，请自行定制
 
 ## 六、本机NVRAM在Mac下能正常使用，需通过开机按`Ctrl+Enter`选择默认启动盘。
