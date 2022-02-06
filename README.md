@@ -71,4 +71,6 @@
 
 4.未进行USB定制，如有需要，请自行定制
 
+5.使用 EFI for 19H2版本的升级到 12.1或12.2需去引导文件 config.plist里的Kernel开启BlueToolFixup.kext以确保12的蓝牙能正常使用
+
 ## 六、本机NVRAM在Mac下能正常使用，需通过开机按`Ctrl+Enter`选择默认启动盘。
