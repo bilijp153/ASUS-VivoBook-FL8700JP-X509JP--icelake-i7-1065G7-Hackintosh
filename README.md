@@ -33,7 +33,7 @@
 
 
 ## 二、正常工作
-1. Type-C、USB3.0，2.0接口和读卡器（HDMI未做测试）
+1. Type-C、USB3.0，2.0接口和读卡器（HDMI不能使用）
 2. 核显`Intel lris Plus Graphics G7`的硬件加速（独显`MX330`无法驱动已做屏蔽）
 3. 声卡输出（alcid=5）
 4. 耳机接口
