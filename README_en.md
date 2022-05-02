@@ -15,6 +15,7 @@
 |Sound card | Realtek alc256|
 |Wireless network card | Intel wireless-ac 9461|
 
+|             |                           |
 |--------------|-----------------------------|
 |Mac analog model | macbookpro 16,2|
 |Supported installed version (tested) | Mac OS Catalina 10.15.7 (19h2) ~ Mac OS Monterey 12.3.1|
