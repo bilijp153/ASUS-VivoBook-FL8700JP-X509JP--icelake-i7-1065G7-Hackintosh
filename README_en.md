@@ -31,7 +31,7 @@
 9. Sleep and wake up
 
 ## 3、 Bug
-1. 1The probability of sound is that there is no sound in Mac OS when switching from windows to Mac OS (` Realtek 'driver under ` windows' does not have this bug if it is HDA driver built by ` windows')
+1. The probability of sound is that there is no sound in Mac OS when switching from windows to Mac OS (` Realtek 'driver under ` windows' does not have this bug if it is HDA driver built by ` windows')
 
 2. ~~sleep will die~~ (repaired)
 
