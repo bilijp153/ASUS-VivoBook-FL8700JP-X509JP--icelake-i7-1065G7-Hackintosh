@@ -1,9 +1,9 @@
 # macOS Catalina/Big Sur/Monterey for ASUS VivoBook FL8700JP
 # BIOS settings:
--Close ` secureboot`
--Close ` FastBoot`
--Hard disk mode changed to ` AHCI`
--Modify DVMT to ` 64M`
+- Close ` secureboot`
+- Close ` FastBoot`
+- Hard disk mode changed to ` AHCI`
+- Modify DVMT to ` 64M`
 ## 1、 Configuration:
 |Configuration | model|
 |--------------|-----------------------------|
