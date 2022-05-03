@@ -14,11 +14,11 @@
 |Configuration | model|
 |--------------|-----------------------------|
 |Processor | i7-1065g7|
-|Core display | Intel LRIs plus graphics G7|
+|Core display | Intel lris plus graphics G7|
 |Unique display | mx330 (shielded)|
 |Memory | 8GB + 4GB DDR4|
 |Hard disk | Western Digital 512g SSD|
-|Sound card | Realtek alc256|
+|Sound card | Realtek ALC256|
 |Wireless network card | Intel wireless-ac 9461|
 
 |             |                           |
@@ -27,7 +27,7 @@
 |Supported installed version (tested) | Mac OS Catalina 10.15.7 (19h2) ~ Mac OS Monterey 12.3.1|
 ## 2、 Normal operation
 1. Type-C、USB3. 0, 2.0 interface and card reader (HDMI temporarily unavailable)
-2. Hardware acceleration of core display `Intel LRIs plus graphics G7` (the independent display `mx330` cannot drive and has been shielded)
+2. Hardware acceleration of core display `Intel lris plus graphics G7` (the independent display `mx330` cannot drive and has been shielded)
 3. Sound card output (alcid = 5)
 4. Headphone connector
 5. Microphone
