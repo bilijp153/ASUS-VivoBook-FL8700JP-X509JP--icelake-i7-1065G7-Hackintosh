@@ -27,7 +27,7 @@
 |Supported installed version (tested) | Mac OS Catalina 10.15.7 (19h2) ~ Mac OS Monterey 12.3.1|
 ## 2、 Normal operation
 1. Type-C、USB3. 0, 2.0 interface and card reader (HDMI temporarily unavailable)
-2. Hardware acceleration of core display 'Intel LRIs plus graphics G7' (the independent display 'mx330' cannot drive and has been shielded)
+2. Hardware acceleration of core display `Intel LRIs plus graphics G7` (the independent display `mx330` cannot drive and has been shielded)
 3. Sound card output (alcid = 5)
 4. Headphone connector
 5. Microphone
@@ -37,7 +37,7 @@
 9. Sleep and wake up
 
 ## 3、 Bug
-1. The probability of sound is that there is no sound in Mac OS when switching from windows to Mac OS (` Realtek 'driver under ` windows' does not have this bug if it is HDA driver built by ` windows')
+1. The probability of sound is that there is no sound in Mac OS when switching from windows to Mac OS (`Realtek`driver under `windows` does not have this bug if it is HDA driver built by `windows`)
 
 2. ~~sleep~~ (repaired)
 
@@ -48,10 +48,10 @@
 ## 4、 Precautions
 1. Please replace the three codes before using the downloaded EFI to prevent conflicts.
 
-2. If the latest system is installed and there are 15 minutes left, install 'Mac OS Catalina 10.15.7 (19h2)' first, and then use system update to upgrade to the latest system
+2. If the latest system is installed and there are 15 minutes left, install `Mac OS Catalina 10.15.7 (19h2)` first, and then use system update to upgrade to the latest system
 
-3. Using EFI for 19h2 to upgrade to 12.1 or 12.2, you need to go to the boot file ` config > kernel in plist ` open' bluetoolfixup Kext ` and close ` intelbluetoothinjector Kext ` to ensure that the Bluetooth of 12 can be used normally
+3. Using EFI for 19h2 to upgrade to 12.x, you need to go to the boot file `config > kernel in plist` open `bluetoolfixup Kext` and close `intelbluetoothinjector Kext` to ensure that the Bluetooth of 12.x can be used normally
 
 4. To upgrade from 10.15.7 to 12, you need to install the app required for Mac on 10.15.7 before upgrading 12
 
-## 5、 The native NVRAM can be used normally under the Mac. You need to press' Ctrl + Enter 'to select the default startup disk by starting up.
+## 5、 The native NVRAM can be used normally under the Mac. You need to press`Ctrl + Enter`to select the default startup disk by starting up.
