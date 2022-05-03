@@ -33,11 +33,11 @@
 ## 3、 Bug
 1. The probability of sound is that there is no sound in Mac OS when switching from windows to Mac OS (` Realtek 'driver under ` windows' does not have this bug if it is HDA driver built by ` windows')
 
-2. ~~sleep will die~~ (repaired)
+2. ~~sleep~~ (repaired)
 
-3. ~~the displayed capacity of the battery does not match the actual condition of the battery~~ (repaired)
+3. ~~battery~~ (repaired)
 
-4. ~~the nuclear display has a certain probability that the screen will be black after running the progress bar, and it can be used normally after forced shutdown and restart~~ (repaired)
+4. ~~Black screen problem of nuclear display startup~~ (repaired)
 
 ## 4、 Precautions
 1. Please replace the three codes before using the downloaded EFI to prevent conflicts.
