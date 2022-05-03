@@ -68,8 +68,8 @@
 
 2.如存在安装最新系统存在停留在还剩15分钟可先安装 `Mac OS Catalina 10.15.7（19H2)`然后再使用系统更新升级到最新系统
 
-3.使用 EFI for 19H2版本的升级到 12.1或12.2需去引导文件 `config.plist`里的Kernel开启`BlueToolFixup.kext`并关闭`IntelBluetoothInjector.kext`以确保12的蓝牙能够正常使用
+3.使用 EFI for 19H2版本的升级到 12.x 需去引导文件 `config.plist`里的Kernel开启`BlueToolFixup.kext`并关闭`IntelBluetoothInjector.kext`以确保 12.x 的蓝牙能够正常使用
 
-4.从10.15.7升级至12需先在10.15.7安装完在Mac所需使用App后再升级12
+4.从10.15.7升级至12.x需先在10.15.7安装完在Mac所需使用App后再升级12.x
 
 ## 五、本机NVRAM在Mac下能正常使用，需通过开机按`Ctrl+Enter`选择默认启动盘。
