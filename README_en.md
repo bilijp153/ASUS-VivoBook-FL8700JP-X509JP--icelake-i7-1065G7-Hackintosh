@@ -1,4 +1,7 @@
 # MacOS Catalina/Big Sur/Monterey for ASUS VivoBook FL8700JP
+
+[![img](https://img.shields.io/github/stars/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh.svg?color=ff69b4&label=%E7%82%B9%E8%B5%9E&logoColor=ff69b4&style=social)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh) [![img](https://img.shields.io/github/followers/bilijp153.svg?label=%E7%B2%89%E4%B8%9D&logoColor=success&style=social)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh) ![img](https://img.shields.io/github/contributors/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh.svg?color=red&label=%E8%B4%A1%E7%8C%AE%E4%BA%BA%E6%95%B0) [![img](https://img.shields.io/github/last-commit/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh.svg?color=orange&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh)
+
 ## 中文版本: [ASUS-VivoBook-FL8700JP-Hackintosh](README.md) 
 
 ## Download
