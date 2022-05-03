@@ -50,8 +50,8 @@
 
 2. If the latest system is installed and there are 15 minutes left, install `Mac OS Catalina 10.15.7 (19h2)` first, and then use system update to upgrade to the latest system
 
-3. Using EFI for 19h2 to upgrade to 12.x, you need to go to the boot file `config > kernel in plist` open `bluetoolfixup Kext` and close `intelbluetoothinjector Kext` to ensure that the Bluetooth of 12.x can be used normally
+3. Using EFI for 19h2 to upgrade to 12.x , you need to go to the boot file `config > kernel in plist` open `bluetoolfixup Kext` and close `intelbluetoothinjector Kext` to ensure that the Bluetooth of 12.x can be used normally
 
-4. To upgrade from 10.15.7 to 12, you need to install the app required for Mac on 10.15.7 before upgrading 12
+4. To upgrade from 10.15.7 to 12.x , you need to install the app required for Mac on 10.15.7 before upgrading 12.x
 
 ## 5、 The native NVRAM can be used normally under the Mac. You need to press`Ctrl + Enter`to select the default startup disk by starting up.
