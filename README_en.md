@@ -6,7 +6,7 @@
 [![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?label=Download)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)
 
 # BIOS settings:
-- Close ` secureboot`
+- Close ` SecureBoot`
 - Close ` FastBoot`
 - Hard disk mode changed to ` AHCI`
 - Modify DVMT to ` 64M`
