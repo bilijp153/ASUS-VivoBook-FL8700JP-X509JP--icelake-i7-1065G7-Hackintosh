@@ -1,5 +1,10 @@
 # MacOS Catalina/Big Sur/Monterey for ASUS VivoBook FL8700JP
 ## 中文版本: [ASUS-VivoBook-FL8700JP-Hackintosh](README.md) 
+
+## Download
+
+[![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?label=Download)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)
+
 # BIOS settings:
 - Close ` secureboot`
 - Close ` FastBoot`
