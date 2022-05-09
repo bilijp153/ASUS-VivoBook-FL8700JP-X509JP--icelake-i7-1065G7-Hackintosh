@@ -57,4 +57,4 @@
 
 4. To upgrade from 10.15.7 to 12.x , you need to install the app required for Mac on 10.15.7 before upgrading 12.x
 
-## 5、 The NVRAM of this machine can be used normally under the Mac. Boot it through the OC boot interface and press`Ctrl + enter`to select the default boot disk.
+## 5、 The NVRAM of this machine can be used normally under the Mac. Boot it through the OC boot interface and press `Ctrl + enter` to select the default boot disk.
