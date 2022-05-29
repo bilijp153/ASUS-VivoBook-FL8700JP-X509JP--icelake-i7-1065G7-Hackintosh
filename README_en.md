@@ -55,6 +55,4 @@
 
 3. Using EFI for 19h2 to upgrade to 12.x , you need to go to the boot file `config > kernel in plist` open `bluetoolfixup Kext` and close `intelbluetoothinjector Kext` to ensure that the Bluetooth of 12.x can be used normally
 
-4. To upgrade from 10.15.7 to 12.x , you need to install the app required for Mac on 10.15.7 before upgrading 12.x
-
 ## 5、 The native NVRAM can be used normally under the Mac. Press `Ctrl + enter` to select the default startup disk through the OC boot interface.
