@@ -49,10 +49,6 @@
 4. ~~Black screen problem of nuclear display startup~~ (repaired)
 
 ## 4、 Precautions
-1. Please replace the three codes before using the downloaded EFI to prevent conflicts.
-
-2. If the latest system is installed and there are 15 minutes left, install `Mac OS Catalina 10.15.7 (19h2)` first, and then use system update to upgrade to the latest system
-
-3. Using EFI for 19h2 to upgrade to 12.x , you need to go to the boot file `config > kernel in plist` open `bluetoolfixup Kext` and close `intelbluetoothinjector Kext` to ensure that the Bluetooth of 12.x can be used normally
+Please replace the three codes before using the downloaded EFI to prevent conflicts.
 
 ## 5、 The native NVRAM can be used normally under the Mac. Press `Ctrl + enter` to select the default startup disk through the OC boot interface.
