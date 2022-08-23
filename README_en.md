@@ -58,4 +58,4 @@ Please replace the three codes before using the downloaded EFI to prevent confli
 ## Maintainer
 #### Maintenance personnel ©[Aurora极光](https://github.com/bilijp153)，Released under the [License](./License) .<br>
 #### Testers                [若涵](https://github.com/catlingyun)
-   > GitHub [@Aurora极光](https://github.com/bilijp153) · Twitter [@Aurora 极光](https://twitter.com/Aurora_jp123) · Telegram Channel [@極光](https://t.me/Aurora_5223)
+   > GitHub [@Aurora极光](https://github.com/bilijp153) · Twitter [@極光](https://twitter.com/Aurora_jp123) · Telegram Channel [@Aurora 极光](https://t.me/Aurora_5223)
