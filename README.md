@@ -57,8 +57,9 @@
 - [x] Type-C
 - [x] USB3.0和2.0接口
 - [x] 读卡器
-- [x] 核显`Intel lris Plus Graphics G7`的硬件加速（独显`MX330`无法驱动已做屏蔽）
-- [x] 声卡输出（alcid=5）
+- [x] 核显`Intel lris Plus Graphics G7`
+- [ ] 独显MX330
+- [x] 声卡`ALC256`（alcid=5）
 - [x] 耳机接口
 - [x] 麦克风
 - [x] WIFI
