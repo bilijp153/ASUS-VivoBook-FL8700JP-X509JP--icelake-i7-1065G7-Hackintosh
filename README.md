@@ -54,17 +54,17 @@
 
 
 ## 正常工作
-1. Type-C、USB3.0，2.0接口和读卡器（十代HDMI已被苹果公司去除HDMI支持，故不能使用）
-2. 核显`Intel lris Plus Graphics G7`的硬件加速（独显`MX330`无法驱动已做屏蔽）
-3. 声卡输出（alcid=5）
-4. 耳机接口
-5. 麦克风
-6. WIFI/蓝牙
-7. 电池
-8. 触控板（GPIO中断）
-9. 睡眠和唤醒
-10. 白果的和win搭配的启动助理（即win可以任务栏Mac启动助理右键选择从Mac启动）
-
+[x]Type-C、USB3.0，2.0接口和读卡器
+[x] 核显`Intel lris Plus Graphics G7`的硬件加速（独显`MX330`无法驱动已做屏蔽）
+[x] 声卡输出（alcid=5）
+[x] 耳机接口
+[x] 麦克风
+[x] WIFI/蓝牙
+[x] 电池
+[x] 触控板（GPIO中断）
+[x] 睡眠和唤醒
+[x] 白果的和win搭配的启动助理（即win可以任务栏Mac启动助理右键选择从Mac启动）
+[ ] HDMI（十代HDMI已被苹果公司去除HDMI支持，故不能使用）
 
 
 ## Bug
