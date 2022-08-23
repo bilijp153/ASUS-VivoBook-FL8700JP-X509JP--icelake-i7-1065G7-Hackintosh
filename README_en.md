@@ -37,6 +37,7 @@
 |Hard disk | Western Digital 512G SSD|
 |Sound card | Realtek ALC256|
 |Wireless network card | Intel wireless-ac 9461|
+|   Touchpad     |        ELAN1200      |
 
 |             |                           |
 |--------------|-----------------------------|
