@@ -58,8 +58,8 @@
 - [x] Type-C
 - [x] USB3.0和2.0接口
 - [x] 读卡器
-- [x] 核显`Intel lris Plus Graphics G7`
-- [ ] 独显`MX330`
+- [x] Intel lris Plus Graphics G7
+- [ ] MX330
 - [x] 声卡`ALC256`（alcid=5）
 - [x] 耳机接口
 - [x] 麦克风
