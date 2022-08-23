@@ -5,6 +5,13 @@
 [![](https://img.shields.io/badge/Telegram-Aurora极光-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/Aurora_5223)
 [![](https://img.shields.io/badge/Twitter-極光-informational?style=flat&logo=twitter&logoColor=white&color=5fb659)](https://twitter.com/Aurora_jp123)
 
+## Model picture
+
+![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/computer.jpg)
+
+
+
+
 ## 中文版本: [ASUS-VivoBook-FL8700JP-Hackintosh](README.md) 
 
 ## Download
