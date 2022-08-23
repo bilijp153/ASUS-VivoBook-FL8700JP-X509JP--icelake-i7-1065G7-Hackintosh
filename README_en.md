@@ -46,8 +46,8 @@
 - [x] Type-C
 - [x] USB3.0 and 2.0 ports
 - [x] Card Reader
-- [x] Core Graphics `Intel lris Plus Graphics G7`
-- [ ] Standalone `MX330`
+- [x] Intel lris Plus Graphics G7
+- [ ] MX330
 - [x] sound card `ALC256` (alcid=5)
 - [x] headphone jack
 - [x] microphones
