@@ -43,11 +43,11 @@
 ## 3、 Bug
 1. ~~There is a probability of `switching from Windows to Mac OS`, Mac OS has no sound (If the `Realtek` driver under `Windows` is the HDA driver that comes with `Windows`, there is no such bug)~~ (Fixed)
 
-2. ~~sleep~~ (repaired)
+2. ~~sleep~~ (Fixed)
 
-3. ~~battery~~ (repaired)
+3. ~~battery~~ (Fixed)
 
-4. ~~Black screen problem of nuclear display startup~~ (repaired)
+4. ~~Black screen problem of nuclear display startup~~ (Fixed)
 
 ## 4、 Precautions
 Please replace the three codes before using the downloaded EFI to prevent conflicts.
