@@ -67,7 +67,7 @@
 
 3. ~~battery~~ (Fixed)
 
-4. ~~Black screen problem of nuclear display startup~~ (Fixed)
+4. ~~Intermittent boot black screen problem~~ (Fixed)
 
 5. ELAN1200 indirect disconnection (belonging to ELAN1200 common problem)
 
