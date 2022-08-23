@@ -41,7 +41,7 @@
 10. Ginkgo's startup assistant with win (that is, win can right-click the Mac startup assistant in the taskbar and choose to start from Mac)
 
 ## 3、 Bug
-1. The probability of sound is that there is no sound in Mac OS when switching from windows to Mac OS (`Realtek`driver under `windows` does not have this bug if it is HDA driver built by `windows`)
+1. ~~There is a probability of `switching from Windows to Mac OS`, Mac OS has no sound (If the `Realtek` driver under `Windows` is the HDA driver that comes with `Windows`, there is no such bug)~~ (Fixed)
 
 2. ~~sleep~~ (repaired)
 
