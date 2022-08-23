@@ -73,7 +73,7 @@
 
 
 ## 主要人员
-   ####维护人员[Aurora极光](https://github.com/bilijp153)
-   ####测试人员
+   #### 维护人员[Aurora极光](https://github.com/bilijp153)
+   #### 测试人员
    > GitHub [@Aurora极光](https://github.com/bilijp153) · Twitter [@Aurora极光](https://twitter.com/Aurora_jp123) · Telegram Channel [@Aurora极光](https://t.me/Aurora_5223)
    
