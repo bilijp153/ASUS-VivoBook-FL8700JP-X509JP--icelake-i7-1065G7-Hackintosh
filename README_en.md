@@ -34,7 +34,7 @@
 |Core display | Intel lris plus graphics G7|
 |Unique display | mx330 (shielded)|
 |Memory | 8GB + 4GB DDR4|
-|Hard disk | Western Digital 512g SSD|
+|Hard disk | Western Digital 512G SSD|
 |Sound card | Realtek ALC256|
 |Wireless network card | Intel wireless-ac 9461|
 
