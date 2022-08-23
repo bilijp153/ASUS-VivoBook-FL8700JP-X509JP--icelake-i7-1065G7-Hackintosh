@@ -13,7 +13,7 @@
 - Close ` FastBoot`
 - Hard disk mode changed to ` AHCI`
 - Modify DVMT to ` 64M`
-## 1、 Configuration:
+## Configuration:
 |Configuration | model|
 |--------------|-----------------------------|
 |Processor | i7-1065g7|
@@ -28,7 +28,7 @@
 |--------------|-----------------------------|
 |Mac analog model | MacBookAir 9,1|
 |Supported installed version (tested) | Mac OS Catalina 10.15.6 ~ Mac OS Monterey 12.5.1 and Mac OS Ventura 13 Beta 5|
-## 2、 Normal operation
+## Normal operation
 1. Type-C、USB3. 0, 2.0 interface and card reader (The tenth generation HDMI has been removed from HDMI support by Apple, so it cannot be used)
 2. Hardware acceleration of core display `Intel lris plus graphics G7` (the independent display `mx330` cannot drive and has been shielded)
 3. Sound card output (alcid = 5)
@@ -40,7 +40,7 @@
 9. Sleep and wake up
 10. Ginkgo's startup assistant with win (that is, win can right-click the Mac startup assistant in the taskbar and choose to start from Mac)
 
-## 3、 Bug
+## Bug
 1. ~~There is a probability of `switching from Windows to Mac OS`, Mac OS has no sound (If the `Realtek` driver under `Windows` is the HDA driver that comes with `Windows`, there is no such bug)~~ (Fixed)
 
 2. ~~sleep~~ (Fixed)
@@ -49,7 +49,13 @@
 
 4. ~~Black screen problem of nuclear display startup~~ (Fixed)
 
-## 4、 Precautions
+## Precautions
 Please replace the three codes before using the downloaded EFI to prevent conflicts.
 
-## 5、 The native NVRAM can be used normally under the Mac. Press `Ctrl + enter` to select the default startup disk through the OC boot interface.
+## The native NVRAM can be used normally under the Mac. Press `Ctrl + enter` to select the default startup disk through the OC boot interface.
+
+
+## Maintainer
+#### Maintenance personnel ©[Aurora极光](https://github.com/bilijp153)，Released under the [License](./License) .<br>
+#### Testers                [若涵](https://github.com/catlingyun)
+   > GitHub [@Aurora极光](https://github.com/bilijp153) · Twitter [@Aurora极光](https://twitter.com/Aurora_jp123) · Telegram Channel [@Aurora极光](https://t.me/Aurora_5223)
