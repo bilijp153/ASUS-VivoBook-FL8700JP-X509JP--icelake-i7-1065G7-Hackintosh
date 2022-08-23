@@ -74,6 +74,8 @@
 ## Precautions
 Please replace the three codes before using the downloaded EFI to prevent conflicts.
 
+#### To install Black Apple, please confirm that the sound card driver on `Windows` is the `official default` or the now popular third-party `Dolby driver`
+
 #### The native NVRAM can be used normally under the Mac. Press `Ctrl + enter` to select the default startup disk through the OC boot interface.
 
 
