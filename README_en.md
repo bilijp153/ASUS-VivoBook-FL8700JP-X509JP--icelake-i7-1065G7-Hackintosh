@@ -26,17 +26,17 @@
 
 |             |                           |
 |--------------|-----------------------------|
-|Mac analog model | macbookpro 16,2|
-|Supported installed version (tested) | Mac OS Catalina 10.15.7 (19h2) ~ Mac OS Monterey 12.3.1|
+|Mac analog model | MacBookAir 9,1|
+|Supported installed version (tested) | Mac OS Catalina 10.15.7 (19h2) ~ Mac OS Monterey 12.5.1 and Mac OS Ventura 13 Beta 5|
 ## 2、 Normal operation
-1. Type-C、USB3. 0, 2.0 interface and card reader (HDMI temporarily unavailable)
+1. Type-C、USB3. 0, 2.0 interface and card reader (The tenth generation HDMI has been removed from HDMI support by Apple, so it cannot be used)
 2. Hardware acceleration of core display `Intel lris plus graphics G7` (the independent display `mx330` cannot drive and has been shielded)
 3. Sound card output (alcid = 5)
 4. Headphone connector
 5. Microphone
 6. WiFi / Bluetooth
 7. Battery
-8. Touch panel
+8. Touch panel（GPIO interrupt）
 9. Sleep and wake up
 
 ## 3、 Bug
