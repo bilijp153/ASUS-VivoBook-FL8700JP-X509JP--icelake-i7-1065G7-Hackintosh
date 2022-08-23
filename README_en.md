@@ -57,7 +57,7 @@
 - [x] battery
 - [x] trackpad (GPIO interrupt)
 - [x] Sleep and Wake
-- [x] Ginkgo's startup assistant with win (that is, win can right-click the Mac startup assistant in the taskbar and choose to start from Mac)
+- [x] Boot Assistant on Windows in the real MacBook (additional software download required on Windows)
 - [ ] HDMI (10th generation CPU has been removed from HDMI support by Apple, so it cannot be used)
 
 ## Bug
