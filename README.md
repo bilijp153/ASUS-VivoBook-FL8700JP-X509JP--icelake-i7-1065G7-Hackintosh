@@ -5,7 +5,10 @@
 [![](https://img.shields.io/badge/电报-Aurora极光-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/Aurora_5223)
 [![](https://img.shields.io/badge/推特-極光-informational?style=flat&logo=twitter&logoColor=white&color=5fb659)](https://twitter.com/Aurora_jp123)
 
+
+
 ## English Version: [ASUS-VivoBook-FL8700JP-Hackintosh](README_en.md) 
+
 
 
 ## 机型图片
