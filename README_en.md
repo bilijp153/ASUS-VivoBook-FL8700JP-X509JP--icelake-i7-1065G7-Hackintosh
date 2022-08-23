@@ -52,7 +52,7 @@
 ## Precautions
 Please replace the three codes before using the downloaded EFI to prevent conflicts.
 
-## The native NVRAM can be used normally under the Mac. Press `Ctrl + enter` to select the default startup disk through the OC boot interface.
+#### The native NVRAM can be used normally under the Mac. Press `Ctrl + enter` to select the default startup disk through the OC boot interface.
 
 
 ## Maintainer
