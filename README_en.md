@@ -58,7 +58,7 @@
 - [x] trackpad (GPIO interrupt)
 - [x] Sleep and Wake
 - [x] Ginkgo's startup assistant with win (that is, win can right-click the Mac startup assistant in the taskbar and choose to start from Mac)
-- [ ] HDMI (10th generation HDMI has been removed from HDMI support by Apple, so it cannot be used)
+- [ ] HDMI (10th generation CPU has been removed from HDMI support by Apple, so it cannot be used)
 
 ## Bug
 1. ~~There is a probability of `switching from Windows to Mac OS`, Mac OS has no sound (If the `Realtek` driver under `Windows` is the HDA driver that comes with `Windows`, there is no such bug)~~ (Fixed)
