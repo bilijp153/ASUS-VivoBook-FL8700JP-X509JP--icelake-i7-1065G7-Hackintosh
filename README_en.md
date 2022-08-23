@@ -52,7 +52,7 @@
 - [x] sound card `ALC256` (alcid=5)
 - [x] headphone jack
 - [x] microphones
-- [x] WIFI
+- [x] WiFi
 - [X] Bluetooth
 - [x] battery
 - [x] trackpad (GPIO interrupt)
