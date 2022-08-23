@@ -68,6 +68,8 @@
 
 4. ~~Black screen problem of nuclear display startup~~ (Fixed)
 
+5. ELAN1200 indirect disconnection (belonging to ELAN1200 common problem)
+
 ## Precautions
 Please replace the three codes before using the downloaded EFI to prevent conflicts.
 
