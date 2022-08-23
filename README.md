@@ -19,7 +19,7 @@
 - DVMT修改为`64M`
 
 
-## 一、配置：
+## 配置：
 
 |    配置       |        型号                 |
 |--------------|-----------------------------|
@@ -39,7 +39,7 @@
 
 
 
-## 二、正常工作
+## 正常工作
 1. Type-C、USB3.0，2.0接口和读卡器（十代HDMI已被苹果公司去除HDMI支持，故不能使用）
 2. 核显`Intel lris Plus Graphics G7`的硬件加速（独显`MX330`无法驱动已做屏蔽）
 3. 声卡输出（alcid=5）
@@ -53,7 +53,7 @@
 
 
 
-## 三、Bug
+## Bug
 1.~~声音有概率`从 Windows 切换到 Mac OS`时 Mac OS 无声音 (` Windows`下的` Realtek`驱动若为` Windows`自带的HDA驱动则无此Bug）~~ （已修复）
 
 2.~~睡眠~~（已修复）
@@ -64,7 +64,16 @@
 
 
 
-## 四、注意事项
+## 注意事项
 下载的EFI请替换其中的三码后再使用，防止出现冲突。   
 
-## 五、本机NVRAM在Mac下能正常使用，通过OC引导界面按`Ctrl+Enter`选择默认启动盘。
+## 本机NVRAM在Mac下能正常使用，通过OC引导界面按`Ctrl+Enter`选择默认启动盘。
+
+
+
+
+## 主要人员
+   ####维护人员[Aurora极光](https://github.com/bilijp153)
+   ####测试人员
+   > GitHub [@Aurora极光](https://github.com/bilijp153) · Twitter [@Aurora极光](https://twitter.com/Aurora_jp123) · Telegram Channel [@Aurora极光](https://t.me/Aurora_5223)
+   
