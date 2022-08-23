@@ -28,11 +28,11 @@
 - Hard disk mode changed to ` AHCI`
 - Modify DVMT to ` 64M`
 ## Configuration:
-|Configuration | model|
+|Configuration | Model|
 |--------------|-----------------------------|
-|Processor | i7-1065g7|
-|Core display | Intel lris plus graphics G7|
-|Unique display | mx330 (shielded)|
+|Processor | i7-1065G7|
+|Core display | Intel lris Plus Graphics G7|
+|Unique display | MX330 (shielded)|
 |Memory | 8GB + 4GB DDR4|
 |Hard disk | Western Digital 512G SSD|
 |Sound card | Realtek ALC256|
@@ -47,12 +47,12 @@
 - [x] USB3.0 and 2.0 ports
 - [x] Card Reader
 - [x] Hardware acceleration of `Intel lris Plus Graphics G7` (independent `MX330` cannot be driven and has been shielded)
-- [x] sound card output (alcid=5)
-- [x] headphone jack
-- [x] microphones
+- [x] Sound card output (alcid=5)
+- [x] Headphone jack
+- [x] Microphones
 - [x] WIFI/Bluetooth
-- [x] batteries
-- [x] trackpad (GPIO interrupt)
+- [x] Battery
+- [x] Trackpad (GPIO interrupt)
 - [x] Sleep and Wake
 - [x] Ginkgo's startup assistant with win (that is, win can right-click the Mac startup assistant in the taskbar and choose to start from Mac)
 - [ ] HDMI (10th generation HDMI has been removed from HDMI support by Apple, so it cannot be used)
