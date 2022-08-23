@@ -54,7 +54,7 @@
 
 
 ## 正常工作
-- [x]Type-C
+- [x] Type-C
 - [x] USB3.0和2.0接口
 - [x] 读卡器
 - [x] 核显`Intel lris Plus Graphics G7`的硬件加速（独显`MX330`无法驱动已做屏蔽）
