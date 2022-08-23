@@ -42,17 +42,20 @@
 |--------------|-----------------------------|
 |Mac analog model | MacBookAir 9,1|
 |Supported installed version (tested) | Mac OS Catalina 10.15.6 ~ Mac OS Monterey 12.5.1 and Mac OS Ventura 13 Beta 5|
-## Normal operation
-1. Type-C、USB3. 0, 2.0 interface and card reader (The tenth generation HDMI has been removed from HDMI support by Apple, so it cannot be used)
-2. Hardware acceleration of core display `Intel lris plus graphics G7` (the independent display `mx330` cannot drive and has been shielded)
-3. Sound card output (alcid = 5)
-4. Headphone connector
-5. Microphone
-6. WiFi / Bluetooth
-7. Battery
-8. Touch panel（GPIO interrupt）
-9. Sleep and wake up
-10. Ginkgo's startup assistant with win (that is, win can right-click the Mac startup assistant in the taskbar and choose to start from Mac)
+## What works and what doesn't
+- [x] Type-C
+- [x] USB3.0 and 2.0 ports
+- [x] Card Reader
+- [x] Hardware acceleration of `Intel lris Plus Graphics G7` (independent `MX330` cannot be driven and has been shielded)
+- [x] sound card output (alcid=5)
+- [x] headphone jack
+- [x] microphones
+- [x] WIFI/Bluetooth
+- [x] batteries
+- [x] trackpad (GPIO interrupt)
+- [x] Sleep and Wake
+- [x] Ginkgo's startup assistant with win (that is, win can right-click the Mac startup assistant in the taskbar and choose to start from Mac)
+- [ ] HDMI (10th generation HDMI has been removed from HDMI support by Apple, so it cannot be used)
 
 ## Bug
 1. ~~There is a probability of `switching from Windows to Mac OS`, Mac OS has no sound (If the `Realtek` driver under `Windows` is the HDA driver that comes with `Windows`, there is no such bug)~~ (Fixed)
