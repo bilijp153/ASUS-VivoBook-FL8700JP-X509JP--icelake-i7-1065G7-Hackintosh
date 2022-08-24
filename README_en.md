@@ -7,7 +7,8 @@
 
 
 
-## 中文版本: [ASUS-VivoBook-FL8700JP-Hackintosh](README.md) 
+## 中文版本: [ASUS-VivoBook-FL8700JP-Hackintosh](README.md)
+## 繁體中文版本: [ASUS-VivoBook-FL8700JP-Hackintosh](README_繁體中文.md) 
 
 
 
