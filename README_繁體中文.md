@@ -96,9 +96,9 @@
 
 
 ## 主要人員
-   #### 維護人員 ©[Aurora極光](https://github.com/bilijp153)，基於[許可](./許可)發布。
+   #### 維護人員 ©[Aurora极光](https://github.com/bilijp153)，基於[許可](./許可)發布。
    #### 測試人員  [若涵](https://github.com/catlingyun)
-   在貢獻者的幫助下，由[Aurora極光](https://github.com/bilijp153)編寫和維護。([貢獻者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)).
+   在貢獻者的幫助下，由[Aurora极光](https://github.com/bilijp153)編寫和維護。([貢獻者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)).
    > GitHub [@Aurora极光](https://github.com/bilijp153) · Twitter [@極光](https://twitter.com/Aurora_jp123) · Telegram Channel [@Aurora 极光](https://t.me/Aurora_5223)
 
    
