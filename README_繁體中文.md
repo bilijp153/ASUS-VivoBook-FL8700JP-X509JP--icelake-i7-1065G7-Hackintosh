@@ -6,8 +6,8 @@
 [![](https://img.shields.io/badge/推特-極光-informational?style=flat&logo=twitter&logoColor=white&color=5fb659)](https://twitter.com/Aurora_jp123)
 
 
-## 中文版本: [ASUS-VivoBook-FL8700JP-Hackintosh](README.md)
-## English Version: [ASUS-VivoBook-FL8700JP-Hackintosh](README_en.md) 
+## [中文版本](README.md)
+## [English Version](README_en.md) 
 
 
 
