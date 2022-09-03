@@ -7,7 +7,8 @@
 
 
 
-## [English Version](README_en.md)   [繁體中文版本](README_繁體中文.md) 
+## [English Version](README_en.md)   
+## [繁體中文版本](README_繁體中文.md) 
 
 
 ## 机型图片
