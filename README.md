@@ -57,7 +57,7 @@
 
 ## 什么工作和不工作
 - [x] Type-C
-- [x] USB3.0和2.0
+- [x] USB接口
 - [x] 读卡器
 - [x] Intel lris Plus Graphics G7
 - [ ] MX330
