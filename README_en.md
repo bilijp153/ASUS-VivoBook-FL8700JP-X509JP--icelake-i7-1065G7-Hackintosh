@@ -46,7 +46,7 @@
 |Supported installed version (tested) | Mac OS Catalina 10.15.6 ~ Mac OS Monterey 12.5.1 and Mac OS Ventura 13 Beta 5|
 ## What works and what doesn't
 - [x] Type-C
-- [x] USB3.0 and 2.0
+- [x] USB Ports
 - [x] Card Reader
 - [x] Intel lris Plus Graphics G7
 - [ ] MX330
