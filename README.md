@@ -50,7 +50,7 @@
 |             |                           |
 |--------------|-----------------------------|
 |   Mac模拟机型     |        MacBookAir 9,1      |
-|   支持安装版本（已做测试）     |        Mac OS Catalina 10.15.6 ~ Mac OS Monterey 12.5.1 and Mac OS Ventura 13 Beta 7    |
+|   支持安装版本（已做测试）     |        Mac OS Catalina 10.15.6 ~ Mac OS Monterey 12.5.1 and Mac OS Ventura 13 Beta 11    |
 
 
 
