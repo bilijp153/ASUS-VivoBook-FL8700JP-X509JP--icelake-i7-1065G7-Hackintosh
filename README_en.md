@@ -43,7 +43,7 @@
 |             |                           |
 |--------------|-----------------------------|
 |Mac analog model | MacBookAir 9,1|
-|Supported installed version (tested) | Mac OS Catalina 10.15.6 ~ Mac OS Monterey 12.5.1 and Mac OS Ventura 13 Beta 7|
+|Supported installed version (tested) | Mac OS Catalina 10.15.6 ~ Mac OS Monterey 12.5.1 and Mac OS Ventura 13 Beta 11|
 ## What works and what doesn't
 - [x] Type-C
 - [x] USB Ports
