@@ -128,7 +128,7 @@
 - 安装Bootcamp程序
 - 按照安装程序提示重启，然后回`Mac`
 - 进入EFI的机型设置`使用OCAT或OpenCore Configurator`打开，修改机型项让`Windows`不再认为你是Mac机型
-- 完成
+- 完成！享受白苹果方式的启动吧
 
 
 
