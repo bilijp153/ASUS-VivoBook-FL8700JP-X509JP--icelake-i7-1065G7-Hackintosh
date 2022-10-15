@@ -9,14 +9,15 @@
 
 ## Table of contents
 - [Language Selection(语言选择/語言選擇)](#Language selection)
-- [Real machine pictures] (#Real machine pictures)
+- [Real machine pictures](#Real machine pictures)
 - [Download link](#Download link)
 - [Configure](#Configure)
 - [System compatibility](#System compatibility)
 - [What works and what doesn't] (#What works and what doesn't)
 - [Hardware Compatibility](#Hardware Compatibility)
 - [Post-installation operations](#Post-installation operations)
-- [Bug](#Bug)
+- [Bugs](#Bugs
+-)
 - [Main Personnel] (#Main Personnel)
 
 
