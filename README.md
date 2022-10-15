@@ -4,24 +4,24 @@
 [![](https://img.shields.io/badge/推特-極光-informational?style=flat&logo=twitter&logoColor=white&color=5fb659)](https://twitter.com/Aurora_jp123)
 
 ##目录
-- [语言选择（語言選擇/Language Selection）](#语言选择（語言選擇/Language Selection）)
-- [实机图片](#实机图片)
-- [下载地址](#下载地址)
-- [配置](#配置)
-- [系统兼容性](#系统兼容性)
-- [什么工作和不工作](#什么工作和不工作)
-- [硬件兼容性](#硬件兼容性)
-- [安装后操作](#安装后操作)
-- [Bug](#Bug)
-- [主要人员](#主要人员)
+- [语言选择（語言選擇/Language Selection）](##语言选择（語言選擇/Language Selection）)
+- [实机图片](##实机图片)
+- [下载地址](##下载地址)
+- [配置](##配置)
+- [系统兼容性](##系统兼容性)
+- [什么工作和不工作](##什么工作和不工作)
+- [硬件兼容性](##硬件兼容性)
+- [安装后操作](##安装后操作)
+- [Bug](##Bug)
+- [主要人员](##主要人员)
 
 
-#语言选择（語言選擇/Language Selection）   
+##语言选择（語言選擇/Language Selection）   
 [繁體中文版本](README_繁體中文.md) 
 [English Version](README_en.md)
 
 
-#实机图片
+##实机图片
 
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer4.png)
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer.png)
@@ -29,11 +29,11 @@
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer1.png)
 
 
-#下载地址
+##下载地址
 
 [![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?label=下载)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)
 
-#配置
+##配置
 
 |    配置       |        型号                 |
 |--------------|-----------------------------|
@@ -46,7 +46,7 @@
 |   无线网卡     |        Intel Wireless-AC 9461      |
 |   触摸板     |        ELAN1200      |
 
-#系统兼容性
+##系统兼容性
 
   - Catalina (10.15.7)
   - Big Sur (11.x)
@@ -54,7 +54,7 @@
   - Ventura (13.x)
 
 
-#什么工作和不工作
+##什么工作和不工作
 - [x] Type-C
 - [x] USB接口
 - [x] 读卡器
@@ -72,7 +72,7 @@
 - [ ] HDMI（十代处理器已被苹果公司去除HDMI支持，故不能使用）
 
 
-#硬件兼容性
+##硬件兼容性
 
 ###CPU
 本机搭载的是10mm的[Intel Core Ice Lake i7-1065G7 处理器](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
@@ -103,7 +103,7 @@
 注：本机网卡不支持隔空传送
 
 
-#安装后操作
+##安装后操作
 
 ###更改SMBIOS（三码）
 使用OCAT或OpenCore Configurator（下称该工具）的机型菜单生成您唯一的`SMBIOS（三码）`信息。
@@ -120,7 +120,7 @@
 
 
 
-#Bug
+##Bug
 1.~~声音有概率`从 Windows 切换到 Mac OS`时 Mac OS 无声音 (` Windows`下的` Realtek`驱动若为` Windows`自带的HDA驱动则无此Bug）~~ （已修复）
 
 2.~~睡眠~~（已修复）
@@ -135,7 +135,7 @@
 
 
 
-#主要人员
+##主要人员
    #### 维护人员 ©[Aurora极光](https://github.com/bilijp153)，基于[许可](./License)发布。
    #### 测试人员  [若涵](https://github.com/catlingyun)
    在[贡献者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的帮助下，由[Aurora极光](https://github.com/bilijp153)编写和维护。
