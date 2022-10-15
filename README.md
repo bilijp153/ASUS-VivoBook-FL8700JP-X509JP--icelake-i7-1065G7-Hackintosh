@@ -119,7 +119,7 @@
 需要“无效序列号”或“未验证购买日期”消息才算能用。如果你得到是其他提示，必须生成 新的`SMBIOS（三码）`并再次检查。
 
 ### 拥有白苹果启动
-- 下载[corpnewt]((https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)
+- 下载[corpnewt](https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)
 - 按照提示安装py
 - 完成后程序会自动下载`Windows上的Bootcamp程序`
 - 按照提示把下载来的`dmg`打开，把里面的文件复制到Windows系统盘
