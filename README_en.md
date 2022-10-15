@@ -13,7 +13,7 @@
 - [Download link](#Downloadlink)
 - [Configure](#Configure)
 - [System compatibility](#Systemcompatibility)
-- [What works and what doesn't] (#What works and what doesn't)
+- [What works and what doesn't] (#Whatworksandwhatdoesn't)
 - [Hardware Compatibility](#HardwareCompatibility)
 - [Post-installation operations](#Post-installationoperations)
 - [Bugs](#Bugs)
@@ -22,7 +22,7 @@
 
 ## Language selection   
 - [Simplified Chinese Version](README_.md)
-- [Traditional Chinese Version](README_Traditional Chinese.md)
+- [Traditional Chinese Version](README_繁體中文.md)
 
 
 
