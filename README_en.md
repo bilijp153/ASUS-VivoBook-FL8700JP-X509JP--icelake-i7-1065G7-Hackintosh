@@ -21,7 +21,7 @@
 
 
 ## Language selection   
-- [Simplified Chinese Version](README_.md)
+- [Simplified Chinese Version]([README_.md](README.md)
 - [Traditional Chinese Version](README_繁體中文.md)
 
 
