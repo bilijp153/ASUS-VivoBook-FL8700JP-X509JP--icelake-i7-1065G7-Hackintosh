@@ -109,13 +109,25 @@
 该项请看[BIOS](#BIOS)
 
 ### 硬盘（固态）设置
-- 确认固态为GUID格式
-- 确认固态EFI分区大于400M
+- 确认硬盘为GUID格式
+- 确认硬盘EFI分区大于400M
+- 确认没有内置其他黑苹果不支持的固态和机械盘
 
 ### 下载和安装Mac
-- 前往[![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?label=下载)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)下载EFI
+- [下载](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)EFI
 - 去黑果小兵的部落阁下载黑苹果镜像
-- 
+- 下载Etcher
+- 使用至少16G大小的U盘拷录下载的黑苹果镜像
+- 把下载的EFI文件复制到硬盘的EFI分区
+- 使用软件（入EasyUEFI）建立刚复制到EFI分区的的EFI引导
+- 使用硬盘工具进行分区
+- 开机按Esc进入引导选择菜单，选择刚创建的EFI引导
+- 随后会进入OpenCore菜单，选择 Install 那项
+- 等待进度条跑满进入安装程序
+- 进入磁盘工具，选择刚才分区的那个盘符格式化为APFS后退出回到主界面
+- 选择安装Mac，按照提示进行安装
+- 多次重启后出现Mac设置界面
+- 完成设置后即可享用Mac
 
 
 
