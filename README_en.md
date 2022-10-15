@@ -8,17 +8,16 @@
 
 
 ## Table of contents
-- [Language Selection(语言选择/語言選擇)](#Language selection)
-- [Real machine pictures](#Real machine pictures)
-- [Download link](#Download link)
+- [Language Selection(语言选择/語言選擇)](#Languageselection)
+- [Real machine pictures](#Realmachinepictures)
+- [Download link](#Downloadlink)
 - [Configure](#Configure)
-- [System compatibility](#System compatibility)
-- [What works and what doesn't] (#What works and what doesn't)
-- [Hardware Compatibility](#Hardware Compatibility)
-- [Post-installation operations](#Post-installation operations)
-- [Bugs](#Bugs
--)
-- [Main Personnel] (#Main Personnel)
+- [System compatibility](#Systemcompatibility)
+- [What works and what doesn't] (#Whatworksandwhatdoesn't)
+- [Hardware Compatibility](#HardwareCompatibility)
+- [Post-installation operations](#Post-installationoperations)
+- [Bugs](#Bugs)
+- [Main Personnel] (#Mainersonnel)
 
 
 ## Language selection   
