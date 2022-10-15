@@ -152,7 +152,7 @@ Note: BootX64.efi needs to be selected when setting EFI boot, if BootX64.efi doe
 | Apple | Apple MacBook Pro 16,2 |
 | Apple | Apple MacBook Air 9,1 |
 
-- Go to `Apple Serial Number Website` via the tool's Verify Serial Number button and enter the verification code (the serial number is automatically entered).
+- Go to `Apple Serial Number Check Website` via the tool's Verify Serial Number button and enter the verification code (the serial number is automatically entered).
 - An "Invalid Serial Number" or "Purchase Date Not Verified" message is required to work. If you get other prompts, you must generate a new SMBIOS (code three) and check again.
 
 ### Start with White Apple
