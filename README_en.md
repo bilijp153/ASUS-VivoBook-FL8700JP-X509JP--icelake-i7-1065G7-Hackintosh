@@ -13,11 +13,11 @@
 - [Download link](#Downloadlink)
 - [Configure](#Configure)
 - [System compatibility](#Systemcompatibility)
-- [What works and what doesn't] (#Whatworksandwhatdoesnt)
+- [What works and what doesn't] (#Whatworksandwhatdoesn't)
 - [Hardware Compatibility](#HardwareCompatibility)
 - [Post-installation operations](#Post-installationoperations)
 - [Bugs](#Bugs)
-- [Main Personnel] (#Mainpersonnel)
+- [Main Personnel] (#MainPersonnel)
 
 
 ## Language selection   
