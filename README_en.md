@@ -123,6 +123,18 @@ Use the table below to select the appropriate model for your hardware.
 Go to Apple Coverage via the tool's Verify Serial Number button and enter the verification code (the serial number is automatically entered).
 An "Invalid Serial Number" or "Purchase Date Not Verified" message is required to work. If you get other prompts, you must generate a new SMBIOS (code three) and check again.
 
+### Start with White Apple
+- Download [brigadier](https://github.com/corpnewt/brigadier) of [corpnewt](https://github.com/corpnewt)
+- Follow the prompts to install py
+- The program will automatically download the `Bootcamp program on Windows` when finished
+- Follow the prompts to open the downloaded `dmg` and copy the files inside to the Windows system disk
+- Enter the model settings of EFI `Use OCAT or OpenCore Configurator` to open, modify the model item so that `Windows` thinks you are a Mac model
+- Reboot into Windows (how to enter Windows to see [BIOS](#BIOS))
+- Install the Bootcamp program
+- Follow the installer prompt to reboot, then go back to `Mac`
+- Enter the model settings of EFI `Use OCAT or OpenCore Configurator` to open, modify the model item so that `Windows` no longer thinks you are a Mac model
+- Finish! Enjoy the white apple way to start
+
 
 
 ## Bugs
