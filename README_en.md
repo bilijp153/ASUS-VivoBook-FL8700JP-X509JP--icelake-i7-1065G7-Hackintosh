@@ -143,4 +143,4 @@ An "Invalid Serial Number" or "Purchase Date Not Verified" message is required t
 ## Main Personnel
    #### Maintainer ©[Aurora](https://github.com/bilijp153), released under [license](./License).
    #### Tester [Ruohan](https://github.com/catlingyun)
-   Contributed by [Aurora](https://github.com/ biijp153) written and maintained.
+   Contributed by [Aurora](https://github.com/bilijp153) written and maintained.
