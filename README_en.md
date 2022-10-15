@@ -83,6 +83,6 @@ Please replace the three codes before using the downloaded EFI to prevent confli
 ## Maintainer
 #### Maintenance personnel ©[Aurora极光](https://github.com/bilijp153)，Released under the [License](./License) .<br>
 #### Testers                [若涵](https://github.com/catlingyun)
-Authored and maintained by [Aurora极光](https://github.com/bilijp153) with help from contributors ([Contributors]([https://github.com/Miracle-Sakuno/Asus-VivoBook-X509FB-Hackintosh/graphs/contributors](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors))).
+Authored and maintained by [Aurora极光](https://github.com/bilijp153) with help from [contributors](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors).
 
    > GitHub [@Aurora极光](https://github.com/bilijp153) · Twitter [@極光](https://twitter.com/Aurora_jp123) · Telegram Channel [@Aurora 极光](https://t.me/Aurora_5223)
