@@ -129,6 +129,8 @@
 - 多次重启后出现Mac设置界面
 - 完成设置后即可享用Mac
 
+注：设置EFI引导时需选择BootX64.efi,如果BootX64.efi不行则选择OC文件夹下的OpenCore.efi
+
 
 
 ## 安装后操作
