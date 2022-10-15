@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/推特-極光-informational?style=flat&logo=twitter&logoColor=white&color=5fb659)](https://twitter.com/Aurora_jp123)
 
 ## 目录
-- [语言选择（語言選擇/Language Selection）](#语言选择（語言選擇/Language Selection）)
+- [语言选择（語言選擇/Language Selection）](#语言选择)
 - [实机图片](#实机图片)
 - [下载地址](#下载地址)
 - [配置](#配置)
@@ -16,7 +16,7 @@
 - [主要人员](#主要人员)
 
 
-## 语言选择（語言選擇/Language Selection）   
+## 语言选择   
 [繁體中文版本](README_繁體中文.md) 
 
 [English Version](README_en.md)
