@@ -17,7 +17,7 @@
 - [Hardware Compatibility](#HardwareCompatibility)
 - [Post-installation operations](#Post-installationoperations)
 - [Bugs](#Bugs)
-- [Main Personnel] (#MainPersonnel)
+- [Main Personnel] (#Main Personnel)
 
 
 ## Language selection   
