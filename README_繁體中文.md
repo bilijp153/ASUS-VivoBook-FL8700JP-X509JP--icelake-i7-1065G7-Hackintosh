@@ -118,8 +118,8 @@
 
 ### 下載和安裝Mac
 - [下載](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)EFI
-- 去黑果小兵的部落閣下載黑蘋果鏡像(下載的版本請看[系統兼容性](#系統兼容性)）
-- 下載Etcher
+- 去黑[果小兵的部落閣](https://blog.daliansky.net/)下載黑蘋果鏡像(下載的版本請看[系統兼容性](#系統兼容性)）
+- 下載[balenaEtcher](https://www.balena.io/etcher/)
 - 使用至少16G大小的U盤拷錄下載的黑蘋果鏡像
 - 把下載的EFI文件複製到硬盤的EFI分區
 - 使用軟件（入EasyUEFI）建立剛複製到EFI分區的的EFI引導
