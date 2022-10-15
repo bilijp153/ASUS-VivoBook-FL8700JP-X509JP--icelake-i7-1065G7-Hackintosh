@@ -106,17 +106,17 @@
 ## 安装后操作
 
 ### 更改SMBIOS（三码）
-使用OCAT或OpenCore Configurator（下称该工具）的机型菜单生成您唯一的`SMBIOS（三码）`信息。
+- 使用OCAT或OpenCore Configurator（下称该工具）的机型菜单生成您唯一的`SMBIOS（三码）`信息。
 `SMBIOS（三码）` 必须是唯一的，您不能使用此`存储库(EFI)`中存在的一个。
-运行该工具并选择生成 SMBIOS。
-使用下表为您的硬件选择合适的型号。
+- 运行该工具并选择生成 SMBIOS。
+- 使用下表为您的硬件选择合适的型号。
 |    品牌       |        型号                 |
 |--------------|-----------------------------|
 |    Apple     |          Apple MacBook Pro 16,2          |
 |    Apple     |          Apple MacBook Air 9,1          |
 
-通过该工具的验证序列号按钮转到 Apple Coverage 并输入验证码（序列号已自动输入）。
-需要“无效序列号”或“未验证购买日期”消息才算能用。如果你得到是其他提示，必须生成 新的`SMBIOS（三码）`并再次检查。
+- 通过该工具的验证序列号按钮转到 Apple Coverage 并输入验证码（序列号已自动输入）。
+- 需要“无效序列号”或“未验证购买日期”消息才算能用。如果你得到是其他提示，必须生成 新的`SMBIOS（三码）`并再次检查。
 
 ### 拥有白苹果启动
 - 下载[corpnewt](https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)
