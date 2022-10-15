@@ -13,6 +13,7 @@
 - [Download link](#Download-link)
 - [Configure](#Configure)
 - [System compatibility](#System-compatibility)
+- [Changelog](Changelog.md)
 - [What works and what doesn't](#What-works-and-what-doesn't)
 - [Hardware Compatibility](#Hardware-Compatibility)
 - [Pre-installation operations](#Pre-installation-operations)
