@@ -15,6 +15,7 @@
 - [System compatibility](#System-compatibility)
 - [What works and what doesn't](#What-works-and-what-doesn't)
 - [Hardware Compatibility](#Hardware-Compatibility)
+- [Pre-installation operations](#Pre-installation-operations)
 - [Post-installation operations](#Post-installation-operations)
 - [Bugs](#Bugs)
 - [Main Personnel](#Main-Personnel)
@@ -106,6 +107,35 @@ This machine is equipped with a sound card `Realtek ALC256`, and has Intel's int
 -Bluetooth is 5.0
 
 Note: The local network card does not support air transfer
+
+
+## Pre-installation operations
+
+### Change BIOS settings
+Please see [BIOS](#BIOS)
+
+### Hard Disk (Solid State) Settings
+- Make sure the hard drive is in GUID format
+- Confirm that the hard disk EFI partition is larger than 400M
+- Confirm that there are no built-in solid-state and mechanical disks that are not supported by other black apples
+
+### Download and install for Mac
+- [Download](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases) EFI
+- Go to Heiguo Xiaobing's Tribal Pavilion to download the black apple image (please see [System Compatibility](#System Compatibility) for the downloaded version)
+- Download Etcher
+- Use a U disk of at least 16G to copy the downloaded Black Apple image
+- Copy the downloaded EFI file to the EFI partition of the hard drive
+- Use the software (into EasyUEFI) to create the EFI boot just copied to the EFI partition
+- Partition using Hard Disk Utility
+- Press Esc to enter the boot selection menu and select the newly created EFI boot
+- Then you will enter the OpenCore menu, select the Install item
+- Wait for the progress bar to fill up and enter the installer
+- Enter Disk Utility, select the drive letter you just partitioned, format it as APFS, and then exit back to the main interface
+- Choose to install Mac, follow the prompts to install
+- The Mac settings interface appears after multiple restarts
+- Enjoy your Mac after setup
+
+Note: BootX64.efi needs to be selected when setting EFI boot, if BootX64.efi does not work, select OpenCore.efi in the OC folder
 
 
 ## Post-installation operations
