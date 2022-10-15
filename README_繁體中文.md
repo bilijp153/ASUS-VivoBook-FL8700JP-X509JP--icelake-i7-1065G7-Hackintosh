@@ -120,6 +120,18 @@
 通過該工具的驗證序列號按鈕轉到 Apple Coverage 並輸入驗證碼（序列號已自動輸入）。
 需要“無效序列號”或“未驗證購買日期”消息才算能用。如果你得到是其他提示，必須生成 新的`SMBIOS（三碼）`並再次檢查。
 
+### 擁有白蘋果啟動
+- 下載[corpnewt](https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)
+- 按照提示安裝py
+- 完成後程序會自動下載`Windows上的Bootcamp程序`
+- 按照提示把下載來的`dmg`打開，把裡面的文件複製到Windows系統盤
+- 進入EFI的機型設置`使用OCAT或OpenCore Configurator`打開，修改機型項讓`Windows`認為你是Mac機型
+- 重啟進Windows（怎麼進Windows看[BIOS](#BIOS)）
+- 安裝Bootcamp程序
+- 按照安裝程序提示重啟，然後回`Mac`
+- 進入EFI的機型設置`使用OCAT或OpenCore Configurator`打開，修改機型項讓`Windows`不再認為你是Mac機型
+- 完成！享受白蘋果方式的啟動吧
+
 
 
 ## Bug
