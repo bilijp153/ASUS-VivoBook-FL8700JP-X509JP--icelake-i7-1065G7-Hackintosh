@@ -103,6 +103,22 @@
 注：本机网卡不支持隔空传送
 
 
+## 安装前操作
+
+### 更改BIOS设置
+该项请看[BIOS](#BIOS)
+
+### 硬盘（固态）设置
+- 确认固态为GUID格式
+- 确认固态EFI分区大于400M
+
+### 下载和安装Mac
+- 前往[![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?label=下载)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)下载EFI
+- 去黑果小兵的部落阁下载黑苹果镜像
+- 
+
+
+
 ## 安装后操作
 
 ### 更改SMBIOS（三码）
