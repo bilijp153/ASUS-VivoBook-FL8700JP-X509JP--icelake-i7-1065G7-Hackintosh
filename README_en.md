@@ -111,17 +111,17 @@ Note: The local network card does not support air transfer
 ## Post-installation operations
 
 ### Change SMBIOS (three codes)
-Use the OCAT or OpenCore Configurator (hereafter referred to as the tool) model menu to generate your unique `SMBIOS (three code)` information.
+- Use the OCAT or OpenCore Configurator (hereafter referred to as the tool) model menu to generate your unique `SMBIOS (three code)` information.
 `SMBIOS (three-code)` must be unique, you cannot use the one that exists in this `repository (EFI)`.
-Run the tool and select Generate SMBIOS.
-Use the table below to select the appropriate model for your hardware.
+- Run the tool and select Generate SMBIOS.
+- Use the table below to select the appropriate model for your hardware.
 | Brand | Model |
 |---------------|----------------------------|
 | Apple | Apple MacBook Pro 16,2 |
 | Apple | Apple MacBook Air 9,1 |
 
-Go to Apple Coverage via the tool's Verify Serial Number button and enter the verification code (the serial number is automatically entered).
-An "Invalid Serial Number" or "Purchase Date Not Verified" message is required to work. If you get other prompts, you must generate a new SMBIOS (code three) and check again.
+- Go to Apple Coverage via the tool's Verify Serial Number button and enter the verification code (the serial number is automatically entered).
+- An "Invalid Serial Number" or "Purchase Date Not Verified" message is required to work. If you get other prompts, you must generate a new SMBIOS (code three) and check again.
 
 ### Start with White Apple
 - Download [brigadier](https://github.com/corpnewt/brigadier) of [corpnewt](https://github.com/corpnewt)
