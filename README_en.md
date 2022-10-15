@@ -8,19 +8,19 @@
 
 
 ## Table of contents
-- [Language Selection (语言选择/語言選擇)](#language selection)
-- [real machine picture] (#real machine picture)
-- [download address](#download address)
-- [config](#config)
+- [Language Selection](语言选择/語言選擇)](#Language selection)
+- [Real machine picture] (#Real machine pictures)
+- [Download address](#Download address)
+- [Configure](#Configure)
 - [System Compatibility](#System Compatibility)
-- [what works and doesn't work] (#what works and doesn't work)
-- [hardware compatibility](#hardware compatibility)
-- [post-installation operation](#post-installation operation)
+- [What works and doesn't work] (#What works and doesn't work)
+- [Hardware compatibility](#Hardware compatibility)
+- [Post-installation operation](#Post-installation operation)
 - [Bug](#Bug)
 - [Main Personnel] (#Main Personnel)
 
 
-## language selection   
+## Language selection   
 - [Simplified Chinese Version](README_.md)
 - [Traditional Chinese Version](README_Traditional Chinese.md)
 
@@ -34,11 +34,11 @@
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer1.png)
 
 
-## download link
+## Download link
 
 [![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP- Hackintosh?label=download)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)
 
-## configure
+## Configure
 
 | Configuration | Model |
 |---------------|----------------------------|
@@ -140,7 +140,7 @@ An "Invalid Serial Number" or "Purchase Date Not Verified" message is required t
 
 
 
-## Main staff
+## Main Personnel
    #### Maintainer ©[Aurora](https://github.com/bilijp153), released under [license](./License).
    #### Tester [Ruohan](https://github.com/catlingyun)
    Contributed by [Aurora](https://github.com/ biijp153) written and maintained.
