@@ -5,26 +5,25 @@
 [![](https://img.shields.io/badge/電報-Aurora极光-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/Aurora_5223)
 [![](https://img.shields.io/badge/推特-極光-informational?style=flat&logo=twitter&logoColor=white&color=5fb659)](https://twitter.com/Aurora_jp123)
 
-
-## 目录
-- [语言选择（語言選擇/Language Selection）](#语言选择)
-- [实机图片](#实机图片)
-- [下载地址](#下载地址)
+## 目錄
+- [語言選擇（语言选择/Language Selection）](#語言選擇)
+- [實機圖片](#實機圖片)
+- [下載地址](#下載地址)
 - [配置](#配置)
-- [系统兼容性](#系统兼容性)
-- [什么工作和不工作](#什么工作和不工作)
+- [系統兼容性](#系統兼容性)
+- [什麼工作和不工作](#什麼工作和不工作)
 - [硬件兼容性](#硬件兼容性)
-- [安装后操作](#安装后操作)
+- [安裝後操作](#安裝後操作)
 - [Bug](#Bug)
-- [主要人员](#主要人员)
+- [主要人員](#主要人員)
 
 
-## 语言选择   
+## 語言選擇   
 - [簡體中文版本](README.md) 
 - [English Version](README_en.md)
 
 
-## 实机图片
+## 實機圖片
 
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer4.png)
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer.png)
@@ -32,24 +31,24 @@
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer1.png)
 
 
-## 下载地址
+## 下載地址
 
-[![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?label=下载)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)
+[![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?label=下載)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)
 
 ## 配置
 
-|    配置       |        型号                 |
+|    配置       |        型號                 |
 |--------------|-----------------------------|
-|    处理器     |          i7-1065G7          |
-|     核显      |    Intel lris Plus Graphics G7    |
-|     独显      |      MX330（已屏蔽）    |
-|     内存      |     8GB+4GB DDR4        |
-|     硬盘      |       西数 512G SSD        |
-|     声卡      |       Realtek ALC256        |
-|   无线网卡     |        Intel Wireless-AC 9461      |
-|   触摸板     |        ELAN1200      |
+|    處理器     |          i7-1065G7          |
+|     核顯      |    Intel lris Plus Graphics G7    |
+|     獨顯      |      MX330（已屏蔽）    |
+|     內存      |     8GB+4GB DDR4        |
+|     硬盤      |       西數 512G SSD        |
+|     聲卡      |       Realtek ALC256        |
+|   無線網卡     |        Intel Wireless-AC 9461      |
+|   觸摸板     |        ELAN1200      |
 
-## 系统兼容性
+## 系統兼容性
 
   - Catalina (10.15.7)
   - Big Sur (11.x)
@@ -57,89 +56,89 @@
   - Ventura (13.x)
 
 
-## 什么工作和不工作
+## 什麼工作和不工作
 - [x] Type-C
 - [x] USB接口
-- [x] 读卡器
+- [x] 讀卡器
 - [x] Intel lris Plus Graphics G7
-- [x] 声卡`ALC256`（alcid=5）
-- [x] 耳机接口
-- [x] 麦克风
+- [x] 聲卡`ALC256`（alcid=5）
+- [x] 耳機接口
+- [x] 麥克風
 - [x] WiFi
-- [X] 蓝牙
-- [x] 电池
-- [x] 触控板（GPIO中断）
-- [x] 睡眠和唤醒
-- [x] 白果的Windows上的启动助理（Windows上需下载额外软件）
+- [X] 藍牙
+- [x] 電池
+- [x] 觸控板（GPIO中斷）
+- [x] 睡眠和喚醒
+- [x] 白果的Windows上的啟動助理（Windows上需下載額外軟件）
 - [ ] MX330
-- [ ] HDMI（十代处理器已被苹果公司去除HDMI支持，故不能使用）
+- [ ] HDMI（十代處理器已被蘋果公司去除HDMI支持，故不能使用）
 
 
 ## 硬件兼容性
 
 ### CPU
-本机搭载的是10mm的[Intel Core Ice Lake i7-1065G7 处理器](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
+本機搭載的是10mm的[Intel Core Ice Lake i7-1065G7 處理器](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
 
 ### GPU
-| **型号**  | **兼容性?**               |
+| **型號**  | **兼容性?**               |
 | ---------- | ----------------------------- |
 | Nvidia     | 不兼容        |
-| Intel 核显        | 兼容 |
+| Intel 核顯        | 兼容 |
 
-注：本机的Intel 核显 ID为 0x8A5C8083
+注：本機的Intel 核顯 ID為 0x8A5C8083
 
 ### BIOS
 
-- 需关闭`SecureBoot`和`FastBoot`
-- 硬盘模式要修改为`AHCI`
-- DVMT要修改为`64M`
+- 需關閉`SecureBoot`和`FastBoot`
+- 硬盤模式要修改為`AHCI`
+- DVMT要修改為`64M`
 
-注：本机NVRAM在Mac下能正常使用，通过OC引导界面按`Ctrl+Enter`或 `Mac 的偏好设置-启动磁盘（Ventura下为系统设置-通用-启动磁盘）`选择默认启动盘。
+注：本機NVRAM在Mac下能正常使用，通過OC引導界面按`Ctrl+Enter`或 `Mac 的偏好設置-啟動磁盤（Ventura下為系統設置-通用-啟動磁盤）`選擇默認啟動盤。
 
-### 声卡
-本机搭载声卡是`Realtek ALC256`，且拥有Intel的智音技术
+### 聲卡
+本機搭載聲卡是`Realtek ALC256`，且擁有Intel的智音技術
 
-### 网卡和蓝牙
-本机搭载的网卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
-蓝牙为5.0
+### 網卡和藍牙
+本機搭載的網卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
+藍牙為5.0
 
-注：本机网卡不支持隔空传送
+注：本機網卡不支持隔空傳送
 
 
-## 安装后操作
+## 安裝後操作
 
-### 更改SMBIOS（三码）
-使用OCAT或OpenCore Configurator（下称该工具）的机型菜单生成您唯一的`SMBIOS（三码）`信息。
-`SMBIOS（三码）` 必须是唯一的，您不能使用此`存储库(EFI)`中存在的一个。
-运行该工具并选择生成 SMBIOS。
-使用下表为您的硬件选择合适的型号。
-|    品牌       |        型号                 |
+### 更改SMBIOS（三碼）
+使用OCAT或OpenCore Configurator（下稱該工具）的機型菜單生成您唯一的`SMBIOS（三碼）`信息。
+`SMBIOS（三碼）` 必須是唯一的，您不能使用此`存儲庫(EFI)`中存在的一個。
+運行該工具並選擇生成 SMBIOS。
+使用下表為您的硬件選擇合適的型號。
+|    品牌       |        型號                 |
 |--------------|-----------------------------|
 |    Apple     |          Apple MacBook Pro 16,2          |
 |    Apple     |          Apple MacBook Air 9,1          |
 
-通过该工具的验证序列号按钮转到 Apple Coverage 并输入验证码（序列号已自动输入）。
-需要“无效序列号”或“未验证购买日期”消息才算能用。如果你得到是其他提示，必须生成 新的`SMBIOS（三码）`并再次检查。
+通過該工具的驗證序列號按鈕轉到 Apple Coverage 並輸入驗證碼（序列號已自動輸入）。
+需要“無效序列號”或“未驗證購買日期”消息才算能用。如果你得到是其他提示，必須生成 新的`SMBIOS（三碼）`並再次檢查。
 
 
 
 ## Bug
-1.~~声音有概率`从 Windows 切换到 Mac OS`时 Mac OS 无声音 (` Windows`下的` Realtek`驱动若为` Windows`自带的HDA驱动则无此Bug）~~ （已修复）
+1.~~聲音有概率`從 Windows 切換到 Mac OS`時 Mac OS 無聲音 (` Windows`下的` Realtek`驅動若為` Windows`自帶的HDA驅動則無此Bug）~~ （已修復）
 
-2.~~睡眠~~（已修复）
+2.~~睡眠~~（已修復）
 
-3.~~电池~~ （已修复）
+3.~~電池~~ （已修復）
 
-4.~~核显间歇性开机黑屏问题~~（已修复）
+4.~~核顯間歇性開機黑屏問題~~（已修復）
 
-5.ELAN1200间接性断触（属于ELAN1200通病）
-
-
+5.ELAN1200間接性斷觸（屬於ELAN1200通病）
 
 
 
-## 主要人员
-   #### 维护人员 ©[Aurora极光](https://github.com/bilijp153)，基于[许可](./License)发布。
-   #### 测试人员  [若涵](https://github.com/catlingyun)
-   在[贡献者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的帮助下，由[Aurora极光](https://github.com/bilijp153)编写和维护。
+
+
+## 主要人員
+   #### 維護人員 ©[Aurora极光](https://github.com/bilijp153)，基於[許可](./License)發布。
+   #### 測試人員  [若涵](https://github.com/catlingyun)
+   在[貢獻者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的幫助下，由[Aurora极光](https://github.com/bilijp153)編寫和維護。
    
