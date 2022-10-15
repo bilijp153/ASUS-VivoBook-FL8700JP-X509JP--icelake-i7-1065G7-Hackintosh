@@ -99,8 +99,8 @@
 本機搭載聲卡是`Realtek ALC256`，且擁有Intel的智音技術
 
 ### 網卡和藍牙
-本機搭載的網卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
-藍牙為5.0
+-本機搭載的網卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
+-藍牙為5.0
 
 注：本機網卡不支持隔空傳送
 
