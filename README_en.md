@@ -102,8 +102,8 @@ Note: The native NVRAM can be used normally under Mac. Press `Ctrl+Enter` or `Ma
 This machine is equipped with a sound card `Realtek ALC256`, and has Intel's intelligent sound technology
 
 ### LAN and Bluetooth
-The network card installed in this machine is [Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
-Bluetooth is 5.0
+-The network card installed in this machine is [Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
+-Bluetooth is 5.0
 
 Note: The local network card does not support air transfer
 
