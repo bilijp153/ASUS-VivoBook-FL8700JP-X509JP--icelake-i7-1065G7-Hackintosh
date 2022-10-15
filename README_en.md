@@ -133,7 +133,7 @@ An "Invalid Serial Number" or "Purchase Date Not Verified" message is required t
 - Install the Bootcamp program
 - Follow the installer prompt to reboot, then go back to `Mac`
 - Enter the model settings of EFI `Use OCAT or OpenCore Configurator` to open, modify the model item so that `Windows` no longer thinks you are a Mac model
-- Finish! Enjoy the white apple way to start
+- Finish! Enjoy the boot just like real Mac
 
 
 
