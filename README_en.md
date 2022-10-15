@@ -121,8 +121,8 @@ Please see [BIOS](#BIOS)
 
 ### Download and install for Mac
 - [Download](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases) EFI
-- Go to Heiguo Xiaobing's Tribal Pavilion to download the black apple image (please see [System Compatibility](#System-Compatibility) for the downloaded version)
-- Download Etcher
+- Go to [Heiguo Xiaobing's Tribal Pavilion](https://blog.daliansky.net/) to download the black apple image (please see [System Compatibility](#System-Compatibility) for the downloaded version)
+- Download [balenaEtcher](https://www.balena.io/etcher/)
 - Use a USB disk of at least 16G to copy the downloaded Black Apple image
 - Copy the downloaded EFI file to the EFI partition of the hard drive
 - Use the software (into EasyUEFI) to create the EFI boot just copied to the EFI partition
