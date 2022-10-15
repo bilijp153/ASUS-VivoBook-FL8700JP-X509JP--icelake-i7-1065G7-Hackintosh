@@ -115,6 +115,7 @@ Note: The local network card does not support air transfer
 `SMBIOS (three-code)` must be unique, you cannot use the one that exists in this `repository (EFI)`.
 - Run the tool and select Generate SMBIOS.
 - Use the table below to select the appropriate model for your hardware.
+
 | Brand | Model |
 |---------------|----------------------------|
 | Apple | Apple MacBook Pro 16,2 |
