@@ -4,16 +4,16 @@
 [![](https://img.shields.io/badge/推特-極光-informational?style=flat&logo=twitter&logoColor=white&color=5fb659)](https://twitter.com/Aurora_jp123)
 
 ## 目录
-- [语言选择（語言選擇/Language Selection）](## 语言选择（語言選擇/Language Selection）)
-- [实机图片](## 实机图片)
-- [下载地址](## 下载地址)
-- [配置](## 配置)
-- [系统兼容性](## 系统兼容性)
-- [什么工作和不工作](## 什么工作和不工作)
-- [硬件兼容性](## 硬件兼容性)
-- [安装后操作](## 安装后操作)
-- [Bug](## Bug)
-- [主要人员](## 主要人员)
+- [语言选择（語言選擇/Language Selection）](#语言选择（語言選擇/Language Selection）)
+- [实机图片](#实机图片)
+- [下载地址](#下载地址)
+- [配置](#配置)
+- [系统兼容性](#系统兼容性)
+- [什么工作和不工作](#什么工作和不工作)
+- [硬件兼容性](#硬件兼容性)
+- [安装后操作](#安装后操作)
+- [Bug](#Bug)
+- [主要人员](#主要人员)
 
 
 ## 语言选择（語言選擇/Language Selection）   
