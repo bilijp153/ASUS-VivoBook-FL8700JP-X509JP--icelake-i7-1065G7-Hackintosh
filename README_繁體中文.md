@@ -80,7 +80,7 @@
 本機搭載的是10mm的[Intel Core Ice Lake i7-1065G7 處理器](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
 
 ### GPU
-| **型號**  | **兼容性?**               |
+| **型號**  | **兼容性**               |
 | ---------- | ----------------------------- |
 | Nvidia     | 不兼容        |
 | Intel 核顯        | 兼容 |
