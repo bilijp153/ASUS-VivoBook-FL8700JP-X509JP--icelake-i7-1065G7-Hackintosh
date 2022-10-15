@@ -105,7 +105,7 @@
 
 ## 安装后操作
 
-###更改SMBIOS（三码）
+### 更改SMBIOS（三码）
 使用OCAT或OpenCore Configurator（下称该工具）的机型菜单生成您唯一的`SMBIOS（三码）`信息。
 `SMBIOS（三码）` 必须是唯一的，您不能使用此`存储库(EFI)`中存在的一个。
 运行该工具并选择生成 SMBIOS。
