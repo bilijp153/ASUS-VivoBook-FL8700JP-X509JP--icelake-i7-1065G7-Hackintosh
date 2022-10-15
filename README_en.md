@@ -83,7 +83,7 @@
 This machine is equipped with a 10mm [Intel Core Ice Lake i7-1065G7 Processor](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
 
 ### GPU
-| **Model** | **Compatibility?** |
+| **Model** | **Compatibility** |
 | ---------- | ----------------------------- |
 | Nvidia | Incompatible |
 | Intel Core Graphics | Compatible |
