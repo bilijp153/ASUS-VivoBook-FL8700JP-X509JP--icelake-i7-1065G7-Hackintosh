@@ -1,17 +1,27 @@
-## MacOS Catalina/Big Sur/Monterey/Ventura for ASUS VivoBook FL8700JP
-
 [![](https://img.shields.io/badge/存储库-Aurora极光-informational?style=flat&logo=github&logoColor=white&color=9debeb)](https://github.com/bilijp153?tab=repositories)
 [![img](https://img.shields.io/github/stars/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?color=ff69b4&label=点赞&logoColor=ff69b4&style=social)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh) [![img](https://img.shields.io/github/followers/bilijp153.svg?label=粉丝&logoColor=success&style=social)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh) ![img](https://img.shields.io/github/contributors/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?color=red&label=%E8%B4%A1%E7%8C%AE%E4%BA%BA%E6%95%B0) [![img](https://img.shields.io/github/last-commit/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?color=orange&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh)
 [![](https://img.shields.io/badge/电报-Aurora极光-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/Aurora_5223)
 [![](https://img.shields.io/badge/推特-極光-informational?style=flat&logo=twitter&logoColor=white&color=5fb659)](https://twitter.com/Aurora_jp123)
 
+##目录
+- [语言选择（語言選擇/Language Selection）](#语言选择（語言選擇/Language Selection）)
+- [实机图片](#实机图片)
+- [下载地址](#下载地址)
+- [配置](#配置)
+- [系统兼容性](#系统兼容性)
+- [什么工作和不工作](#什么工作和不工作)
+- [硬件兼容性](#硬件兼容性)
+- [安装后操作](#安装后操作)
+- [Bug](#Bug)
+- [主要人员](#主要人员)
 
 
-## [English Version](README_en.md)   
-## [繁體中文版本](README_繁體中文.md) 
+#语言选择（語言選擇/Language Selection）   
+[繁體中文版本](README_繁體中文.md) 
+[English Version](README_en.md)
 
 
-## 机型图片
+#实机图片
 
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer4.png)
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer.png)
@@ -19,22 +29,11 @@
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer1.png)
 
 
-## 下载地址
+#下载地址
 
 [![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?label=下载)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)
 
-# BIOS设置：
-
-- 关闭`SecureBoot`
-
-- 关闭`FastBoot`
-
-- 硬盘模式修改为`AHCI`
-
-- DVMT修改为`64M`
-
-
-## 配置：
+#配置
 
 |    配置       |        型号                 |
 |--------------|-----------------------------|
@@ -47,20 +46,19 @@
 |   无线网卡     |        Intel Wireless-AC 9461      |
 |   触摸板     |        ELAN1200      |
 
-|             |                           |
-|--------------|-----------------------------|
-|   Mac模拟机型     |        MacBookAir 9,1      |
-|   支持安装版本（已做测试）     |        Mac OS Catalina 10.15.6 ~ Mac OS Ventura 13 Beta 11    |
+#系统兼容性
+
+  - Catalina (10.15.7)
+  - Big Sur (11.x)
+  - Monterey (12.x)
+  - Ventura (13.x)
 
 
-
-
-## 什么工作和不工作
+#什么工作和不工作
 - [x] Type-C
 - [x] USB接口
 - [x] 读卡器
 - [x] Intel lris Plus Graphics G7
-- [ ] MX330
 - [x] 声卡`ALC256`（alcid=5）
 - [x] 耳机接口
 - [x] 麦克风
@@ -70,10 +68,59 @@
 - [x] 触控板（GPIO中断）
 - [x] 睡眠和唤醒
 - [x] 白果的Windows上的启动助理（Windows上需下载额外软件）
+- [ ] MX330
 - [ ] HDMI（十代处理器已被苹果公司去除HDMI支持，故不能使用）
 
 
-## Bug
+#硬件兼容性
+
+###CPU
+本机搭载的是10mm的[Intel Core Ice Lake i7-1065G7 处理器](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
+
+###GPU
+| **型号**  | **兼容性?**               |
+| ---------- | ----------------------------- |
+| Nvidia     | 不兼容        |
+| Intel 核显        | 兼容 |
+
+注：本机的Intel 核显 ID为 0x8A5C8083
+
+###BIOS
+
+- 需关闭`SecureBoot`和`FastBoot`
+- 硬盘模式要修改为`AHCI`
+- DVMT要修改为`64M`
+
+注：本机NVRAM在Mac下能正常使用，通过OC引导界面按`Ctrl+Enter`或 `Mac 的偏好设置-启动磁盘（Ventura下为系统设置-通用-启动磁盘）`选择默认启动盘。
+
+###声卡
+本机搭载声卡是`Realtek ALC256`，且拥有Intel的智音技术
+
+###网卡和蓝牙
+本机搭载的网卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
+蓝牙为5.0
+
+注：本机网卡不支持隔空传送
+
+
+#安装后操作
+
+###更改SMBIOS（三码）
+使用OCAT或OpenCore Configurator（下称该工具）的机型菜单生成您唯一的`SMBIOS（三码）`信息。
+`SMBIOS（三码）` 必须是唯一的，您不能使用此`存储库(EFI)`中存在的一个。
+运行该工具并选择生成 SMBIOS。
+使用下表为您的硬件选择合适的型号。
+|    品牌       |        型号                 |
+|--------------|-----------------------------|
+|    Apple     |          Apple MacBook Pro 16,2          |
+|    Apple     |          Apple MacBook Air 9,1          |
+
+通过该工具的验证序列号按钮转到 Apple Coverage 并输入验证码（序列号已自动输入）。
+需要“无效序列号”或“未验证购买日期”消息才算能用。如果你得到是其他提示，必须生成 新的`SMBIOS（三码）`并再次检查。
+
+
+
+#Bug
 1.~~声音有概率`从 Windows 切换到 Mac OS`时 Mac OS 无声音 (` Windows`下的` Realtek`驱动若为` Windows`自带的HDA驱动则无此Bug）~~ （已修复）
 
 2.~~睡眠~~（已修复）
@@ -86,20 +133,9 @@
 
 
 
-## 注意事项
-下载的EFI请替换其中的三码后再使用，防止出现冲突。   
-
-#### 安装黑苹果请确认`Windows`上的声卡驱动为`官方默认`或现在流行的第三方的`Dolby驱动`
-
-#### 本机NVRAM在Mac下能正常使用，通过OC引导界面按`Ctrl+Enter`选择默认启动盘。
 
 
-
-
-## 主要人员
+#主要人员
    #### 维护人员 ©[Aurora极光](https://github.com/bilijp153)，基于[许可](./License)发布。
    #### 测试人员  [若涵](https://github.com/catlingyun)
    在[贡献者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的帮助下，由[Aurora极光](https://github.com/bilijp153)编写和维护。
-   > GitHub [@Aurora极光](https://github.com/bilijp153) · Twitter [@極光](https://twitter.com/Aurora_jp123) · Telegram Channel [@Aurora 极光](https://t.me/Aurora_5223)
-
-   
