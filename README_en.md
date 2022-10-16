@@ -123,7 +123,7 @@ Please see [BIOS](#BIOS)
 ### Download and install for Mac
 - [Download](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases) EFI
 - Go to [Heiguo Xiaobing's Tribal Pavilion](https://blog.daliansky.net/) to download the black apple image (please see [System Compatibility](#System-Compatibility) for the downloaded version)
-- Download [balenaEtcher](https://www.balena.io/etcher/)
+- Download balenaEtcher
 - Use a USB disk of at least 16G to copy the downloaded Black Apple image
 - Copy the downloaded EFI file to the EFI partition of the hard drive
 - Use the software (into EasyUEFI) to create the EFI boot just copied to the EFI partition
@@ -188,3 +188,8 @@ Note: BootX64.efi needs to be selected when setting EFI boot, if BootX64.efi doe
    #### Maintainer ©[Aurora](https://github.com/bilijp153), released under [license](./License).
    #### Tester [Ruohan](https://github.com/catlingyun)
    Contributed by [Aurora](https://github.com/bilijp153) written and maintained.
+   
+   
+   ## grateful
+    - [[Heiguo Xiaobing's Tribal Pavilion](https://blog.daliansky.net/)--Black Apple Download Mirror
+    - [brigadier](https://github.com/corpnewt/brigadier) of [corpnewt](https://github.com/corpnewt) -- real Mac boot tool
