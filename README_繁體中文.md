@@ -120,7 +120,7 @@
 ### 下載和安裝Mac
 - [下載](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)EFI
 - 去黑[果小兵的部落閣](https://blog.daliansky.net/)下載黑蘋果鏡像(下載的版本請看[系統兼容性](#系統兼容性)）
-- 下載[balenaEtcher](https://www.balena.io/etcher/)
+- 下載balenaEtcher
 - 使用至少16G大小的U盤拷錄下載的黑蘋果鏡像
 - 把下載的EFI文件複製到硬盤的EFI分區
 - 使用軟件（入EasyUEFI）建立剛複製到EFI分區的的EFI引導
@@ -185,4 +185,9 @@
    #### 維護人員 ©[Aurora极光](https://github.com/bilijp153)，基於[許可](./License)發布。
    #### 測試人員  [若涵](https://github.com/catlingyun)
    在[貢獻者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的幫助下，由[Aurora极光](https://github.com/bilijp153)編寫和維護。
+   
+   
+   ## 感謝
+   - [黑果小兵的部落閣](https://blog.daliansky.net/)--黑蘋果下載鏡像
+   - [corpnewt](https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)--白果啟動方式工具
    
