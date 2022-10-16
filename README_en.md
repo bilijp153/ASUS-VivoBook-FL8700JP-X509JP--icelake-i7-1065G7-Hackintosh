@@ -20,6 +20,7 @@
 - [Post-installation operations](#Post-installation-operations)
 - [Bugs](#Bugs)
 - [Main Personnel](#Main-Personnel)
+- [Thanks](#Thanks)
 
 
 ## Language selection   
@@ -190,6 +191,6 @@ Note: BootX64.efi needs to be selected when setting EFI boot, if BootX64.efi doe
    Contributed by [Aurora](https://github.com/bilijp153) written and maintained.
    
    
-   ## grateful
+   ## Thanks
     - [[Heiguo Xiaobing's Tribal Pavilion](https://blog.daliansky.net/)--Black Apple Download Mirror
     - [brigadier](https://github.com/corpnewt/brigadier) of [corpnewt](https://github.com/corpnewt) -- real Mac boot tool
