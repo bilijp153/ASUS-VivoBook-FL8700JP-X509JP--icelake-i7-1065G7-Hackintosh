@@ -118,7 +118,7 @@
 ### 下载和安装Mac
 - [下载](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)EFI
 - 去[黑果小兵的部落阁](https://blog.daliansky.net/)下载黑苹果镜像(下载的版本请看[系统兼容性](#系统兼容性)）
-- 下载[balenaEtcher](https://www.balena.io/etcher/)
+- 下载balenaEtcher
 - 使用至少16G大小的U盘拷录下载的黑苹果镜像
 - 把下载的EFI文件复制到硬盘的EFI分区
 - 使用软件（入EasyUEFI）建立刚复制到EFI分区的的EFI引导
@@ -177,10 +177,13 @@
 5.ELAN1200间接性断触（属于ELAN1200通病）
 
 
-
-
-
 ## 主要人员
    #### 维护人员 ©[Aurora极光](https://github.com/bilijp153)，基于[许可](./License)发布。
    #### 测试人员  [若涵](https://github.com/catlingyun)
    在[贡献者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的帮助下，由[Aurora极光](https://github.com/bilijp153)编写和维护。
+   
+   
+   ## 感谢
+   [黑果小兵的部落阁](https://blog.daliansky.net/)--黑苹果下载镜像
+   [corpnewt](https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)--白果启动方式工具
+   
