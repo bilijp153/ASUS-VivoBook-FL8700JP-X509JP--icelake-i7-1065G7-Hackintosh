@@ -185,6 +185,6 @@
    
    
    ## 感谢
-   - [黑果小兵的部落阁](https://blog.daliansky.net/)--黑苹果下载镜像
+   - [黑果小兵的部落阁](https://blog.daliansky.net/)--黑苹果镜像下载网站
    - [corpnewt](https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)--白果启动方式工具
    
