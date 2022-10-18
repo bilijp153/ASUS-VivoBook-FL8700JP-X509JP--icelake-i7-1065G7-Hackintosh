@@ -30,10 +30,7 @@
 - Uploaded DSDT
 
 ### v1.5 April 29, 2022
-- Fixed sleep (if there is a problem with sleep go to Hackintool's power and click a screwdriver to fix it)
-- Before the upgrade, you need to open AirportitlwmCla.text to upgrade the system. Before the upgrade, you need to close AirportitlwmCla.text and open AirportitlwmMen.text to ensure that Mac OS 12 has Internet access
 - OpenCore boot version upgraded to `0.8.0`
-- This EFI only supports Mac OS 12 and can be used as 10.15.7 upgrade 12
 
 ### v1.4 March 13, 2022
 #### This version has technical problems and is urgently removed from the shelf. Please wait for the repair to be completed and it will be put on the shelves again.
