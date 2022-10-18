@@ -194,4 +194,4 @@ Note: BootX64.efi needs to be selected when setting EFI boot, if BootX64.efi doe
    ## Thanks
    - [[Heiguo Xiaobing's Tribal Pavilion](https://blog.daliansky.net/)--Black Apple Mirror Download Site
    - [brigadier](https://github.com/corpnewt/brigadier) of [corpnewt](https://github.com/corpnewt) -- real Mac boot tool
-   - [daliansky](https://github.com/daliansky)[Hackintosh](https://github.com/daliansky/Hackintosh)--Add my model to guide to increase my EFI popularity
+   - [daliansky](https://github.com/daliansky) of [Hackintosh](https://github.com/daliansky/Hackintosh)--Add my model to guide to increase my EFI popularity
