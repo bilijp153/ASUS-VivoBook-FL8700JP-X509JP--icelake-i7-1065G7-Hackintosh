@@ -91,7 +91,7 @@ This machine is equipped with a 10mm [Intel Core Ice Lake i7-1065G7 Processor](h
 | Nvidia | Incompatible |
 | Intel Core Graphics | Compatible |
 
-Note: The Intel Core Display ID of this machine is 0x8A5C8083
+Note: The Intel Core Display ID of this machine is 0x8A50002
 
 ###BIOS
 
