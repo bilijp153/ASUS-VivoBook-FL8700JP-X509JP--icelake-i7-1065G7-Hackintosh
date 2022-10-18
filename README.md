@@ -187,5 +187,5 @@
    ## 感谢
    - [黑果小兵的部落阁](https://blog.daliansky.net/)--黑苹果镜像下载网站
    - [corpnewt](https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)--白果启动方式工具
-   - [daliansky](https://github.com/daliansky](https://github.com/daliansky/Hackintosh)--加入我机型引导增加我EFI知名度
+   - [daliansky](https://github.com/daliansky)的[Hackintosh](https://github.com/daliansky/Hackintosh)--加入我机型引导增加我EFI知名度
    
