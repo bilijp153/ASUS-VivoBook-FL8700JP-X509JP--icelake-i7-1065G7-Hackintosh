@@ -1,5 +1,11 @@
 ## Changelog
 
+### v2.0 October 18, 2022
+- Updated with new backgrounds to match MacOS 13
+- Upgrade OpenCore to 0.8.6 development version
+
+**Note:this version only supports MacOS 13 beta, users using MacOS 12 please use v1.9**
+
 ### v1.9 August 23, 2022
 - Updated OpenCore background to mica background
 - Customized AppleALC
