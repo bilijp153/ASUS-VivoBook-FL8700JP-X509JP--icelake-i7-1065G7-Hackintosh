@@ -15,7 +15,7 @@
 - Guided update to the official version of OpenCore0.8.2
 - Modify the touchpad to GPIO interrupt mode
 - Fixed the silent problem of restarting from win to Mac `The sound card driver for win needs to be updated to a non-win version driver, that is, the official version of Realtek is used`
-- This version only supports the 12 system (the 15.X and 11 versions will not be booted in the future)
+- This version only supports the 12 system (the 15.X and 11 versions will no longer be supported )
 - If you need to upgrade 13 Beta, please manually upgrade OpenCore 0.8.3 Beta and wifi driver and then update 13 Beta
 
 ### v1.7 June 5, 2022
