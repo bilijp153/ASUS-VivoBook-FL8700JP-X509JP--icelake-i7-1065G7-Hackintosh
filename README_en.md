@@ -75,7 +75,7 @@
 - [x] batteries
 - [x] trackpad (GPIO interrupt)
 - [x] Sleep and Wake
-- [x] Ginkgo's Startup Assistant on Windows (additional software download required on Windows)
+- [x] Mac Boot Assistant on Windows (additional software download required on Windows)
 - [ ] MX330
 - [ ] HDMI (The 10th generation processor has been removed from HDMI support by Apple, so it cannot be used)
 
