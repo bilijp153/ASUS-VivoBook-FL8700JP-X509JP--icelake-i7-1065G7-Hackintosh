@@ -86,7 +86,7 @@
 | Nvidia     | 不兼容        |
 | Intel 核顯        | 兼容 |
 
-注：本機的Intel 核顯 ID為 0x8A50002
+注：本機的Intel 核顯 ID為 0x8A530002
 
 ### BIOS
 
