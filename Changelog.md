@@ -1,7 +1,7 @@
 ## Changelog
 
 ### v2.0.1 October 27, 2022
-- Update wallpapers again
+- Update Opencore Boot wallpapers again
 - kext upgrade to new version
 - For MacOS Monterey users, please go to config to enable `AirportItlwm-Monterey.kext` and disable `AirportItlwm.kext` to ensure WiFi
 - This version supports MacOS Ventura
