@@ -111,7 +111,7 @@
 
 ### Type-C
 
-#### Type-C功能
+### Type-C功能
 
 - [x] Type-C网口
 - [x] 扩展USB和SD卡接口
