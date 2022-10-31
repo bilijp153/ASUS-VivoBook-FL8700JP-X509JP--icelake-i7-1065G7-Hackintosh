@@ -151,7 +151,7 @@ The built-in keyboard of this machine is a PS2 keyboard
 ##### Keyboard functions
 - [x] Use of English area and numeric keypad
 - [x] Use of FN function
-- [x] On light for keyboard caps keys
+- [x] On light for keyboard CAPSLK
 - [x] Mac shortcuts
 
 Note: Some function keys of FN are dedicated to the software on Windows, and have no response on Mac
