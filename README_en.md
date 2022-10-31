@@ -106,8 +106,21 @@ The Ice Lake processor has been removed from HDMI support by Apple, so it cannot
 
 Note: The native NVRAM can be used normally under Mac. Press `Ctrl+Enter` or `Mac Preferences - Startup Disk (System Settings - General - Startup Disk under Ventura) through the OC boot interface to select the default startup disk.
 
-### Sound card
-This machine is equipped with a sound card `Realtek ALC256`, and has Intel's intelligent sound technology
+### Sound Card and Microphone
+This machine is equipped with a sound card `Realtek ALC256`, with Intel's intelligent sound technology
+##### Sound Card and Microphone Features
+- [x] play sound
+- [x] Mac startup sound
+- [x] Wired Headphones
+- [x] Microphone usage
+- [x] Automatic switching of devices when plugging in headphones
+- [x] USB speakers
+- [x] Switch from Windows to Mac with sound
+- [ ] HDMI Sound
+
+Note: Mac startup sound needs to go to OpenCore to open
+   
+Switching from Windows to Mac sound requires the Windows sound card driver to be a third-party driver or Windows original driver
 
 ### WiFi and Bluetooth
 -The network card installed in this machine is [Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
