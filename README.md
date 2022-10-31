@@ -41,7 +41,7 @@
 |    配置       |        型号                 |
 |--------------|-----------------------------|
 |    处理器     |          i7-1065G7          |
-|     核显      |    Intel lris Plus Graphics G7    |
+|     核显      |    Intel lris Plus Graphics    |
 |     独显      |      MX330（已屏蔽）    |
 |     内存      |     8GB+4GB DDR4        |
 |     硬盘      |       西数 512G SSD        |
@@ -61,8 +61,8 @@
 - [x] Type-C
 - [x] USB接口
 - [x] 读卡器
-- [x] Intel lris Plus Graphics G7
-- [x] 声卡`ALC256`（alcid=5）
+- [x] Intel lris Plus Graphics
+- [x] 声卡
 - [x] 耳机接口
 - [x] 麦克风
 - [x] WiFi
@@ -83,8 +83,8 @@
 ### GPU
 | **型号**  | **兼容性**               |    **HDMI**               |     **DP**     |
 | ---------- | -----------------------|---------------------------|----------------|
-| Nvidia     | 不兼容        |    -   |        -    |
-| Intel 核显        | 兼容 |    不支持   |    支持      |
+| Nvidia MX330     | 不兼容        |    -   |        -    |
+| Intel lris Plus Graphics G7        | 兼容 |    不支持   |    支持      |
 
 注：本机的Intel 核显 ID为 0x8A530002
     该核显支持DP但是本机没有DP接口
