@@ -86,7 +86,7 @@
 | Nvidia MX330     | 不兼容        |    -   |        -    |
 | Intel lris Plus Graphics G7        | 兼容 |    不支持   |    支持      |
 
-注：本机的Intel 核显 ID为 0x8A530002
+注:本机的Intel 核显 ID为 0x8A530002
 
    该核显支持DP但是本机没有DP接口
 
@@ -98,7 +98,7 @@
 - 硬盘模式要修改为`AHCI`
 - DVMT要修改为`64M`
 
-注：本机NVRAM在Mac下能正常使用，通过OC引导界面按`Ctrl+Enter`或 `Mac 的偏好设置-启动磁盘（Ventura下为系统设置-通用-启动磁盘）`选择默认启动盘。
+注:本机NVRAM在Mac下能正常使用，通过OC引导界面按`Ctrl+Enter`或 `Mac 的偏好设置-启动磁盘（Ventura下为系统设置-通用-启动磁盘）`选择默认启动盘。
 
 ### 声卡
 本机搭载声卡是`Realtek ALC256`，且拥有Intel的智音技术
@@ -107,7 +107,7 @@
 - 本机搭载的网卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
 - 蓝牙为5.0
 
-注：本机网卡不支持隔空传送
+注:本机网卡不支持隔空传送
 
 ### Type-C
 
@@ -120,7 +120,7 @@
 - [ ] 显卡坞
 - [ ] 充电
 
-注：本机的Type-C是接在USB接口上而不是PCI接口上，固不支持一些功能
+注:本机的Type-C是接在USB接口上而不是PCI接口上，固不支持一些功能
 
 ## 安装前操作
 
