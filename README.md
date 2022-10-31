@@ -51,11 +51,13 @@
 
 ## 系统兼容性
 
-  - Catalina (10.15.7)
-  - Big Sur (11.x)
-  - Monterey (12.x)
-  - Ventura (13.x)
+  - [ ] Mojave和之前的版本 
+  - [x] Catalina 
+  - [x] Big Sur 
+  - [x] Monterey 
+  - [x] Ventura 
 
+注:Catalina从10.15.4版本起支持
 
 ## 什么工作和不工作
 - [x] Type-C
