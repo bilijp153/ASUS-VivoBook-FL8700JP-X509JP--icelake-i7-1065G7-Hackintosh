@@ -70,7 +70,7 @@
 - [x] 电池
 - [x] 触控板（GPIO中断）
 - [x] 睡眠和唤醒
-- [x] 白果Windows上的启动助理（Windows上需下载额外软件）
+- [x] BootCamp
 - [ ] MX330
 - [ ] HDMI
 
