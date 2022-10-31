@@ -86,13 +86,17 @@
 This machine is equipped with a 10mm [Intel Core Ice Lake i7-1065G7 Processor](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
 
 ### GPU
-| **Model** | **Compatibility** |
-| ---------- | ----------------------------- |
-| Nvidia | Incompatible |
-| Intel Core Graphics | Compatible |
+| **Model** | **Compatibility** | **HDMI** | **DP** |
+| ---------- | -----------------------|------------- -------------|----------------|
+| Nvidia MX330 | Incompatible | - | - |
+| Intel lris Plus Graphics G7 | Compatible | Not Supported | Supported |
 
-Note: The Intel Core Display ID of this machine is 0x8A530002
+Note: The Intel core display ID of this machine is 0x8A530002
 
+    The nuclear display supports DP but the machine does not have a DP interface
+
+    The Ice Lake processor has been removed from HDMI support by Apple, so it cannot be used
+    
 ###BIOS
 
 - `SecureBoot` and `FastBoot` need to be turned off
@@ -110,6 +114,18 @@ This machine is equipped with a sound card `Realtek ALC256`, and has Intel's int
 
 Note: The local network card does not support air transfer
 
+###Type-C
+
+##### Type-C Features
+
+- [x] Type-C network port
+- [x] Extended USB and SD card ports
+- [ ] DP
+- [ ] DP to HDMI
+- [ ] Graphics Dock
+- [ ] Charge
+
+Note: The Type-C of this machine is connected to the USB interface instead of the PCI interface, and some functions are not supported.
 
 ## Pre-installation operations
 
