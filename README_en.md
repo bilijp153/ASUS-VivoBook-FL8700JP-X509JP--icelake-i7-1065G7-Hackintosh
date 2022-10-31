@@ -44,7 +44,7 @@
 | Configuration | Model |
 |---------------|----------------------------|
 | Processor | i7-1065G7 |
-| Graphics | Intel lris Plus Graphics G7 |
+| Graphics | Intel lris Plus Graphics|
 | Independent display | MX330 (blocked) |
 | Memory | 8GB+4GB DDR4 |
 | Hard Disk | Western Digital 512G SSD |
@@ -66,18 +66,18 @@ Note: Catalina is supported since 10.15.4
 - [x] Type-C
 - [x] USB ports
 - [x] Card Reader
-- [x] Intel lris Plus Graphics G7
-- [x] sound card `ALC256` (alcid=5)
-- [x] headphone jack
-- [x] microphones
+- [x] Intel lris Plus Graphics
+- [x] Sound card
+- [x] Headphone jack
+- [x] Microphones
 - [x] WiFi
 - [X] Bluetooth
-- [x] batteries
-- [x] trackpad (GPIO interrupt)
+- [x] Batteries
+- [x] Trackpad (GPIO interrupt)
 - [x] Sleep and Wake
-- [x] Mac Boot Assistant on Windows (additional software download required on Windows)
+- [x] BootCamp
 - [ ] MX330
-- [ ] HDMI (The 10th generation processor has been removed from HDMI support by Apple, so it cannot be used)
+- [ ] HDMI
 
 
 ## Hardware Compatibility
