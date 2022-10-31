@@ -29,7 +29,7 @@
 
 
 
-## Real machine pictures
+## Machine pictures
 
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer4.png)
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer.png)
@@ -94,9 +94,9 @@ This machine is equipped with a 10mm [Intel Core Ice Lake i7-1065G7 Processor](h
 
 Note: The Intel core display ID of this machine is 0x8A530002
 
-      The nuclear display supports DP but the machine does not have a DP interface
+The nuclear display supports DP but the machine does not have a DP interface
 
-      The Ice Lake processor has been removed from HDMI support by Apple, so it cannot be used
+The Ice Lake processor has been removed from HDMI support by Apple, so it cannot be used
     
 ### BIOS
 
