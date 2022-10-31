@@ -109,7 +109,14 @@
 - 本機搭載的網卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
 - 藍牙為5.0
 
-注：本機網卡不支持隔空傳送
+##### WiFi和藍牙功能
+- [x] WiFi連接（2.4G/5G）
+- [x] iPhone和安卓的熱點連接
+- [x] Apple Watch解鎖
+- [x] 通用控制
+- [x] 藍牙連接
+- [x] 藍牙文件傳輸
+- [ ] 隔空投送
 
 ### Type-C
 
@@ -123,6 +130,17 @@
 - [ ] 充電
 
 注:本機的Type-C是接在USB接口上而不是PCI接口上，固不支持一些功能
+
+### 觸摸板
+本機觸摸板為ELAN1200
+
+##### 觸摸板功能
+- [x] 多指操作
+- [x] 自由滑動
+- [x] 流暢滾動
+- [x] Mac手勢
+
+注:本機觸摸板存在死機現象，需重啟或睡眠再喚醒解決
 
 ## 安裝前操作
 
