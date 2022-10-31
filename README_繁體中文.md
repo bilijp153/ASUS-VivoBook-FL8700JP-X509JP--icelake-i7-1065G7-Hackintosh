@@ -41,7 +41,7 @@
 |    配置       |        型號                 |
 |--------------|-----------------------------|
 |    處理器     |          i7-1065G7          |
-|     核顯      |    Intel lris Plus Graphics G7    |
+|     核顯      |    Intel lris Plus Graphics|
 |     獨顯      |      MX330（已屏蔽）    |
 |     內存      |     8GB+4GB DDR4        |
 |     硬盤      |       西數 512G SSD        |
@@ -64,19 +64,18 @@
 - [x] Type-C
 - [x] USB接口
 - [x] 讀卡器
-- [x] Intel lris Plus Graphics G7
-- [x] 聲卡`ALC256`（alcid=5）
+- [x] Intel lris Plus Graphics
+- [x] 聲卡
 - [x] 耳機接口
 - [x] 麥克風
 - [x] WiFi
 - [X] 藍牙
 - [x] 電池
-- [x] 觸控板（GPIO中斷）
+- [x] 觸控板
 - [x] 睡眠和喚醒
-- [x] 白果Windows上的啟動助理（Windows上需下載額外軟件）
+- [x] BootCamp
 - [ ] MX330
-- [ ] HDMI（十代處理器已被蘋果公司去除HDMI支持，故不能使用）
-
+- [ ] HDMI
 
 ## 硬件兼容性
 
