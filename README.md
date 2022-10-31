@@ -114,7 +114,7 @@
 - [x] Windows切换到Mac有声
 - [ ] HDMI声音
 
-注：Mac启动声音需去OpenCore开启
+注：Mac启动声音需去`config.plist`开启
    
    Windows切换到Mac有声需Windows的声卡驱动为第三方的驱动或Windows原版驱动
    
