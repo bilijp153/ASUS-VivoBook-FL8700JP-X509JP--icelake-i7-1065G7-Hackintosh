@@ -93,10 +93,11 @@ This machine is equipped with a 10mm [Intel Core Ice Lake i7-1065G7 Processor](h
 
 
 Note: The Intel core display ID of this machine is 0x8A530002
+
 The nuclear display supports DP but the machine does not have a DP interface
 The Ice Lake processor has been removed from HDMI support by Apple, so it cannot be used
     
-###BIOS
+### BIOS
 
 - `SecureBoot` and `FastBoot` need to be turned off
 - The hard disk mode should be changed to `AHCI`
@@ -104,16 +105,16 @@ The Ice Lake processor has been removed from HDMI support by Apple, so it cannot
 
 Note: The native NVRAM can be used normally under Mac. Press `Ctrl+Enter` or `Mac Preferences - Startup Disk (System Settings - General - Startup Disk under Ventura) through the OC boot interface to select the default startup disk.
 
-### sound card
+### Sound card
 This machine is equipped with a sound card `Realtek ALC256`, and has Intel's intelligent sound technology
 
-### LAN and Bluetooth
+### WiFi and Bluetooth
 -The network card installed in this machine is [Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
 -Bluetooth is 5.0
 
 Note: The local network card does not support air transfer
 
-###Type-C
+### Type-C
 
 ##### Type-C Features
 
