@@ -102,9 +102,22 @@
 
 注：本機NVRAM在Mac下能正常使用，通過OC引導界面按`Ctrl+Enter`或 `Mac 的偏好設置-啟動磁盤（Ventura下為系統設置-通用-啟動磁盤）`選擇默認啟動盤。
 
-### 聲卡
-本機搭載聲卡是`Realtek ALC256`，且擁有Intel的智音技術
+### 聲卡和麥克風
+本機搭載聲卡是`Realtek ALC256`，帶有Intel的智音技術
+##### 聲卡和麥克風功能
+- [x] 播放聲音
+- [x] Mac啟動聲音
+- [x] 有線耳機
+- [x] 麥克風的使用
+- [x] 插入耳機時設備的自動切換
+- [x] USB音箱
+- [x] Windows切換到Mac有聲
+- [ ] HDMI聲音
 
+注：Mac啟動聲音需去OpenCore開啟
+   
+   Windows切換到Mac有聲需Windows的聲卡驅動為第三方的驅動或Windows原版驅動
+   
 ### 網卡和藍牙
 - 本機搭載的網卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
 - 藍牙為5.0
