@@ -70,7 +70,7 @@
 - [x] WiFi
 - [X] 蓝牙
 - [x] 电池
-- [x] 触控板（GPIO中断）
+- [x] 触控板
 - [x] 睡眠和唤醒
 - [x] BootCamp
 - [ ] MX330
@@ -105,11 +105,18 @@
 ### 声卡
 本机搭载声卡是`Realtek ALC256`，且拥有Intel的智音技术
 
-### 网卡和蓝牙
+### WiFi和蓝牙
 - 本机搭载的网卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
 - 蓝牙为5.0
 
-注:本机网卡不支持隔空传送
+##### WiFi和蓝牙功能
+- [x] WiFi连接（2.4G/5G）
+- [x] iPhone和安卓的热点连接
+- [x] Apple Watch解锁
+- [x] 通用控制
+- [x] 蓝牙连接
+- [x] 蓝牙文件传输
+- [ ] 隔空投送
 
 ### Type-C
 
@@ -123,6 +130,17 @@
 - [ ] 充电
 
 注:本机的Type-C是接在USB接口上而不是PCI接口上，固不支持一些功能
+
+### 触摸板
+本机触摸板为ELAN1200
+
+##### 触摸板功能
+- [x] 多指操作
+- [x] 自由滑动
+- [x] 流畅滚动
+- [x] Mac手势
+
+注:本机触摸板存在死机现象，需重启或睡眠再唤醒解决
 
 ## 安装前操作
 
