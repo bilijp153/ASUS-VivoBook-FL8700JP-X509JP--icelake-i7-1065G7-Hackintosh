@@ -121,6 +121,7 @@ This machine is equipped with a sound card `Realtek ALC256`, and has Intel's int
 - [x] Bluetooth connection
 - [x] Bluetooth file transfer
 - [ ] AirDrop
+
 Note: The local network card does not support air transfer
 
 ### Type-C
