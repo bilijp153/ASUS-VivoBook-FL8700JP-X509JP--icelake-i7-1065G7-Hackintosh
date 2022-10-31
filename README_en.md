@@ -60,7 +60,7 @@
    - [x] Monterey
    - [x] Ventura
 
-Note: Catalina is supported since version 10.15.4
+Note: Catalina is supported since 10.15.4
 
 ## What works and what doesn't
 - [x] Type-C
