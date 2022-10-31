@@ -198,7 +198,7 @@
 - 通过该工具的验证序列号按钮转到`苹果序列号查询网站`并输入验证码（序列号已自动输入）。
 - 需要“无效序列号”或“未验证购买日期”消息才算能用。如果你得到是其他提示，必须生成 新的`SMBIOS（三码）`并再次检查。
 
-### 拥有白苹果启动
+### 使用BootCamp
 - 下载[corpnewt](https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)
 - 按照提示安装py
 - 完成后程序会自动下载`Windows上的Bootcamp程序`
