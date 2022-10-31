@@ -81,12 +81,16 @@
 本機搭載的是10mm的[Intel Core Ice Lake i7-1065G7 處理器](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
 
 ### GPU
-| **型號**  | **兼容性**               |
-| ---------- | ----------------------------- |
-| Nvidia     | 不兼容        |
-| Intel 核顯        | 兼容 |
+| **型號**  | **兼容性**               |    **HDMI**               |     **DP**     |
+| ---------- | -----------------------|---------------------------|----------------|
+| Nvidia MX330     | 不兼容        |    -   |        -    |
+| Intel lris Plus Graphics G7        | 兼容 |    不支持   |    支持      |
 
-注：本機的Intel 核顯 ID為 0x8A530002
+注:本機的Intel 核顯 ID為 0x8A530002
+
+   該核顯支持DP但是本機沒有DP接口
+
+   Ice Lake處理器已被蘋果公司去除HDMI支持，故不能使用
 
 ### BIOS
 
@@ -105,6 +109,18 @@
 
 注：本機網卡不支持隔空傳送
 
+### Type-C
+
+##### Type-C功能
+
+- [x] Type-C網口
+- [x] 擴展USB和SD卡接口
+- [ ] DP
+- [ ] DP to HDMI
+- [ ] 顯卡塢
+- [ ] 充電
+
+注:本機的Type-C是接在USB接口上而不是PCI接口上，固不支持一些功能
 
 ## 安裝前操作
 
