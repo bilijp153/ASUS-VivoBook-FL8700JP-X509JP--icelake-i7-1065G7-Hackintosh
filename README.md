@@ -72,7 +72,7 @@
 - [x] 睡眠和唤醒
 - [x] 白果Windows上的启动助理（Windows上需下载额外软件）
 - [ ] MX330
-- [ ] HDMI（十代处理器已被苹果公司去除HDMI支持，故不能使用）
+- [ ] HDMI
 
 
 ## 硬件兼容性
@@ -81,12 +81,14 @@
 本机搭载的是10mm的[Intel Core Ice Lake i7-1065G7 处理器](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
 
 ### GPU
-| **型号**  | **兼容性**               |
-| ---------- | ----------------------------- |
-| Nvidia     | 不兼容        |
-| Intel 核显        | 兼容 |
+| **型号**  | **兼容性**               |    **HDMI**               |     **DP**     |
+| ---------- | -----------------------|---------------------------|----------------|
+| Nvidia     | 不兼容        |    -   |        -    |
+| Intel 核显        | 兼容 |    不支持   |    支持      |
 
 注：本机的Intel 核显 ID为 0x8A530002
+    该核显支持DP但是本机没有DP接口
+    Ice Lake处理器已被苹果公司去除HDMI支持，故不能使用
 
 ### BIOS
 
