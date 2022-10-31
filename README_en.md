@@ -113,6 +113,14 @@ This machine is equipped with a sound card `Realtek ALC256`, and has Intel's int
 -The network card installed in this machine is [Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
 -Bluetooth is 5.0
 
+##### WiFi and Bluetooth capabilities
+- [x] WiFi connection (2.4G/5G)
+- [x] Hotspot connection for iPhone and Android
+- [x] Apple Watch unlocked
+- [x] General Controls
+- [x] Bluetooth connection
+- [x] Bluetooth file transfer
+- [ ] AirDrop
 Note: The local network card does not support air transfer
 
 ### Type-C
@@ -128,6 +136,26 @@ Note: The local network card does not support air transfer
 
 Note: The Type-C of this machine is connected to the USB interface instead of the PCI interface, and some functions are not supported.
 
+### Touchpad
+The native touchpad is ELAN1200
+
+##### Touchpad function
+- [x] Multi-finger operation
+- [x] Free Swipe
+- [x] smooth scrolling
+- [x] Mac gestures
+
+Note: The touchpad of this machine has a crash phenomenon, which needs to be restarted or woken up after sleep.
+
+### keyboard
+The built-in keyboard of this machine is a PS2 keyboard
+##### Keyboard functions
+- [x] Use of English area and numeric keypad
+- [x] Use of FN function
+- [x] On light for keyboard caps keys
+- [x] Mac shortcuts
+
+Note: Some function keys of FN are dedicated to the software on Windows, and have no response on Mac
 ## Pre-installation operations
 
 ### Change BIOS settings
