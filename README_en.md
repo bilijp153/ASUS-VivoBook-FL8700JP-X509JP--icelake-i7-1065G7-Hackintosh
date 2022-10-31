@@ -56,11 +56,13 @@
 
 ## System compatibility
 
-  - Catalina (10.15.7)
-  - Big Sur (11.x)
-  - Monterey (12.x)
-  - Ventura (13.x)
+   - [ ] Mojave and previous versions
+   - [x] Catalina
+   - [x] Big Sur
+   - [x] Monterey
+   - [x] Ventura
 
+Note: Catalina is supported since version 10.15.4
 
 ## What works and what doesn't
 - [x] Type-C
