@@ -118,7 +118,7 @@ This machine is equipped with a sound card `Realtek ALC256`, with Intel's intell
 - [x] Switch from Windows to Mac with sound
 - [ ] HDMI Sound
 
-Note: Mac startup sound needs to go to OpenCore to open
+Note: Mac startup sound needs to go to `config.plist` to open
    
 Switching from Windows to Mac sound requires the Windows sound card driver to be a third-party driver or Windows original driver
 
