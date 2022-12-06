@@ -192,7 +192,7 @@ Please see [BIOS](#BIOS)
 - Download balenaEtcher
 - Use a USB disk of at least 16G to copy the downloaded Black Apple image
 - Copy the downloaded EFI file to the EFI partition of the hard drive
-- Use the software (into EasyUEFI) to create the EFI boot just copied to the EFI partition
+- Use software (such as EasyUEFI) to create an EFI boot just copied to the EFI partition
 - Partition using Hard Disk Utility
 - Press Esc to enter the boot selection menu and select the newly created EFI boot
 - Then you will enter the OpenCore menu, select the Install item
