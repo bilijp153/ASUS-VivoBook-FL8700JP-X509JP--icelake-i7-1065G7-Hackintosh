@@ -11,7 +11,7 @@
    
    ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/English1.png)
 
-
+</div>
 
 ## Table of contents
 - [Language Selection(语言选择/語言選擇)](#Language-selection)
