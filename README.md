@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>华硕VivoBook FL8700JP 笔记本 黑苹果</h1>  
+  <h1>华硕VivoBook FL8700JP 笔记本的黑苹果</h1>  
 
  <b> Hackintosh for Asuslaptop VivoBook FL8700JP
    
