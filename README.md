@@ -1,4 +1,4 @@
-
+<div align="center">
 <h1>华硕VivoBook FL8700JP 笔记本 黑苹果 
 
   Hackintosh for Asuslaptop VivoBook FL8700JP</h1> 
@@ -9,6 +9,8 @@
 [![](https://img.shields.io/badge/电报-Aurora极光-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/Aurora_5223)
 [![](https://img.shields.io/badge/推特-極光-informational?style=flat&logo=twitter&logoColor=white&color=5fb659)](https://twitter.com/Aurora_jp123)
 
+ </div>
+  
 # 目录
 - [语言选择（語言選擇/Language Selection）](#语言选择)
 - [实机图片](#实机图片)
