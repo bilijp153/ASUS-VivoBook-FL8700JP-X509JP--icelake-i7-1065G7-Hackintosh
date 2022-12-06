@@ -191,7 +191,7 @@
 - 下載balenaEtcher
 - 使用至少16G大小的U盤拷錄下載的黑蘋果鏡像
 - 把下載的EFI文件複製到硬盤的EFI分區
-- 使用軟件（入EasyUEFI）建立剛複製到EFI分區的的EFI引導
+- 使用軟件（如EasyUEFI）建立剛複製到EFI分區的的EFI引導
 - 使用硬盤工具進行分區
 - 開機按Esc進入引導選擇菜單，選擇剛創建的EFI引導
 - 隨後會進入OpenCore菜單，選擇 Install 那項
