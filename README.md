@@ -9,7 +9,7 @@
 [![img](https://img.shields.io/github/stars/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?color=ff69b4&label=点赞&logoColor=ff69b4&style=social)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh) 
 [![img](https://img.shields.io/github/followers/bilijp153.svg?label=粉丝&logoColor=success&style=social)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh) ![img](https://img.shields.io/github/contributors/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?color=red&label=%E8%B4%A1%E7%8C%AE%E4%BA%BA%E6%95%B0) 
 [![img](https://img.shields.io/github/last-commit/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?color=orange&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh)
-[![](https://img.shields.io/badge/哔哩哔哩-金俊绵小豆包-informational?style=flat&logo=bilibili&logoColor=ff69b4&style=social)](https://space.bilibili.com/329351708?spm_id_from=333.337.0.0)
+[![](https://img.shields.io/badge/哔哩哔哩-金俊绵小豆包-informational?style=flat&logo=bilibili&logoColor=white&color=5fb659)](https://space.bilibili.com/329351708?spm_id_from=333.337.0.0)
 [![](https://img.shields.io/badge/微博-Aurora極光5431-informational?style=flat&logo=sinaweibo&logoColor=white&color=5fb659)](https://weibo.com/u/5264002671)
 [![](https://img.shields.io/badge/QQ-Aurora极光-informational?style=flat&logo=tencentqq&logoColor=white&color=5fb659)](https://qm.qq.com/cgi-bin/qm/qr?k=B2Omg5IKCGWoMNXgMIPmA_AJqEMnMCUb&noverify=0&personal_qrcode_source=3)
 [![](https://img.shields.io/badge/电报-Aurora极光-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/Aurora_5223)
