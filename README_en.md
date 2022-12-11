@@ -157,7 +157,7 @@ Switching from Windows to Mac sound requires the Windows sound card driver to be
 Note: The Type-C of this machine is connected to the USB interface instead of the PCI interface, and some functions are not supported.
 
 ### Touchpad
-The native touchpad is ELAN1200
+The native touchpad is `ELAN1200`
 
 ##### Touchpad function
 - [x] Multi-finger operation
@@ -168,12 +168,13 @@ The native touchpad is ELAN1200
 Note: The touchpad of this machine has a crash phenomenon, which needs to be restarted or woken up after sleep.
 
 ### keyboard
-The built-in keyboard of this machine is a PS2 keyboard
+The built-in keyboard of this machine is a `PS2 keyboard`
 ##### Keyboard functions
 - [x] Use of English area and numeric keypad
 - [x] Use of FN function
 - [x] On light for keyboard CAPSLK
 - [x] Mac shortcuts
+- [ ] keyboard backlight (keyboard not supported)
 
 Note: Some function keys of FN are dedicated to the software on Windows, and have no response on Mac
 ## Pre-installation operations
