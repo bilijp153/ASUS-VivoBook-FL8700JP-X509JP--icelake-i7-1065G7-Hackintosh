@@ -96,14 +96,14 @@
 ## 硬件兼容性
 
 <details>
-<summary>### CPU </summary>
+<summary> CPU </summary>
 本机搭载的是10mm的[Intel Core Ice Lake i7-1065G7 处理器](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
 </details>
 
   **Setel showpicker = False**
 
 <details>
-<summary>### GPU </summary>
+<summary> GPU </summary>
 | **型号**  | **兼容性**               |    **HDMI**               |     **DP**     |
 | ---------- | -----------------------|---------------------------|----------------|
 | Nvidia MX330     | 不兼容        |    -   |        -    |
@@ -120,7 +120,7 @@
   **Setel showpicker = False**
 
 <details>
-<summary>### BIOS </summary>
+<summary> BIOS </summary>
 
 - 需关闭`SecureBoot`和`FastBoot`
 - 硬盘模式要修改为`AHCI`
@@ -133,7 +133,7 @@
   **Setel showpicker = False**
 
 <details>
-<summary>### 声卡和麦克风 </summary>
+<summary> 声卡和麦克风 </summary>
 本机搭载声卡是`Realtek ALC256`，带有Intel的智音技术
 ##### 声卡和麦克风功能
 - [x] 播放声音
@@ -154,7 +154,7 @@
   **Setel showpicker = False**
 
 <details>   
-<summary>### WiFi和蓝牙 </summary>
+<summary> WiFi和蓝牙 </summary>
 - 本机搭载的网卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
 - 蓝牙为5.0
 
@@ -172,7 +172,7 @@
   **Setel showpicker = False**
 
 <details>
-<summary>### Type-C </summary>
+<summary> Type-C </summary>
 
 ##### Type-C功能
 
@@ -190,7 +190,7 @@
   **Setel showpicker = False**
 
 <details>
-<summary>### 触摸板 </summary>
+<summary> 触摸板 </summary>
 本机触摸板为`ELAN1200`
 
 ##### 触摸板功能
@@ -206,7 +206,7 @@
   **Setel showpicker = False**
 
 <details>
-<summary>### 键盘 </summary>
+<summary> 键盘 </summary>
 本机内置键盘为`PS2键盘`
 ##### 键盘功能
 - [x] 英文区和数字键区的使用
