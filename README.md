@@ -264,7 +264,7 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
 5.ELAN1200间接性断触（属于ELAN1200通病）
 
 
-## 主要人员
+## 👨‍💻‍主要人员
    #### 维护人员 ©[Aurora极光](https://github.com/bilijp153)，基于[许可](./License)发布。
    #### 测试人员  [若涵](https://github.com/catlingyun)
    在[贡献者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的帮助下，由[Aurora极光](https://github.com/bilijp153)编写和维护。
