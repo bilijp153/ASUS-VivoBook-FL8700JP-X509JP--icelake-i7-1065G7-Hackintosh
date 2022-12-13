@@ -95,14 +95,12 @@
 
 ## 硬件兼容性
 
-<details>
-<summary> CPU </summary>
+### CPU 
 本机搭载的是10mm的[Intel Core Ice Lake i7-1065G7 处理器](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
-</details>
 
 
-<details>
-<summary> GPU </summary>
+
+### GPU 
 | **型号**  | **兼容性**               |    **HDMI**               |     **DP**     |
 | ---------- | -----------------------|---------------------------|----------------|
 | Nvidia MX330     | 不兼容        |    -   |        -    |
@@ -114,11 +112,8 @@
 
    Ice Lake处理器已被苹果公司去除HDMI支持，故不能使用
    
-   </details>
-   
-
-<details>
-<summary> BIOS </summary>
+  
+  ### BIOS
 
 - 需关闭`SecureBoot`和`FastBoot`
 - 硬盘模式要修改为`AHCI`
@@ -126,11 +121,8 @@
 
 注:本机NVRAM在Mac下能正常使用，通过OC引导界面按`Ctrl+Enter`或 `Mac 的偏好设置-启动磁盘（Ventura下为系统设置-通用-启动磁盘）`选择默认启动盘。
 
-</details>
 
-
-<details>
-<summary> 声卡和麦克风 </summary>
+### 声卡和麦克风
 本机搭载声卡是`Realtek ALC256`，带有Intel的智音技术
 ##### 声卡和麦克风功能
 - [x] 播放声音
@@ -145,11 +137,10 @@
 注：Mac启动声音需去`config.plist`开启
    
    Windows切换到Mac有声需Windows的声卡驱动为第三方的驱动或Windows原版驱动
-   
-   </details>
+
   
-<details>   
-<summary> WiFi和蓝牙 </summary>
+   
+### WiFi和蓝牙
 - 本机搭载的网卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
 - 蓝牙为5.0
 
@@ -162,11 +153,9 @@
 - [x] 蓝牙文件传输
 - [ ] 隔空投送
 
-</details>
 
 
-<details>
-<summary> Type-C </summary>
+### Type-C
 
 ##### Type-C功能
 
@@ -179,11 +168,8 @@
 
 注:本机的Type-C是接在USB接口上而不是PCI接口上，固不支持一些功能
 
-</details>
 
-
-<details>
-<summary> 触摸板 </summary>
+### 触摸板
 本机触摸板为`ELAN1200`
 
 ##### 触摸板功能
@@ -194,11 +180,7 @@
 
 注:本机触摸板存在死机现象，需重启或睡眠再唤醒解决
 
-</details>
-
-
-<details>
-<summary> 键盘 </summary>
+### 键盘
 本机内置键盘为`PS2键盘`
 ##### 键盘功能
 - [x] 英文区和数字键区的使用
@@ -209,7 +191,6 @@
 
 注:FN部分功能键为Windows上的软件专用，固在Mac上无反应
 
-</details>
 
 ## 安装前操作
 
