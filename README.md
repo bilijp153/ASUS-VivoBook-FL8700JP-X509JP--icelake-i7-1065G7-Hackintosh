@@ -99,7 +99,8 @@
 <summary>### CPU </summary>
 本机搭载的是10mm的[Intel Core Ice Lake i7-1065G7 处理器](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
 </details>
-**Setel showpicker = False**
+
+  **Setel showpicker = False**
 
 <details>
 <summary>### GPU </summary>
@@ -115,7 +116,8 @@
    Ice Lake处理器已被苹果公司去除HDMI支持，故不能使用
    
    </details>
-   **Setel showpicker = False**
+   
+  **Setel showpicker = False**
 
 <details>
 <summary>### BIOS </summary>
@@ -127,7 +129,8 @@
 注:本机NVRAM在Mac下能正常使用，通过OC引导界面按`Ctrl+Enter`或 `Mac 的偏好设置-启动磁盘（Ventura下为系统设置-通用-启动磁盘）`选择默认启动盘。
 
 </details>
-**Setel showpicker = False**
+
+  **Setel showpicker = False**
 
 <details>
 <summary>### 声卡和麦克风 </summary>
@@ -147,7 +150,8 @@
    Windows切换到Mac有声需Windows的声卡驱动为第三方的驱动或Windows原版驱动
    
    </details>
-   **Setel showpicker = False**
+  
+  **Setel showpicker = False**
 
 <details>   
 <summary>### WiFi和蓝牙 </summary>
@@ -164,7 +168,8 @@
 - [ ] 隔空投送
 
 </details>
-**Setel showpicker = False**
+
+  **Setel showpicker = False**
 
 <details>
 <summary>### Type-C </summary>
@@ -181,7 +186,8 @@
 注:本机的Type-C是接在USB接口上而不是PCI接口上，固不支持一些功能
 
 </details>
-**Setel showpicker = False**
+
+  **Setel showpicker = False**
 
 <details>
 <summary>### 触摸板 </summary>
@@ -196,7 +202,8 @@
 注:本机触摸板存在死机现象，需重启或睡眠再唤醒解决
 
 </details>
-**Setel showpicker = False**
+
+  **Setel showpicker = False**
 
 <details>
 <summary>### 键盘 </summary>
@@ -211,7 +218,8 @@
 注:FN部分功能键为Windows上的软件专用，固在Mac上无反应
 
 </details>
-**Setel showpicker = False**
+
+  **Setel showpicker = False**
 
 ## 安装前操作
 
