@@ -1,10 +1,9 @@
-<img align="left" width="80" height="90" src="https://user-images.githubusercontent.com/89202419/166133932-f82c08c0-5470-4135-afee-6e23591a8344.png#gh-light-mode-only">
+<div align="center">
 
-<img align="left" width="80" height="90" src="https://user-images.githubusercontent.com/89202419/166133471-6976f2b1-1b2c-4263-924d-e10991507e30.png#gh-dark-mode-only">
+  <h1>华硕VivoBook FL8700JP 笔记本的黑苹果</h1>  
 
-## 华硕VivoBook FL8700JP 笔记本的黑苹果
-
-***Hackintosh for Asuslaptop VivoBook FL8700JP*** 
+ <b> Hackintosh for Asuslaptop VivoBook FL8700JP
+   
 
  
  
@@ -18,7 +17,6 @@
 [![](https://img.shields.io/badge/QQ-Aurora极光-informational?style=flat&logo=tencentqq&logoColor=white&color=5fb659)](https://qm.qq.com/cgi-bin/qm/qr?k=B2Omg5IKCGWoMNXgMIPmA_AJqEMnMCUb&noverify=0&personal_qrcode_source=3)
 [![](https://img.shields.io/badge/电报-Aurora极光-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/Aurora_5223)
 [![](https://img.shields.io/badge/推特-極光-informational?style=flat&logo=twitter&logoColor=white&color=5fb659)](https://twitter.com/Aurora_jp123)
- <div align="center">  
  
    ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/简体1.png)
 
