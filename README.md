@@ -32,7 +32,7 @@
 - [安装后操作](#安装后操作)
 - [Bug](#Bug)
 - [主要人员](#主要人员)
-- [感谢](#感谢)
+- [感谢](#🙏感谢)
 
 
 ## 语言选择   
@@ -270,7 +270,7 @@
    在[贡献者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的帮助下，由[Aurora极光](https://github.com/bilijp153)编写和维护。
    
    
-   ## 感谢
+   ## 🙏感谢
    - [黑果小兵的部落阁](https://blog.daliansky.net/)--黑苹果镜像下载网站
    - [corpnewt](https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)--白果启动方式工具
    - [daliansky](https://github.com/daliansky)的[Hackintosh](https://github.com/daliansky/Hackintosh)--加入我机型引导增加我EFI知名度
