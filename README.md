@@ -189,7 +189,7 @@
 FN部分功能键为Windows上的软件专用，固在Mac上无反应
 
 
-## 安装前操作
+## 📔安装前操作
 
 ### 更改BIOS设置
 该项请看[BIOS](#BIOS)
@@ -219,7 +219,7 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
 
 
 
-## 安装后操作
+## 📔安装后操作
 
 ### 更改SMBIOS（三码）
 - 使用OCAT或OpenCore Configurator（下称该工具）的机型菜单生成您唯一的`SMBIOS（三码）`信息。
