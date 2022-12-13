@@ -6,7 +6,7 @@
 
 ***Hackintosh for Asuslaptop VivoBook FL8700JP*** 
 
-  <div align="center">
+ 
  
 [![](https://img.shields.io/badge/存储库-Aurora极光-informational?style=flat&logo=github&logoColor=white&color=9debeb)](https://github.com/bilijp153?tab=repositories)
 [![](https://img.shields.io/badge/存储库-若涵-informational?style=flat&logo=github&logoColor=white&color=9debeb)](https://github.com/catlingyun)
@@ -18,7 +18,7 @@
 [![](https://img.shields.io/badge/QQ-Aurora极光-informational?style=flat&logo=tencentqq&logoColor=white&color=5fb659)](https://qm.qq.com/cgi-bin/qm/qr?k=B2Omg5IKCGWoMNXgMIPmA_AJqEMnMCUb&noverify=0&personal_qrcode_source=3)
 [![](https://img.shields.io/badge/电报-Aurora极光-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/Aurora_5223)
 [![](https://img.shields.io/badge/推特-極光-informational?style=flat&logo=twitter&logoColor=white&color=5fb659)](https://twitter.com/Aurora_jp123)
-   
+ <div align="center">   
    ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/简体1.png)
 
  </div>
