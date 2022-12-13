@@ -93,7 +93,7 @@
 - [ ] HDMI
 
 
-## 硬件兼容性
+## ℹ️硬件兼容性
 
 ### CPU 
 本机搭载的是10mm的[Intel Core Ice Lake i7-1065G7 处理器](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
