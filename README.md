@@ -48,11 +48,11 @@
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer1.png)
 
 
-## 下载地址
+## ⬇下载地址
 
 [![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?label=下载)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)
 
-## 配置
+## ⚙️配置
 
 |    配置       |        型号                 |
 |--------------|-----------------------------|
@@ -122,7 +122,7 @@
 注:本机NVRAM在Mac下能正常使用，通过OC引导界面按`Ctrl+Enter`或 `Mac 的偏好设置-启动磁盘（Ventura下为系统设置-通用-启动磁盘）`选择默认启动盘。
 
 
-### 声卡和麦克风
+### 🔊声卡和麦克风
 本机搭载声卡是`Realtek ALC256`，带有Intel的智音技术
 ##### 声卡和麦克风功能
 - [x] 播放声音
