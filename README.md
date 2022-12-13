@@ -252,7 +252,7 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
 
 
 
-## Bug
+## :warning:Bug
 1.~~声音有概率`从 Windows 切换到 Mac OS`时 Mac OS 无声音 (` Windows`下的` Realtek`驱动若为` Windows`自带的HDA驱动则无此Bug）~~ （已修复）
 
 2.~~睡眠~~（已修复）
