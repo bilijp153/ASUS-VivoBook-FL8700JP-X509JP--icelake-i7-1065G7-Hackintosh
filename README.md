@@ -100,7 +100,6 @@
 本机搭载的是10mm的[Intel Core Ice Lake i7-1065G7 处理器](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
 </details>
 
-  **Setel showpicker = False**
 
 <details>
 <summary> GPU </summary>
@@ -117,7 +116,6 @@
    
    </details>
    
-  **Setel showpicker = False**
 
 <details>
 <summary> BIOS </summary>
@@ -130,7 +128,6 @@
 
 </details>
 
-  **Setel showpicker = False**
 
 <details>
 <summary> 声卡和麦克风 </summary>
@@ -151,8 +148,6 @@
    
    </details>
   
-  **Setel showpicker = False**
-
 <details>   
 <summary> WiFi和蓝牙 </summary>
 - 本机搭载的网卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
@@ -169,7 +164,6 @@
 
 </details>
 
-  **Setel showpicker = False**
 
 <details>
 <summary> Type-C </summary>
@@ -187,7 +181,6 @@
 
 </details>
 
-  **Setel showpicker = False**
 
 <details>
 <summary> 触摸板 </summary>
@@ -203,7 +196,6 @@
 
 </details>
 
-  **Setel showpicker = False**
 
 <details>
 <summary> 键盘 </summary>
@@ -218,8 +210,6 @@
 注:FN部分功能键为Windows上的软件专用，固在Mac上无反应
 
 </details>
-
-  **Setel showpicker = False**
 
 ## 安装前操作
 
