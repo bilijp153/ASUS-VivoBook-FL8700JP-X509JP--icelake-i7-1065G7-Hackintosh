@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img align="center" width="80" height="140" src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/hackintosh.png">
+  <img align="center" width="120" height="140" src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/hackintosh.png">
   <h1>Hackintosh for Asuslaptop VivoBook</h1>  
 
  <b> 华硕VivoBook FL8700JP 笔记本的黑苹果
