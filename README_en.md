@@ -267,9 +267,9 @@ The `SMBIOS (three codes)` must be unique, you cannot use the one present in thi
 
 
 ## 👨‍💻‍Main personnel
-    #### Maintainer ©[Aurora Jiguang](https://github.com/bilijp153), released based on [License](./License).
-    #### Tester [Ruohan](https://github.com/catlingyun)
-    With the help of [Contributors](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors), by [Aurora Jiguang](https://github.com/ bilijp153) written and maintained.
+    #### Maintainer ©[Aurora极光](https://github.com/bilijp153), released based on [License](./License).
+    #### Tester [若涵](https://github.com/catlingyun)
+    With the help of [Contributors](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors), by [Aurora极光](https://github.com/bilijp153) written and maintained.
    
    
 ## 🙏Thanks
