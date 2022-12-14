@@ -163,7 +163,7 @@ Note: Mac startup sound needs to go to `config.plist` to enable
 
 - [x] Type-C network port
 - [x] Extended USB and SD card interface
-- [x] USB storage device (mobile phone, USB, etc.)
+- [x] USB storage device (mobile phone, USB...)
 - [x] USB network card and USB speakers
 - [x] USB camera
 - [ ] DP
