@@ -20,7 +20,7 @@
 
 </div>
 
-## Table of contents
+## 📄Table of contents
 - [Language Selection(语言选择/語言選擇)](#Language-selection)
 - [Real machine pictures](#Real-machin-epictures)
 - [Download link](#download-link)
@@ -36,7 +36,7 @@
 - [Thanks](#Thanks)
 
 
-## Language selection   
+## 🔎Language selection   
 - [Simplified Chinese Version](README.md)
 - [Traditional Chinese Version](README_繁體中文.md)
 
