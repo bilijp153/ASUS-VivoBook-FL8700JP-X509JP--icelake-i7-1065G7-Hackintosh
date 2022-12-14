@@ -1,5 +1,7 @@
 <div align="center">
 
+![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/Hackintosh2.png)
+
   <h1>华硕VivoBook FL8700JP 笔记本的黑苹果</h1>  
 
  <b> Hackintosh for Asuslaptop VivoBook FL8700JP
