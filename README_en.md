@@ -272,7 +272,7 @@ The `SMBIOS (three codes)` must be unique, you cannot use the one present in thi
     With the help of [Contributors](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors), by [Aurora Jiguang](https://github.com/ bilijp153) written and maintained.
    
    
-    ## 🙏 Thanks
+    ## 🙏Thanks
    - [[Heiguo Xiaobing's Tribal Pavilion](https://blog.daliansky.net/)--Black Apple Mirror Download Site
    - [brigadier](https://github.com/corpnewt/brigadier) of [corpnewt](https://github.com/corpnewt) -- real Mac boot tool
    - [daliansky](https://github.com/daliansky) of [Hackintosh](https://github.com/daliansky/Hackintosh)--Add my model to guide to increase my EFI popularity
