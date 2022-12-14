@@ -50,7 +50,7 @@
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer1.png)
 
 
-## ⬇Download-links
+## ⬇Download links
 
 [![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?label=Downloads)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)
 ## ⚙️ Configuration
