@@ -49,16 +49,16 @@
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer1.png)
 
 
-## 下載地址
+## ⬇下載地址
 
 [![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?label=下載)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)
 
-## 配置
+## ⚙️配置
 
 |    配置       |        型號                 |
 |--------------|-----------------------------|
 |    處理器     |          i7-1065G7          |
-|     核顯      |    Intel lris Plus Graphics|
+|     核顯      |    Intel lris Plus Graphics    |
 |     獨顯      |      MX330（已屏蔽）    |
 |     內存      |     8GB+4GB DDR4        |
 |     硬盤      |       西數 512G SSD        |
@@ -66,7 +66,7 @@
 |   無線網卡     |        Intel Wireless-AC 9461      |
 |   觸摸板     |        ELAN1200      |
 
-## 系統兼容性
+## ✅系統兼容性
 
   - [ ] Mojave和之前的版本 
   - [x] Catalina 
@@ -76,8 +76,7 @@
 
 注:Catalina從10.15.4版本起支持
 
-
-## 什麼工作和不工作
+## ❓什麼工作和不工作
 - [x] Type-C
 - [x] USB接口
 - [x] 讀卡器
@@ -94,12 +93,15 @@
 - [ ] MX330
 - [ ] HDMI
 
-## 硬件兼容性
 
-### CPU
+## ℹ️硬件兼容性
+
+### CPU 
 本機搭載的是10mm的[Intel Core Ice Lake i7-1065G7 處理器](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
 
-### GPU
+
+
+### GPU 
 | **型號**  | **兼容性**               |    **HDMI**               |     **DP**     |
 | ---------- | -----------------------|---------------------------|----------------|
 | Nvidia MX330     | 不兼容        |    -   |        -    |
@@ -110,16 +112,18 @@
    該核顯支持DP但是本機沒有DP接口
 
    Ice Lake處理器已被蘋果公司去除HDMI支持，故不能使用
-
-### BIOS
+   
+  
+  ### BIOS
 
 - 需關閉`SecureBoot`和`FastBoot`
 - 硬盤模式要修改為`AHCI`
 - DVMT要修改為`64M`
 
-注：本機NVRAM在Mac下能正常使用，通過OC引導界面按`Ctrl+Enter`或 `Mac 的偏好設置-啟動磁盤（Ventura下為系統設置-通用-啟動磁盤）`選擇默認啟動盤。
+注:本機NVRAM在Mac下能正常使用，通過OC引導界面按`Ctrl+Enter`或 `Mac 的偏好設置-啟動磁盤（Ventura下為系統設置-通用-啟動磁盤）`選擇默認啟動盤。
 
-### 聲卡和麥克風
+
+### 🔊聲卡和麥克風
 本機搭載聲卡是`Realtek ALC256`，帶有Intel的智音技術
 ##### 聲卡和麥克風功能
 - [x] 播放聲音
@@ -134,8 +138,10 @@
 注：Mac啟動聲音需去`config.plist`開啟
    
    Windows切換到Mac有聲需Windows的聲卡驅動為第三方的驅動或Windows原版驅動
+
+  
    
-### 網卡和藍牙
+### ᯤWiFi和藍牙
 - 本機搭載的網卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
 - 藍牙為5.0
 
@@ -148,12 +154,17 @@
 - [x] 藍牙文件傳輸
 - [ ] 隔空投送
 
-### Type-C
 
-##### Type-C功能
+
+### 🔌Type-C和USB
+
+##### Type-C和USB功能
 
 - [x] Type-C網口
 - [x] 擴展USB和SD卡接口
+- [x] USB儲存設備（手機，USB等）
+- [x] USB網卡和USB音箱
+- [x] USB攝像頭 
 - [ ] DP
 - [ ] DP to HDMI
 - [ ] 顯卡塢
@@ -161,29 +172,28 @@
 
 注:本機的Type-C是接在USB接口上而不是PCI接口上，固不支持一些功能
 
-### 觸摸板
-本機觸摸板為`ELAN1200`
 
-##### 觸摸板功能
+### ⌨️觸摸板和鍵盤
+本機觸摸板為`ELAN1200`
+本機內置鍵盤為`PS2鍵盤`
+
+##### 觸摸板和鍵盤功能
 - [x] 多指操作
 - [x] 自由滑動
 - [x] 流暢滾動
 - [x] Mac手勢
-
-注:本機觸摸板存在死機現象，需重啟或睡眠再喚醒解決
-
-### 鍵盤
-本機內置鍵盤為`PS2鍵盤`
-##### 鍵盤功能
 - [x] 英文區和數字鍵區的使用
 - [x] FN功能的使用
 - [x] 鍵盤大寫鍵的開啟燈
 - [x] Mac快捷鍵
-- [ ] 鍵盤背光（鍵盤不支持）
+- [ ] 鍵盤背光（鍵盤不支持）  
 
-注:FN部分功能鍵為Windows上的軟件專用，固在Mac上無反應
+注:本機觸摸板存在死機現象，需重啟或睡眠再喚醒解決
 
-## 安裝前操作
+FN部分功能鍵為Windows上的軟件專用，固在Mac上無反應
+
+
+## 📔安裝前操作
 
 ### 更改BIOS設置
 該項請看[BIOS](#BIOS)
@@ -195,7 +205,7 @@
 
 ### 下載和安裝Mac
 - [下載](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)EFI
-- 去黑[果小兵的部落閣](https://blog.daliansky.net/)下載黑蘋果鏡像(下載的版本請看[系統兼容性](#系統兼容性)）
+- 去[黑果小兵的部落閣](https://blog.daliansky.net/)下載黑蘋果鏡像(下載的版本請看[系統兼容性](#系統兼容性)）
 - 下載balenaEtcher
 - 使用至少16G大小的U盤拷錄下載的黑蘋果鏡像
 - 把下載的EFI文件複製到硬盤的EFI分區
@@ -209,10 +219,11 @@
 - 多次重啟後出現Mac設置界面
 - 完成設置後即可享用Mac
 
-注：設置EFI引導時需選擇BootX64.efi,如果BootX64.efi不行則選擇OC文件夾下的OpenCore.efi
+注：設置EFI引導時需選擇BootX64.efi，如果BootX64.efi不行則選擇OC文件夾下的OpenCore.efi
 
 
-## 安裝後操作
+
+## 📔安裝後操作
 
 ### 更改SMBIOS（三碼）
 - 使用OCAT或OpenCore Configurator（下稱該工具）的機型菜單生成您唯一的`SMBIOS（三碼）`信息。
@@ -242,7 +253,7 @@
 
 
 
-## Bug
+## :warning:Bug
 1.~~聲音有概率`從 Windows 切換到 Mac OS`時 Mac OS 無聲音 (` Windows`下的` Realtek`驅動若為` Windows`自帶的HDA驅動則無此Bug）~~ （已修復）
 
 2.~~睡眠~~（已修復）
@@ -254,16 +265,13 @@
 5.ELAN1200間接性斷觸（屬於ELAN1200通病）
 
 
-
-
-
-## 主要人員
-   #### 維護人員 ©[Aurora极光](https://github.com/bilijp153)，基於[許可](./License)發布。
+## 👨‍💻‍主要人員
+   #### 維護人員 ©[Aurora極光](https://github.com/bilijp153)，基於[許可](./License)發布。
    #### 測試人員  [若涵](https://github.com/catlingyun)
-   在[貢獻者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的幫助下，由[Aurora极光](https://github.com/bilijp153)編寫和維護。
+   在[貢獻者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的幫助下，由[Aurora極光](https://github.com/bilijp153)編寫和維護。
    
    
-   ## 感謝
+   ## 🙏感謝
    - [黑果小兵的部落閣](https://blog.daliansky.net/)--黑蘋果鏡像下載網站
    - [corpnewt](https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)--白果啟動方式工具
    - [daliansky](https://github.com/daliansky)的[Hackintosh](https://github.com/daliansky/Hackintosh)--加入我機型引導增加我EFI知名度
