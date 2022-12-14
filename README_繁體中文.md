@@ -20,7 +20,7 @@
 
  </div>
 
-## 目錄
+## 📄目錄
 - [語言選擇（语言选择/Language Selection）](#語言選擇)
 - [實機圖片](#實機圖片)
 - [下載地址](#下載地址)
@@ -36,7 +36,7 @@
 - [感謝](#感謝)
 
 
-## 語言選擇   
+## 🔎語言選擇   
 - [簡體中文版本](README.md) 
 - [English Version](README_en.md)
 
