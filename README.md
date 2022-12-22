@@ -289,7 +289,7 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
  
  <div align="center"> 
 
-<b><img align="center" width="160" height="15" src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/头像.png">This page made by Aurora极光
-<h1><img align="center" width="220" height="20" src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/头像.png">Copyright © 2021-2022 Aurora极光</h1>
+<b><img align="center" width="15" height="15" src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/头像.png">This page made by Aurora极光
+<h1><img align="center" width="15" height="15" src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/头像.png">Copyright © 2021-2022 Aurora极光</h1>
 
 </div>
