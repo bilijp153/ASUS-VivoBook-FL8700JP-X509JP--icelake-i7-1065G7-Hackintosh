@@ -280,7 +280,14 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
    - [daliansky](https://github.com/daliansky)的[Hackintosh](https://github.com/daliansky/Hackintosh)--加入我机型引导增加我EFI知名度
    
    
-  <div align="center"> 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ <div align="center"> 
 
 <b><img align="center" width="160" height="15" src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/页面版权图.png">
 
