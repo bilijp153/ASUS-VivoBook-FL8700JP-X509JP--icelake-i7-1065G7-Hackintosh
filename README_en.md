@@ -24,7 +24,7 @@
 
 ## 📄Table of contents
 - [Language Selection(语言选择/語言選擇)](#Language-selection)
-- [Machine pictures](#Machine pictures)
+- [Machine pictures](#Machine-pictures)
 - [Download link](#download-link)
 - [Configure](#%EF%B8%8F-configure)
 - [System compatibility](#System-compatibility)
