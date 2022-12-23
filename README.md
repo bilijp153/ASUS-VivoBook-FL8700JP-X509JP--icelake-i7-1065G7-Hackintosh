@@ -70,7 +70,7 @@
 |     声卡      |       Realtek ALC256        |
 |   无线网卡     |        Intel Wireless-AC 9461      |
 |   触摸板     |        ELAN1200      |
-|  OpenCore版本     |          [![](https://img.shields.io/github/v/release/acidanthera/OpenCorePkg?include_prereleases&style=social)](https://github.com/acidanthera/OpenCorePkg/releases)     |
+|  OpenCore版本     |          [![](https://img.shields.io/github/v/release/acidanthera/OpenCorePkg?include_prereleases&style=social&label=  )](https://github.com/acidanthera/OpenCorePkg/releases)     |
 
 ## ✅系统兼容性
 
