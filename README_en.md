@@ -33,7 +33,7 @@
 - [Hardware Compatibility](#ℹ️Hardware-Compatibility)
 - [Pre-installation operations](#Pre-installation-operations)
 - [Post-installation operations](#Post-installation-operations)
-- [Bugs](#warningBugs)
+- [Bugs](#warningbugs)
 - [Main Personnel](#Main-Personnel)
 - [Thanks](#Thanks)
 
@@ -257,7 +257,7 @@ The `SMBIOS (three codes)` must be unique, you cannot use the one present in thi
 
 
 
-## :warning:Bug
+## :warning:Bugs
 1.~~There is a possibility that Mac OS will have no sound when switching from Windows to Mac OS. )
 
 2. ~~sleep~~ (fixed)
