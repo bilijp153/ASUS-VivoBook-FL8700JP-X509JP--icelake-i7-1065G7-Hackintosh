@@ -26,7 +26,7 @@
 - [Language Selection(语言选择/語言選擇)](#Language-selection)
 - [Real machine pictures](#Real-machin-epictures)
 - [Download link](#download-link)
-- [Configure](##%EF%B8%8FConfigure)
+- [Configure](##%EF%B8%8F-Configure)
 - [System compatibility](#System-compatibility)
 - [Changelog](Changelog.md)
 - [What works and what doesn't](#What-works-and-what-doesn't)
