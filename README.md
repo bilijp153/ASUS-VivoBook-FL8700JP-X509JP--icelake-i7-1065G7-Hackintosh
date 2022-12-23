@@ -282,19 +282,4 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
    - [corpnewt](https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)--白果启动方式工具
    - [daliansky](https://github.com/daliansky)的[Hackintosh](https://github.com/daliansky/Hackintosh)--加入我机型引导增加我EFI知名度
    
-   
-  
- 
- 
- 
- 
-          
- 
 
- 
- <div align="center"> 
-
-<b><img align="center" width="15" height="15" src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/头像.png"> ###### This page made by Aurora极光
-<h1><img align="center" width="15" height="15" src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/头像.png"> ###### Copyright © 2021-2022 Aurora极光</h1>
-
-</div>
