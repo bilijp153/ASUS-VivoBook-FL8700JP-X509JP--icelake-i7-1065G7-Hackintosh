@@ -14,8 +14,8 @@
   ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/acidanthera/OpenCorePkg?include_prereleases&label=OpenCore版本&style=social)
 [![img](https://img.shields.io/github/stars/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?color=ff69b4&label=点赞&logoColor=ff69b4&style=social)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh) 
 [![img](https://img.shields.io/github/followers/bilijp153.svg?label=粉丝&logoColor=success&style=social)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh) 
-![img](https://img.shields.io/github/contributors/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?color=red&label=贡献人数&style=social) 
-[![img](https://img.shields.io/github/last-commit/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?color=orange&label=最近提交&style=social)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh)
+[![img](https://img.shields.io/github/contributors/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?logoColor=red&label=贡献人数&style=social&logo=github)] 
+[![img](https://img.shields.io/github/last-commit/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?logoColor=orange&label=最近提交&style=social&logo=github)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh)
 [![](https://img.shields.io/badge/哔哩哔哩-金俊绵小豆包-informational?style=flat&logo=bilibili&logoColor=white&color=5fb659)](https://space.bilibili.com/329351708?spm_id_from=333.337.0.0)
 [![](https://img.shields.io/badge/微博-Aurora極光5431-informational?style=flat&logo=sinaweibo&logoColor=white&color=5fb659)](https://weibo.com/u/5264002671)
 [![](https://img.shields.io/badge/QQ-Aurora极光-informational?style=flat&logo=tencentqq&logoColor=white&color=5fb659)](https://qm.qq.com/cgi-bin/qm/qr?k=B2Omg5IKCGWoMNXgMIPmA_AJqEMnMCUb&noverify=0&personal_qrcode_source=3)
