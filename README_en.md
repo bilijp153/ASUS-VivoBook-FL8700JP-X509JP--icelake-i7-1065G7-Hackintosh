@@ -197,7 +197,7 @@ Note: The touchpad of this machine has a crash phenomenon, which needs to be res
 Some function keys of FN are dedicated to the software on Windows, and there is no response on Mac.
 
 
-## 📔Operation before installation
+## 📔Pre installation operations
 
 ### Change BIOS settings
 For this item, please see [BIOS](#BIOS)
@@ -227,7 +227,7 @@ Note: When setting EFI boot, you need to select BootX64.efi, if BootX64.efi is n
 
 
 
-## 📔Operation after installation
+## 📔Post installation operations
 
 ### Change SMBIOS (three codes)
 - Use the model menu of OCAT or OpenCore Configurator (hereinafter referred to as the tool) to generate your unique `SMBIOS (three codes)` information.
