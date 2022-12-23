@@ -26,7 +26,7 @@
 - [Language Selection(语言选择/語言選擇)](#Language-selection)
 - [Real machine pictures](#Real-machin-epictures)
 - [Download link](#download-link)
-- [Configure](##%EF%B8%8Fconfiguration)
+- [Configure](##%EF%B8%8FConfigure)
 - [System compatibility](#System-compatibility)
 - [Changelog](Changelog.md)
 - [What works and what doesn't](#What-works-and-what-doesn't)
@@ -55,7 +55,7 @@
 ## ⬇Download link
 
 [![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?label=Downloads)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)
-## ⚙️ Configuration
+## ⚙️ Configure
 
 | Configuration | Model |
 |--------------|-----------------------------|
