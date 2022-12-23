@@ -29,7 +29,7 @@
 - [Configure](#%EF%B8%8F-configure)
 - [System compatibility](#System-compatibility)
 - [Changelog](Changelog.md)
-- [What works and what doesn't](#What-works-and-what-doesn't)
+- [What works and what doesn't](#-what-works-and-what-doesnt)
 - [Hardware Compatibility](#ℹ️Hardware-Compatibility)
 - [Pre-installation operations](#Pre-installation-operations)
 - [Post-installation operations](#Post-installation-operations)
