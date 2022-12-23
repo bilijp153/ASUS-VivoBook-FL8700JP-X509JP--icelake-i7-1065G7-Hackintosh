@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/存储库-Aurora极光-informational?logo=github&logoColor=black&color=9debeb&style=social)](https://github.com/bilijp153?tab=repositories)
 [![](https://img.shields.io/badge/存储库-若涵-informational?logo=github&logoColor=black&color=9debeb&style=social)](https://github.com/catlingyun)
 [![](https://img.shields.io/github/license/bilijp153/ASUS-VivoBook-FL8700JP-icelake-i7-1065G7-Hackintosh?label=許可&style=social)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-i7-1065G7-Hackintosh/blob/main/License)
-  [![](https://img.shields.io/github/v/release/acidanthera/OpenCorePkg?include_prereleases&label=OpenCore版本&style=social&logo=apple)](https://github.com/acidanthera/OpenCorePkg/releases)
+
 [![img](https://img.shields.io/github/stars/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?color=ff69b4&label=點贊&logoColor=ff69b4&style=social)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-i7-1065G7-Hackintosh/stargazers)
 [![img](https://img.shields.io/github/followers/bilijp153.svg?label=粉絲&logoColor=success&style=social)](https://github.com/bilijp153?tab=followers)
 [![img](https://img.shields.io/github/contributors/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?logoColor=red&label=貢獻人數&style=social&logo=github)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-i7-1065G7-Hackintosh/graphs/contributors)
@@ -68,6 +68,8 @@
 |     聲卡      |       Realtek ALC256        |
 |   無線網卡     |        Intel Wireless-AC 9461      |
 |   觸摸板     |        ELAN1200      |
+  |  OpenCore版本     |          [![](https://img.shields.io/github/v/release/acidanthera/OpenCorePkg?include_prereleases&style=social&label=&logo=apple)](https://github.com/acidanthera/OpenCorePkg/releases)     |
+
 
 ## ✅系統兼容性
 
