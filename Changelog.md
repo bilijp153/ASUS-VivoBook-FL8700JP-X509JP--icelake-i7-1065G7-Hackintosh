@@ -1,6 +1,10 @@
 ## Changelog
 
-## v2.0.2 November 29, 2022
+### v2.1 December 31, 2022
+- Updated OpenCore boot screen theme
+- This version only supports MacOS Ventura (to use MacOS Monterey, please download the MacOS Monterey version of [airportitlwm](https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.1.0) by yourself)
+
+### v2.0.2 November 29, 2022
 - This version only supports MacOS Ventura (to use MacOS Monterey, please download the MacOS Monterey version of [airportitlwm](https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.1.0) by yourself)
 
 ### v2.0.1 October 27, 2022
