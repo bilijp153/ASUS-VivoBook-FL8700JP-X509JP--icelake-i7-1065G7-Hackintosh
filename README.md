@@ -116,7 +116,7 @@
 | Nvidia MX330     | 不兼容        |    -   |        -    |
 | Intel lris Plus Graphics G7        | 兼容 |    不支持   |    支持      |
 
-注:本机的Intel 核显 ID为 0x8A530002
+注:本机的Intel 核显 ID为 0x8A5C0001
 
    该核显支持DP但是本机没有DP接口
 
