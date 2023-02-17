@@ -116,7 +116,7 @@ This machine is equipped with a 10mm [Intel Core Ice Lake i7-1065G7 processor](h
 | Nvidia MX330 | Not Compatible |     -    |    -   |
 | Intel lris Plus Graphics G7 | Compatible | Not Supported | Supported |
 
-Note: The Intel core display ID of this machine is 0x8A530002
+Note: The Intel core display ID of this machine is 0x8A5C0001
   
   The core display supports DP but the machine does not have a DP interface
 
