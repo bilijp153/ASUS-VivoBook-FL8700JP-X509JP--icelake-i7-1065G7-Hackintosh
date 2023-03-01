@@ -3,7 +3,7 @@
   <img align="center" width="160" height="160" src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/hackintosh.png">
   <h1>Hackintosh for Asuslaptop VivoBook</h1>  
 
- <b> 华硕VivoBook FL8700JP 笔记本的黑苹果
+ <b> 华硕VivoBook FL8700JP (X509JP) 笔记本的黑苹果
    
 [![](https://img.shields.io/badge/Repositories-Aurora极光-informational?logo=github&logoColor=black&color=9debeb&style=social)](https://github.com/bilijp153?tab=repositories)
 [![](https://img.shields.io/badge/Repositories-若涵-informational?logo=github&logoColor=black&color=9debeb&style=social)](https://github.com/catlingyun)
