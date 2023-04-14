@@ -167,74 +167,74 @@ EFI
 注:本机NVRAM在Mac下能正常使用，通过OC引导界面按`Ctrl+Enter`或 `Mac 的偏好设置-启动磁盘（Ventura下为系统设置-通用-启动磁盘）`选择默认启动盘。
 
 
-### 🔊 声卡和麦克风
-本机搭载声卡是`Realtek ALC256`，带有Intel的智音技术
-##### 声卡和麦克风功能
-- [x] 播放声音
-- [x] Mac启动声音
-- [x] 有线耳机
-- [x] 麦克风的使用
-- [x] 插入耳机时设备的自动切换
-- [x] USB音箱
-- [x] Windows切换到Mac有声
-- [ ] HDMI声音
+  ### 🔊 声卡和麦克风
+   本机搭载声卡是`Realtek ALC256`，带有Intel的智音技术
+  ##### 声卡和麦克风功能
+    - [x] 播放声音
+    - [x] Mac启动声音
+    - [x] 有线耳机
+    - [x] 麦克风的使用
+    - [x] 插入耳机时设备的自动切换
+    - [x] USB音箱
+    - [x] Windows切换到Mac有声
+    - [ ] HDMI声音
 
-注：Mac启动声音需去`config.plist`开启
+    注：Mac启动声音需去`config.plist`开启
    
    Windows切换到Mac有声需Windows的声卡驱动为第三方的驱动或Windows原版驱动
 
   
    
-### ᯤ WiFi和蓝牙
-- 本机搭载的网卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
-- 蓝牙为5.0
+  ### ᯤ WiFi和蓝牙
+   - 本机搭载的网卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
+   - 蓝牙为5.0
 
-##### WiFi和蓝牙功能
-- [x] WiFi连接（2.4G/5G）
-- [x] iPhone和安卓的热点连接
-- [x] Apple Watch解锁
-- [x] 通用控制
-- [x] 蓝牙连接
-- [x] 蓝牙文件传输
-- [ ] 隔空投送
-
-
-
-### 🔌 Type-C和USB
-
-##### Type-C和USB功能
-
-- [x] Type-C网口
-- [x] 扩展USB和SD卡接口
-- [x] USB储存设备（手机，USB等）
-- [x] USB网卡和USB音箱
-- [x] USB摄像头 
-- [ ] DP
-- [ ] DP to HDMI
-- [ ] 显卡坞
-- [ ] 充电
-
-注:本机的Type-C是接在USB接口上而不是PCI接口上，固不支持一些功能
+  ##### WiFi和蓝牙功能
+    - [x] WiFi连接（2.4G/5G）
+    - [x] iPhone和安卓的热点连接
+    - [x] Apple Watch解锁
+    - [x] 通用控制
+    - [x] 蓝牙连接
+    - [x] 蓝牙文件传输
+    - [ ] 隔空投送
 
 
-### ⌨️ 触摸板和键盘
-本机触摸板为`ELAN1200`
-本机内置键盘为`PS2键盘`
 
-##### 触摸板和键盘功能
-- [x] 多指操作
-- [x] 自由滑动
-- [x] 流畅滚动
-- [x] Mac手势
-- [x] 英文区和数字键区的使用
-- [x] FN功能的使用
-- [x] 键盘大写键的开启灯
-- [x] Mac快捷键
-- [ ] 键盘背光（键盘不支持）  
+ ### 🔌 Type-C和USB
 
-注:本机触摸板存在死机现象，需重启或睡眠再唤醒解决
+  ##### Type-C和USB功能
 
-FN部分功能键为Windows上的软件专用，固在Mac上无反应
+    - [x] Type-C网口
+    - [x] 扩展USB和SD卡接口
+    - [x] USB储存设备（手机，USB等）
+    - [x] USB网卡和USB音箱
+    - [x] USB摄像头 
+    - [ ] DP
+    - [ ] DP to HDMI
+    - [ ] 显卡坞
+    - [ ] 充电
+
+    注:本机的Type-C是接在USB接口上而不是PCI接口上，固不支持一些功能
+
+
+ ### ⌨️ 触摸板和键盘
+  本机触摸板为`ELAN1200`
+  本机内置键盘为`PS2键盘`
+
+ ##### 触摸板和键盘功能
+   - [x] 多指操作
+   - [x] 自由滑动
+   - [x] 流畅滚动
+   - [x] Mac手势
+   - [x] 英文区和数字键区的使用
+   - [x] FN功能的使用
+   - [x] 键盘大写键的开启灯
+   - [x] Mac快捷键
+   - [ ] 键盘背光（键盘不支持）  
+
+   注:本机触摸板存在死机现象，需重启或睡眠再唤醒解决
+
+   FN部分功能键为Windows上的软件专用，固在Mac上无反应
 
 
 
@@ -305,7 +305,7 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
    在[贡献者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的帮助下，由[Aurora极光](https://github.com/bilijp153)编写和维护。
    
    
-   ## 🙏 感谢
+## 🙏 感谢
    - [黑果小兵的部落阁](https://blog.daliansky.net/)--黑苹果镜像下载网站
    - [corpnewt](https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)--白果启动方式工具
    - [daliansky](https://github.com/daliansky)的[Hackintosh](https://github.com/daliansky/Hackintosh)--加入我机型引导增加我EFI知名度
