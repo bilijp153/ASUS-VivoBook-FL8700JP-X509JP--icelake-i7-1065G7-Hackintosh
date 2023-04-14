@@ -6,20 +6,18 @@
   <b> Hackintosh for Asuslaptop VivoBook FL8700JP (X509JP)
    
 
- 
- 
-[![](https://img.shields.io/badge/Repository-Aurora-informational?logo=github&logoColor=black&color=9debeb&style=social)](https://github.com/bilijp153?tab=repositories )
-[![](https://img.shields.io/badge/Repository-Ruohan-informational?logo=github&logoColor=black&color=9debeb&style=social)](https://github.com/catlingyun)
-[![](https://img.shields.io/github/license/bilijp153/ASUS-VivoBook-FL8700JP-icelake-i7-1065G7-Hackintosh?label=license&style=social)](https://github. com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-i7-1065G7-Hackintosh/blob/main/License)
-[![img](https://img.shields.io/github/stars/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?color=ff69b4&label=like&logoColor=ff69b4&style=social)]( https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-i7-1065G7-Hackintosh/stargazers)
-[![img](https://img.shields.io/github/followers/bilijp153.svg?label=followers&logoColor=success&style=social)](https://github.com/bilijp153?tab=followers)
-[![img](https://img.shields.io/github/contributors/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?logoColor=red&label=number of contributors&style=social&logo=github)]( https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-i7-1065G7-Hackintosh/graphs/contributors)
-[![img](https://img.shields.io/github/last-commit/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?logoColor=orange&label=last commit&style=social&logo=github) ](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-i7-1065G7-Hackintosh/graphs/commit-activity)
-[![](https://img.shields.io/badge/哔哩哔哩-Jin Junmian Xiaodoubao-informational?logo=bilibili&logoColor=pink&color=5fb659&style=social)](https://space.bilibili.com/ 329351708?spm_id_from=333.337.0.0)
-[![](https://img.shields.io/badge/Weibo-Aurora 5431-informational?logo=sinaweibo&color=5fb659&style=social)](https://weibo.com/u/5264002671)
-[![](https://img.shields.io/badge/QQ-Aurora Aurora-informational?logo=tencentqq&color=5fb659&style=social&logoColor=black)](https://qm.qq.com/cgi-bin/ qm/qr?k=B2Omg5IKCGWoMNXgMIPmA_AJqEMnMCUb&noverify=0&personal_qrcode_source=3)
-[![](https://img.shields.io/badge/Telegram-Aurora Aurora-informational?logo=telegram&logoColor=blue&color=5fb659&style=social)](https://t.me/Aurora_5223)
-[![](https://img.shields.io/badge/twitter-Aurora-informational?logo=twitter&logoColor=blue&color=5fb659&style=social)](https://twitter.com/Aurora_jp123)
+[![](https://img.shields.io/badge/Repository-Aurora極光-informational?logo=github&logoColor=black&color=9debeb&style=social)](https://github.com/bilijp153?tab=repositories)
+[![](https://img.shields.io/badge/Repository-若涵-informational?logo=github&logoColor=black&color=9debeb&style=social)](https://github.com/catlingyun)
+[![](https://img.shields.io/github/license/bilijp153/ASUS-VivoBook-FL8700JP-icelake-i7-1065G7-Hackintosh?label=許可&style=social)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-i7-1065G7-Hackintosh/blob/main/License)
+[![img](https://img.shields.io/github/stars/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?color=ff69b4&label=點贊&logoColor=ff69b4&style=social)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-i7-1065G7-Hackintosh/stargazers)
+[![img](https://img.shields.io/github/followers/bilijp153.svg?label=粉絲&logoColor=success&style=social)](https://github.com/bilijp153?tab=followers)
+[![img](https://img.shields.io/github/contributors/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?logoColor=red&label=Contributors&style=social&logo=github)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-i7-1065G7-Hackintosh/graphs/contributors)
+[![img](https://img.shields.io/github/last-commit/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh.svg?logoColor=orange&label=Commit&style=social&logo=github)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-i7-1065G7-Hackintosh/graphs/commit-activity)
+[![](https://img.shields.io/badge/Bilibili-金俊綿小豆包-informational?logo=bilibili&logoColor=pink&color=5fb659&style=social)](https://space.bilibili.com/329351708?spm_id_from=333.337.0.0)
+[![](https://img.shields.io/badge/SinaWeibo-Aurora極光5431-informational?logo=sinaweibo&color=5fb659&style=social)](https://weibo.com/u/5264002671)
+[![](https://img.shields.io/badge/QQ-Aurora極光-informational?logo=tencentqq&color=5fb659&style=social&logoColor=black)](https://qm.qq.com/cgi-bin/qm/qr?k=B2Omg5IKCGWoMNXgMIPmA_AJqEMnMCUb&noverify=0&personal_qrcode_source=3)
+[![](https://img.shields.io/badge/Telegram-Aurora極光-informational?logo=telegram&logoColor=blue&color=5fb659&style=social)](https://t.me/Aurora_5223)
+[![](https://img.shields.io/badge/Twitter-極光-informational?logo=twitter&logoColor=blue&color=5fb659&style=social)](https://twitter.com/Aurora_jp123)
  
     ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/简体1.png)
 
