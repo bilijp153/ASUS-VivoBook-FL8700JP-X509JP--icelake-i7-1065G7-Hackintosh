@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="center" width="100" height="180" src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/hackintosh2.png">
+<img align="center" width="100" height="180" src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/hackintosh.png">
 <h1>The Hackintosh of ASUS VivoBook FL8700JP (X509JP) notebook</h1>
 
   <b> Hackintosh for Asuslaptop VivoBook FL8700JP (X509JP)
@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/Twitter-極光-informational?logo=twitter&logoColor=blue&color=5fb659&style=social)](https://twitter.com/Aurora_jp123)
  
     
-![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/简体1.png)
+![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/English1.png)
 
 
   </div>
