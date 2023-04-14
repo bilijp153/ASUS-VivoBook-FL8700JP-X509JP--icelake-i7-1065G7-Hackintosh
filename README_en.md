@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/Twitter-極光-informational?logo=twitter&logoColor=blue&color=5fb659&style=social)](https://twitter.com/Aurora_jp123)
  
     
-    ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/简体1.png)
+![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/简体1.png)
 
 
   </div>
