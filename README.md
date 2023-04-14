@@ -31,8 +31,10 @@
 
 ## 🤔 注意事项
 - 该 EFI 文件仅适用于 ASUS FL8700JP（X509JP） 笔记本，不保证在其他设备上的兼容性。
+- 使用本项目时请仔细阅读使用方法。
+- 本项目仅提供黑苹果 EFI 文件，不包含 macOS 操作系统镜像文件。
 - 在安装过程中，请确保所有数据已备份，以免意外丢失。
-- 如果遇到无法解决的问题，请参考 Hackintosh 社区的相关讨论或寻求专业人士的帮助。
+- 使用本项目可能会对电脑造成一定风险，如果遇到无法解决的问题，请参考 Hackintosh 社区的相关讨论或寻求专业人士的帮助。
 
   
 # 📄目录
@@ -228,9 +230,12 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
 1. [下载](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)本仓库中的 EFI 文件。
 2. 使用 USB 启动盘创建工具（推荐balenaEtcher）制作 U 盘启动盘。
 3. 将 EFI 文件夹复制到 U 盘的 EFI 分区中。
-4. 将 U 盘插入笔记本并启动。
-5. 在 OpenCore 引导界面中选择“Install macOS”（安装 macOS）。
+4. 进入 BIOS 设置，在 Boot Options 中选择 U 盘启动。
+5. 进入 OpenCore 引导界面，选择u盘中的“Install macOS”（安装 macOS）。
 6. 根据安装向导完成安装。
+7. 安装完成后，将 U 盘中的 EFI 文件夹复制到电脑硬盘的 EFI 分区中。
+8. 重新启动电脑，即可进入 macOS 操作系统。
+
 
 ### 更改SMBIOS（三码）
 - 使用OCAT或OpenCore Configurator（下称该工具）的机型菜单生成您唯一的`SMBIOS（三码）`信息。
