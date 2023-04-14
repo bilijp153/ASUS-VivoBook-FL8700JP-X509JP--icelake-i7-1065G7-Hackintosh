@@ -307,9 +307,7 @@ The `SMBIOS (three codes)` must be unique, you cannot use the one present in thi
    
 ## 🙏 Thanks
     - [daliansky blog](https://blog.daliansky.net/)--A Hackintosh blog web
-    
-    - [corpnewt](https://github.com/corpnewt)of[brigadier](https://github.com/corpnewt/brigadier)--Real Mac Boot Tool
-    
+    - [corpnewt](https://github.com/corpnewt)of[brigadier](https://github.com/corpnewt/brigadier)--Real Mac Boot Tool 
     - [daliansky](https://github.com/daliansky)of[Hackintosh](https://github.com/daliansky/Hackintosh)--Join my model guide to increase my EFI popularity
   
 ## 📧 Contact
