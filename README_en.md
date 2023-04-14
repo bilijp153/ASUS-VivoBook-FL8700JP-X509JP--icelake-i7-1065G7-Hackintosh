@@ -57,7 +57,7 @@
 - This project only provides black Apple EFI files, and does not include macOS operating system image files.
 - During installation, please make sure all data is backed up to avoid accidental loss.
 - This project is for learning and research purposes only, please do not use it for commercial purposes or other illegal purposes
-- Using this project may cause certain risks to the computer. If you encounter any problems, please refer to the relevant discussions in the Hackintosh community or seek professional help or in [Issues](https://github.com/username/repo/issues), we will contact you as soon as possible to solve it.
+- Using this project may cause certain risks to the computer. If you encounter any problems, please refer to the relevant discussions in the Hackintosh community ，or seek professional help， or in [Issues](https://github.com/username/repo/issues) we will contact you as soon as possible to solve it.
 
  
 ## 📦 Configuration file
