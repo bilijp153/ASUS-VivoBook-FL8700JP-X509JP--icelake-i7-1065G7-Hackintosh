@@ -146,6 +146,7 @@ This machine is equipped with a 10mm [Intel Core Ice Lake i7-1065G7 processor](h
 
 
 ### GPU
+
 | **Model** | **Compatibility** | **HDMI** | **DP** |
 | ---------- | -----------------------|-------------- -------------|----------------|
 | Nvidia MX330 | Not Compatible | - | - |
