@@ -300,9 +300,9 @@ FN部分功能鍵為Windows上的軟件專用，固在Mac上無反應
 
 
 ## 👨 主要人員
-   #### 維護人員 ©[Aurora極光](https://github.com/bilijp153)，基於[許可](./License)發布。
+   #### 維護人員 ©[Aurora极光](https://github.com/bilijp153)，基於[許可](./License)發布。
    #### 測試人員  [若涵](https://github.com/catlingyun)
-   在[貢獻者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的幫助下，由[Aurora極光](https://github.com/bilijp153)編寫和維護。
+   在[貢獻者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的幫助下，由[Aurora极光](https://github.com/bilijp153)編寫和維護。
    
    
 ## 🙏 感謝
