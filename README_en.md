@@ -179,7 +179,7 @@ The sound card equipped with this machine is `Realtek ALC256`, with Intel's Zhiy
 - [x] Switch Windows to Mac with sound
 - [ ] HDMI sound
 
-Note: Mac startup sound needs to go to `config.plist` to enable
+Note: To turn off the Mac startup sound go to System Settings > Sound > Play a sound on startup
    
     Switching from Windows to Mac with sound requires Windows sound card driver to be a third-party driver or Windows original driver
 
