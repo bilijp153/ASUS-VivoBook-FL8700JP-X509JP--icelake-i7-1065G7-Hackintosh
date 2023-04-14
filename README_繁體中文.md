@@ -181,7 +181,7 @@ EFI
 - [x] Windows切換到Mac有聲
 - [ ] HDMI聲音
 
-注：Mac啟動聲音需去`config.plist`開啟
+注：要關閉Mac啟動聲音需去系統設置>聲音>啓動時播放聲音
    
    Windows切換到Mac有聲需Windows的聲卡驅動為第三方的驅動或Windows原版驅動
 
