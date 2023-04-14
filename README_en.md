@@ -308,13 +308,13 @@ The `SMBIOS (three codes)` must be unique, you cannot use the one present in thi
 ## 🙏 Thanks
     
   
-  - [daliansky blog](https://blog.daliansky.net/)--A Hackintosh blog web
+  - [Acidanthera](https://github.com/acidanthera)--provided OpenCore bootloader and related kexts
+  
+  
+  - [daliansky](https://github.com/daliansky)--provided related tutorials and EFI, and his [Hackintosh](https://github.com/daliansky/Hackintosh)--joined my machine type boot to increase my EFI visibility
     
   
-  - [corpnewt](https://github.com/corpnewt) [brigadier](https://github.com/corpnewt/brigadier)--Real Mac Boot Tool 
-    
-  
-  - [daliansky](https://github.com/daliansky) [Hackintosh](https://github.com/daliansky/Hackintosh)--Join my model guide to increase my EFI popularity
+  -[brigadier](https://github.com/corpnewt/brigadier) of [corpnewt](https://github.com/corpnewt)--Ginkgo startup method tool
   
   
 ## 📧 Contact
