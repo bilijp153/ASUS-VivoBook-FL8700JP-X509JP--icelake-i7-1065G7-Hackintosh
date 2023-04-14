@@ -24,8 +24,7 @@
    ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/简体1.png)
 
  </div>
- 
- # 🖥️ ASUS FL8700JP笔记本的黑苹果EFI
+
 该项目是为了在 ASUS FL8700JP 笔记本上安装黑苹果而创建的。本仓库包含了必要的 EFI 文件和相关的说明，以便用户可以轻松地在该笔记本上安装黑苹果。
 
  
