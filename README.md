@@ -47,7 +47,7 @@
 
 
 ## 🔎 語言選擇   
-- [繁體中文版本](README_繁體中文.md) 
+- [简体中文版本](README.md) 
 - [English Version](README_en.md)
 
  
