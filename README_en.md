@@ -46,7 +46,7 @@
 
 
 ## 🔎 Language selection
-- [Traditional Chinese Version](README_Traditional Chinese.md)
+- [Traditional Chinese Version](README_繁體中文.md)
 - [English Version](README_en.md)
 
  
