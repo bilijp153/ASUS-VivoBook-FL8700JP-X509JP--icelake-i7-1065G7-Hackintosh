@@ -99,7 +99,7 @@ EFI
 
 [![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?label=下载)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)
 
-## ⚙️ 配置
+## ⚙ 配置
 
 |    配置       |        型号                 |
 |--------------|-----------------------------|
