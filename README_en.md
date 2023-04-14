@@ -39,7 +39,7 @@
 - [What works and what doesn't](#-What-works-and-what-doesn't)
 - [Hardware Compatibility](#ℹ-Hardware-Compatibility)
 - [Installation Guide](#-Installation-Guide)
-- [## Common Problem](### Common-Problem)
+- [Common Problem](#Common-Problem)
 - [Principal Personnel](#-Principal-Personnel)
 - [Thanks](#-Thanks)
 - [Contact](#-Contact)
