@@ -46,8 +46,8 @@
 
 
 ## 🔎 Language selection
+- [Simplified Chinese Version](README.md)
 - [Traditional Chinese Version](README_繁體中文.md)
-- [English Version](README_en.md)
 
  
 
