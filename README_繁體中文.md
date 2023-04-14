@@ -18,8 +18,9 @@
 [![](https://img.shields.io/badge/嗶哩嗶哩-金俊綿小豆包-informational?logo=bilibili&logoColor=pink&color=5fb659&style=social)](https://space.bilibili.com/329351708?spm_id_from=333.337.0.0)
 [![](https://img.shields.io/badge/微博-Aurora極光5431-informational?logo=sinaweibo&color=5fb659&style=social)](https://weibo.com/u/5264002671)
 [![](https://img.shields.io/badge/QQ-Aurora極光-informational?logo=tencentqq&color=5fb659&style=social&logoColor=black)](https://qm.qq.com/cgi-bin/qm/qr?k=B2Omg5IKCGWoMNXgMIPmA_AJqEMnMCUb&noverify=0&personal_qrcode_source=3)
-[![](https://img.shields.io/badge/電報-Aurora極光-informational?logo=telegram&logoColor=blue&color=5fb659&style=social)](https://t.me/Aurora_5223)
-[![](https://img.shields.io/badge/推特-極光-informational?logo=twitter&logoColor=blue&color=5fb659&style=social)](https://twitter.com/Aurora_jp123)
+[![](https://img.shields.io/badge/Telegram-Aurora極光-informational?logo=telegram&logoColor=blue&color=5fb659&style=social)](https://t.me/Aurora_5223)
+[![](https://img.shields.io/badge/Twitter-極光-informational?logo=twitter&logoColor=blue&color=5fb659&style=social)](https://twitter.com/Aurora_jp123)
+ 
  
    ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/简体1.png)
 
