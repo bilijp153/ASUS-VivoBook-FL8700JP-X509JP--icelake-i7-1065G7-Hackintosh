@@ -300,15 +300,16 @@ The `SMBIOS (three codes)` must be unique, you cannot use the one present in thi
 
 
 ## 👨 Principal Personnel
-    #### Maintainer ©[Aurora 极光](https://github.com/bilijp153), released based on [License](./License).
-    #### Tester [若涵](https://github.com/catlingyun)
-    With the help of [Contributors](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors), by [Aurora 极光](https://github.com/ bilijp153) written and maintained.
+   #### Maintainer ©[Aurora极光](https://github.com/bilijp153)，released based on[License](./License).
+   #### Tester  [若涵](https://github.com/catlingyun)
+   With the help of[貢獻者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)，by[Aurora极光](https://github.com/bilijp153)written and maintained.
    
    
 ## 🙏 Thanks
-    - [Black Fruit Soldier's Tribal Pavilion](https://blog.daliansky.net/)--Black Apple Mirror Download Site
-    - [brigadier](https://github.com/corpnewt/brigadier) of [corpnewt](https://github.com/corpnewt)--Ginkgo startup method tool
-    - [Hackintosh](https://github.com/daliansky/Hackintosh) of [daliansky](https://github.com/daliansky)--Join my model guide to increase my EFI popularity
+    - [daliansky blog](https://blog.daliansky.net/)--A Hackintosh blog web
+    - [corpnewt](https://github.com/corpnewt)of[brigadier](https://github.com/corpnewt/brigadier)--Real Mac Boot Tool
+    - [daliansky](https://github.com/daliansky)of[Hackintosh](https://github.com/daliansky/Hackintosh)--Join my model guide to increase my EFI popularity
+  
 ## 📧 Contact
 
 If you have any questions or suggestions, please feel free to contact the author of this project.
