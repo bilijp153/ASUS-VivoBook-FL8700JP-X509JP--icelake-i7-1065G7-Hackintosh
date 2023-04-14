@@ -24,6 +24,16 @@
    ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/简体1.png)
 
  </div>
+ 
+ # 🖥️ ASUS FL8700JP笔记本的黑苹果EFI
+该项目是为了在 ASUS FL8700JP 笔记本上安装黑苹果而创建的。本仓库包含了必要的 EFI 文件和相关的说明，以便用户可以轻松地在该笔记本上安装黑苹果。
+
+
+## 🤔 注意事项
+- 该 EFI 文件仅适用于 ASUS FL8700JP（X509JP） 笔记本，不保证在其他设备上的兼容性。
+- 在安装过程中，请确保所有数据已备份，以免意外丢失。
+- 如果遇到无法解决的问题，请参考 Hackintosh 社区的相关讨论或寻求专业人士的帮助。
+
   
 # 📄目录
 - [语言选择（語言選擇/Language Selection）](#语言选择)
@@ -202,7 +212,8 @@
 FN部分功能键为Windows上的软件专用，固在Mac上无反应
 
 
-## 📔安装前操作
+
+## 🛠️ 安装指南
 
 ### 更改BIOS设置
 该项请看[BIOS](#BIOS)
@@ -213,26 +224,12 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
 - 确认没有内置其他黑苹果不支持的固态和机械盘
 
 ### 下载和安装Mac
-- [下载](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)EFI
-- 去[黑果小兵的部落阁](https://blog.daliansky.net/)下载黑苹果镜像(下载的版本请看[系统兼容性](#系统兼容性)）
-- 下载balenaEtcher
-- 使用至少16G大小的U盘拷录下载的黑苹果镜像
-- 把下载的EFI文件复制到硬盘的EFI分区
-- 使用软件（如EasyUEFI）建立刚复制到EFI分区的的EFI引导
-- 使用硬盘工具进行分区
-- 开机按Esc进入引导选择菜单，选择刚创建的EFI引导
-- 随后会进入OpenCore菜单，选择 Install 那项
-- 等待进度条跑满进入安装程序
-- 进入磁盘工具，选择刚才分区的那个盘符格式化为APFS后退出回到主界面
-- 选择安装Mac，按照提示进行安装
-- 多次重启后出现Mac设置界面
-- 完成设置后即可享用Mac
-
-注：设置EFI引导时需选择BootX64.efi，如果BootX64.efi不行则选择OC文件夹下的OpenCore.efi
-
-
-
-## 📔安装后操作
+1. [下载](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)本仓库中的 EFI 文件。
+2. 使用 USB 启动盘创建工具（推荐balenaEtcher）制作 U 盘启动盘。
+3. 将 EFI 文件夹复制到 U 盘的 EFI 分区中。
+4. 将 U 盘插入笔记本并启动。
+5. 在 OpenCore 引导界面中选择“Install macOS”（安装 macOS）。
+6. 根据安装向导完成安装。
 
 ### 更改SMBIOS（三码）
 - 使用OCAT或OpenCore Configurator（下称该工具）的机型菜单生成您唯一的`SMBIOS（三码）`信息。
@@ -253,11 +250,11 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
 - 按照提示安装py
 - 完成后程序会自动下载`Windows上的Bootcamp程序`
 - 按照提示把下载来的`dmg`打开，把里面的文件复制到Windows系统盘
-- 进入EFI的机型设置`使用OCAT或OpenCore Configurator`打开，修改机型项让`Windows`认为你是Mac机型
+- 进入EFI的机型设置`使用OCAT或OpenCore Configurator`打开，修改机型`UpdateSMBIOSMod为Create和开启SpoofVendor`让`Windows`认为你是Mac机型
 - 重启进Windows（怎么进Windows看[BIOS](#BIOS)）
 - 安装Bootcamp程序
 - 按照安装程序提示重启，然后回`Mac`
-- 进入EFI的机型设置`使用OCAT或OpenCore Configurator`打开，修改机型项让`Windows`不再认为你是Mac机型
+- 进入EFI的机型设置`使用OCAT或OpenCore Configurator`打开，修改机型的修改机型`UpdateSMBIOSMod为Custom和关闭SpoofVendor`让`Windows`不再认为你是Mac机型
 - 完成！享受白苹果方式的启动吧
 
 
@@ -284,5 +281,13 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
    - [黑果小兵的部落阁](https://blog.daliansky.net/)--黑苹果镜像下载网站
    - [corpnewt](https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)--白果启动方式工具
    - [daliansky](https://github.com/daliansky)的[Hackintosh](https://github.com/daliansky/Hackintosh)--加入我机型引导增加我EFI知名度
+   
+   
+   ## 🚀 贡献指南
+欢迎对该项目进行贡献。如果您发现了问题或者有任何改进意见，请通过 GitHub 的 Issues 或者 Pull Requests 功能与我们联系。
+
+
+## 📄 许可证
+该项目采用 MIT 许可证，详情请参见 [LICENSE](LICENSE) 文件。
    
 
