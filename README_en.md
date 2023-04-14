@@ -38,7 +38,7 @@
 - [What works and what doesn't](#-What-works-and-what-doesn't)
 - [Hardware Compatibility](#ℹ-Hardware-Compatibility)
 - [Installation Guide](#-Installation-Guide)
-- [Bugs](#-Bugs)
+- [## Common Problem](### Common-Problem)
 - [Principal Personnel](#-Principal-Personnel)
 - [Thanks](#-Thanks)
 - [Contact](#-Contact)
@@ -288,16 +288,31 @@ The `SMBIOS (three codes)` must be unique, you cannot use the one present in thi
 
 
 
-## ❗ Bugs
-1.~~There is a possibility that Mac OS will have no sound when switching from Windows to Mac OS. )
+## Common Problem
 
-2. ~~sleep~~ (fixed)
+Q: Why is there no response when Type-C is plugged into the DP display?
 
-3.~~Battery~~ (Repaired)
+A: Because the Type-C of this machine is connected to the USB interface instead of the PCI interface, it does not support some functions such as DP.
 
-4.~~Intermittent power-on black screen problem of nuclear display~~(Fixed)
+Q: What should I do if there is Duang sound when I turn on the device?
 
-5. ELAN1200 indirect disconnection (belongs to ELAN1200 common fault)
+A: Go to System Settings>Sound Off Play Sound at Startup
+
+Q: What should I do if there is no sound when switching from Windows to Mac?
+
+A: If you switch from Windows to Mac and want to have sound, you need a Windows sound card driver. The Windows original driver and the driver manufacturer are Microsoft instead of Realtek.
+
+Q: What should I do if the touchpad does not respond after using it?
+
+A: The touchpad of this machine is ELAN1200, and there will be a crash phenomenon, which needs to be restarted or sleep and wake up to solve it (it is a known bug, and there is no way to fix it)
+
+Q: How to set default startup items?
+
+A: Press `Ctrl+Enter` or `Mac System Preferences-Startup Disk (under Ventura, System Settings-General-Startup Disk)` to select the default startup disk through the OC boot interface.
+
+Q: Why can't HDMI be used?
+
+A: Because the native processor, that is, the Ice Lake processor, has been removed by Apple to support HDMI, it cannot be used
 
 
 ## 👨 Principal Personnel
