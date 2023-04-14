@@ -289,9 +289,13 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
    - [daliansky](https://github.com/daliansky)的[Hackintosh](https://github.com/daliansky/Hackintosh)--加入我机型引导增加我EFI知名度
    
    
-   ## 🚀 贡献指南
-欢迎对该项目进行贡献。如果您发现了问题或者有任何改进意见，请通过 GitHub 的 Issues 或者 Pull Requests 功能与我们联系。
+## 📧 联系方式
 
+如有问题或建议，欢迎联系本项目的作者。
+
+- 邮箱：1551656605@qq.com
+- GitHub：https://github.com/bilijp153
+- 还可以通过 GitHub 的 Issues 或者 Pull Requests 功能与我们联系。
 
 ## 📄 许可证
 该项目采用 MIT 许可证，详情请参见 [许可证](License) 文件。
