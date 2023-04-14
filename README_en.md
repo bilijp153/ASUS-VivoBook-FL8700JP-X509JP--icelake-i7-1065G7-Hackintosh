@@ -108,7 +108,7 @@ Among them, Bootx64.efi in Boot is the notebook EFI boot file; ACPI in OC includ
 | Sound Card | Realtek ALC256 |
 | Wireless Network Card | Intel Wireless-AC 9461 |
 | Touchpad | ELAN1200 |
-| OpenCore version| [![](https://img.shields.io/github/v/release/acidanthera/OpenCorePkg?include_prereleases&style=social&label=&logo=apple)](https://github.com/acidanthera/OpenCorePkg /releases) |
+| OpenCore version| [![](https://img.shields.io/github/v/release/acidanthera/OpenCorePkg?include_prereleases&style=social&label=&logo=apple)](https://github.com/acidanthera/OpenCorePkg/releases) |
 
 ## ✅ System Compatibility
 
@@ -141,7 +141,7 @@ Note: Catalina supports from version 10.15.4
 ## ℹ Hardware Compatibility
 
 ### CPU
-This machine is equipped with a 10mm [Intel Core Ice Lake i7-1065G7 processor] (https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor -8m-cache-up-to-3-90-ghz/specifications.html)
+This machine is equipped with a 10mm [Intel Core Ice Lake i7-1065G7 processor] (https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
 
 
 
