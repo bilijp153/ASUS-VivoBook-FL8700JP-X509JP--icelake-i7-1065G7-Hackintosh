@@ -29,11 +29,11 @@
 该项目是为了在 ASUS FL8700JP 笔记本上安装黑苹果而创建的。本仓库包含了必要的 EFI 文件和相关的说明，以便用户可以轻松地在该笔记本上安装黑苹果。
 
  
- # 📄目录
+ # 📄 目录
 - [语言选择（語言選擇/Language Selection）](#-语言选择)
 - [注意事项](#-注意事项)
 - [配置文件](#-配置文件)
-- [实机图片](#-实机图片)
+- [实机图片](#实机图片)
 - [下载地址](#-下载地址)
 - [配置](#-配置)
 - [系统兼容性](#-系统兼容性)
@@ -48,7 +48,7 @@
 - [许可证](#-许可证)
 
 
-## 🔎语言选择   
+## 🔎 语言选择   
 - [繁體中文版本](README_繁體中文.md) 
 - [English Version](README_en.md)
 
@@ -92,11 +92,11 @@ EFI
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/EFI.png)
 #### 引导界面图标
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/icns.png)
-## ⬇下载地址
+## ⬇ 下载地址
 
 [![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?label=下载)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)
 
-## ⚙️配置
+## ⚙️ 配置
 
 |    配置       |        型号                 |
 |--------------|-----------------------------|
@@ -110,7 +110,7 @@ EFI
 |   触摸板     |        ELAN1200      |
 |  OpenCore版本     |          [![](https://img.shields.io/github/v/release/acidanthera/OpenCorePkg?include_prereleases&style=social&label=&logo=apple)](https://github.com/acidanthera/OpenCorePkg/releases)     |
 
-## ✅系统兼容性
+## ✅ 系统兼容性
 
   - [ ] Mojave和之前的版本 
   - [x] Catalina 
@@ -120,7 +120,7 @@ EFI
 
 注:Catalina从10.15.4版本起支持
 
-## ❓什么工作和不工作
+## ❓ 什么工作和不工作
 - [x] Type-C
 - [x] USB接口
 - [x] 读卡器
@@ -138,7 +138,7 @@ EFI
 - [ ] HDMI
 
 
-## ℹ️硬件兼容性
+## ℹ️ 硬件兼容性
 
 ### CPU 
 本机搭载的是10mm的[Intel Core Ice Lake i7-1065G7 处理器](https://www.intel.cn/content/www/cn/zh/products/sku/196597/intel-core-i71065g7-processor-8m-cache-up-to-3-90-ghz/specifications.html)
@@ -167,7 +167,7 @@ EFI
 注:本机NVRAM在Mac下能正常使用，通过OC引导界面按`Ctrl+Enter`或 `Mac 的偏好设置-启动磁盘（Ventura下为系统设置-通用-启动磁盘）`选择默认启动盘。
 
 
-### 🔊声卡和麦克风
+### 🔊 声卡和麦克风
 本机搭载声卡是`Realtek ALC256`，带有Intel的智音技术
 ##### 声卡和麦克风功能
 - [x] 播放声音
@@ -185,7 +185,7 @@ EFI
 
   
    
-### ᯤWiFi和蓝牙
+### ᯤ WiFi和蓝牙
 - 本机搭载的网卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
 - 蓝牙为5.0
 
@@ -200,7 +200,7 @@ EFI
 
 
 
-### 🔌Type-C和USB
+### 🔌 Type-C和USB
 
 ##### Type-C和USB功能
 
@@ -217,7 +217,7 @@ EFI
 注:本机的Type-C是接在USB接口上而不是PCI接口上，固不支持一些功能
 
 
-### ⌨️触摸板和键盘
+### ⌨️ 触摸板和键盘
 本机触摸板为`ELAN1200`
 本机内置键盘为`PS2键盘`
 
@@ -287,7 +287,7 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
 
 
 
-## :warning:Bug
+## ❗ Bug
 1.~~声音有概率`从 Windows 切换到 Mac OS`时 Mac OS 无声音 (` Windows`下的` Realtek`驱动若为` Windows`自带的HDA驱动则无此Bug）~~ （已修复）
 
 2.~~睡眠~~（已修复）
@@ -299,7 +299,7 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
 5.ELAN1200间接性断触（属于ELAN1200通病）
 
 
-## 👨‍💻‍主要人员
+## 👨‍💻‍ 主要人员
    #### 维护人员 ©[Aurora极光](https://github.com/bilijp153)，基于[许可](./License)发布。
    #### 测试人员  [若涵](https://github.com/catlingyun)
    在[贡献者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的帮助下，由[Aurora极光](https://github.com/bilijp153)编写和维护。
