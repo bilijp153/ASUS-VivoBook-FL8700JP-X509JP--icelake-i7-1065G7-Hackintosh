@@ -26,19 +26,19 @@
   </div>
 
  
-  # 📄 directory
+  # 📄 Directory
 - [Language Selection (Language Selection/Language Selection)](#-Language Selection)
-- [notes] (#-notes)
-- [config file] (#-config file)
-- [Pictures of real machine](#Pictures of real machine)
-- [download address](#-download address)
-- [configuration] (#-configuration)
-- [system compatibility] (#-system compatibility)
+- [Precautions] (#-Precautions)
+- [Configuration file] (#-Configuration file)
+- [machine picture](#Machine picture)
+- [download link](#-Download link)
+- [configuration] (#-Configuration)
+- [system compatibility] (#-System Compatibility)
 - [Changelog](Changelog.md)
-- [what worked and didn't work] (#-what worked and didn't work)
+- [What works and what doesn't] (#-What works and what doesn't)
 - [Hardware Compatibility] (#ℹ-Hardware Compatibility)
-- [Install Guide](#-Install Guide)
-- [Bug] (#-bug)
+- [Installation Guide](#-Installation Guide)
+- [Bugs] (#-Bugs)
 - [Principal Personnel] (#-Principal Personnel)
 - [Thanks] (#-Thanks)
 - [Contact] (#-Contact)
@@ -81,7 +81,7 @@ EFI
 Among them, Bootx64.efi in Boot is the notebook EFI boot file; ACPI in OC includes files such as DSDT, SSDT, UEFI variables and patches, Kexts includes drivers, Drivers includes OpenCore bootloader, Tools includes OpenCore related Tools, Resources contains the Opencore boot interface theme (graphical interface), config.plist is the OpenCore configuration file, Opencore.efi is the Opencore boot file.
 
 
-## Real machine picture
+## Machine picture
 
 ### Model picture
 ![AsusFL8700JP](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer4.png)
@@ -96,7 +96,7 @@ Among them, Bootx64.efi in Boot is the notebook EFI boot file; ACPI in OC includ
 
 [![Download from https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP- Hackintosh?label=Download)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)
 
-## ⚙ configuration
+## ⚙ Configuration
 
 | Configuration | Model |
 |--------------|-----------------------------|
@@ -299,7 +299,7 @@ The `SMBIOS (three codes)` must be unique, you cannot use the one present in thi
 5. ELAN1200 indirect disconnection (belongs to ELAN1200 common fault)
 
 
-## 👨 Key personnel
+## 👨 Principal Personnel
     #### Maintainer ©[Aurora Jiguang](https://github.com/bilijp153), released based on [License](./License).
     #### Tester [Ruohan](https://github.com/catlingyun)
     With the help of [Contributors](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors), by [Aurora Jiguang](https://github.com/ bilijp153) written and maintained.
