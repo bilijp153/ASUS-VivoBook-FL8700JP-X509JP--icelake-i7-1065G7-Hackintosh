@@ -289,6 +289,6 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
 
 
 ## 📄 许可证
-该项目采用 MIT 许可证，详情请参见 [LICENSE](LICENSE) 文件。
+该项目采用 MIT 许可证，详情请参见 [License](License) 文件。
    
 
