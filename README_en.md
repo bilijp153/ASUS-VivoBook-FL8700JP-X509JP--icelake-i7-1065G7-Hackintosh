@@ -308,7 +308,7 @@ A: The touchpad of this machine is ELAN1200, and there will be a crash phenomeno
 
 Q: How to set default startup items?
 
-A: Press `Ctrl+Enter` or `Mac System Preferences-Startup Disk (under Ventura, System Settings-General-Startup Disk)` to select the default startup disk through the OC boot interface.
+A: Press `Ctrl+Enter` or `Mac System Preferences>Startup Disk (under Ventura, System Settings>General>Startup Disk)` to select the default startup disk through the OC boot interface.
 
 Q: Why can't HDMI be used?
 
