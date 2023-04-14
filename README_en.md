@@ -27,7 +27,7 @@
 
  
   # 📄 Directory
-- [Language Selection](Language Selection/Language Selection)](#-Language-Selection)
+- [Language Selection(Language Selection/Language Selection)](#-Language-Selection)
 - [Precautions](#-Precautions)
 - [Configuration file](#-Configuration-file)
 - [Machine picture](#Machine-picture)
