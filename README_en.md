@@ -27,22 +27,22 @@
 
  
   # 📄 Directory
-- [Language Selection (Language Selection/Language Selection)](#-Language Selection)
+- [Language Selection] (Language Selection/Language Selection)](#-Language Selection)
 - [Precautions] (#-Precautions)
-- [Configuration file] (#-Configuration file)
-- [machine picture](#Machine picture)
-- [download link](#-Download link)
-- [configuration] (#-Configuration)
-- [system compatibility] (#-System Compatibility)
+- [Configuration-file] (#-Configuration file)
+- [Machine-Picture](#Machine Picture)
+- [Download-Link](#-Download Link)
+- [Configuration] (#-Configuration)
+- [System-Compatibility] (#-System Compatibility)
 - [Changelog](Changelog.md)
-- [What works and what doesn't] (#-What works and what doesn't)
-- [Hardware Compatibility] (#ℹ-Hardware Compatibility)
-- [Installation Guide](#-Installation Guide)
+- [What-works-and-what-doesn't] (#-What works and what doesn't)
+- [Hardware-Compatibility] (#ℹ-Hardware Compatibility)
+- [Installation-Guide](#-Installation Guide)
 - [Bugs] (#-Bugs)
-- [Principal Personnel] (#-Principal Personnel)
+- [Principal-Personnel] (#-Principal Personnel)
 - [Thanks] (#-Thanks)
 - [Contact] (#-Contact)
-- [Copyright Notice](#-Copyright Notice)
+- [Copyright-Notice](#-Copyright Notice)
 
 
 ## 🔎 Language selection
