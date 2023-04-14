@@ -25,6 +25,7 @@
 
   </div>
 
+  ### ❗Note that this page is based on Google Translate. Please point out any translation errors
  
   # 📄 Directory
 - [Language Selection(Language Selection/Language Selection)](#-Language-Selection)
