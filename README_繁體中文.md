@@ -306,9 +306,9 @@ FN部分功能鍵為Windows上的軟件專用，固在Mac上無反應
    
    
 ## 🙏 感謝
-   - [黑果小兵的部落閣](https://blog.daliansky.net/)--黑蘋果鏡像下載網站
+   - [Acidanthera](https://github.com/acidanthera)--提供的 OpenCore 引導程序和相關 kext
+   - [daliansky](https://github.com/daliansky)--提供的相關教程和 EFI和他的的[Hackintosh](https://github.com/daliansky/Hackintosh)--加入我機型引導增加我EFI知名度
    - [corpnewt](https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)--白果啟動方式工具
-   - [daliansky](https://github.com/daliansky)的[Hackintosh](https://github.com/daliansky/Hackintosh)--加入我機型引導增加我EFI知名度
 
  
 ## 📧 聯繫方式
