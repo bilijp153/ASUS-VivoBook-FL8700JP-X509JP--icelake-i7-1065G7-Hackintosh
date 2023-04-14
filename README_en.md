@@ -31,7 +31,7 @@
 - [Precautions](#-Precautions)
 - [Configuration file](#-Configuration-file)
 - [Machine picture](#Machine-picture)
-- [Download link] (#-Download-link)
+- [Download link](#-Download-link)
 - [Configuration](#-Configuration)
 - [System Compatibility](#-System-Compatibility)
 - [Changelog](Changelog.md)
