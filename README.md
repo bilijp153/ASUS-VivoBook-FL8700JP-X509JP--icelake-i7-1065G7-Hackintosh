@@ -151,20 +151,12 @@ EFI
 | Nvidia MX330     | 不兼容        |    -   |        -    |
 | Intel lris Plus Graphics G7        | 兼容 |    不支持   |    支持      |
 
-注:本机的Intel 核显 ID为 0x8A5C0001
-
-   该核显支持DP但是本机没有DP接口
-
-   Ice Lake处理器已被苹果公司去除HDMI支持，故不能使用
-   
   
   ### BIOS
 
 - 需关闭`SecureBoot`和`FastBoot`
 - 硬盘模式要修改为`AHCI`
 - DVMT要修改为`64M`
-
-注:本机NVRAM在Mac下能正常使用，通过OC引导界面按`Ctrl+Enter`或 `Mac 的偏好设置-启动磁盘（Ventura下为系统设置-通用-启动磁盘）`选择默认启动盘。
 
 
   ### 🔊 声卡和麦克风
@@ -178,10 +170,6 @@ EFI
     - [x] USB音箱
     - [x] Windows切换到Mac有声
     - [ ] HDMI声音
-
-    注：要关闭Mac启动声音需去系统设置>声音>启动时播放声音
-   
-   Windows切换到Mac有声需Windows的声卡驱动为第三方的驱动或Windows原版驱动
 
   
    
@@ -214,7 +202,6 @@ EFI
     - [ ] 显卡坞
     - [ ] 充电
 
-    注:本机的Type-C是接在USB接口上而不是PCI接口上，固不支持一些功能
 
 
  ### ⌨️ 触摸板和键盘
@@ -230,11 +217,8 @@ EFI
    - [x] FN功能的使用
    - [x] 键盘大写键的开启灯
    - [x] Mac快捷键
-   - [ ] 键盘背光（键盘不支持）  
+   - [ ] 键盘背光 
 
-   注:本机触摸板存在死机现象，需重启或睡眠再唤醒解决
-
-   FN部分功能键为Windows上的软件专用，固在Mac上无反应
 
 
 
@@ -285,19 +269,15 @@ EFI
 - 进入EFI的机型设置`使用OCAT或OpenCore Configurator`打开，修改机型的修改机型`UpdateSMBIOSMod为Custom和关闭SpoofVendor`让`Windows`不再认为你是Mac机型
 - 完成！享受白苹果方式的启动吧
 
+## 常见问题
 
+Q: Type-C 插入DP显示器为啥没反应？
 
-## ❗ Bug
-1.~~声音有概率`从 Windows 切换到 Mac OS`时 Mac OS 无声音 (` Windows`下的` Realtek`驱动若为` Windows`自带的HDA驱动则无此Bug）~~ （已修复）
+A: 因为本机的Type-C是接在USB接口上而不是PCI接口上，固不支持一些功能如DP。
 
-2.~~睡眠~~（已修复）
+Q: 安装过程中遇到了问题怎么办？
 
-3.~~电池~~ （已修复）
-
-4.~~核显间歇性开机黑屏问题~~（已修复）
-
-5.ELAN1200间接性断触（属于ELAN1200通病）
-
+A: 可以参考 OpenCore 官方文档或在社区中寻求帮助。
 
 ## 👨 主要人员
    #### 维护人员 ©[Aurora极光](https://github.com/bilijp153)，基于[许可](./License)发布。
