@@ -295,7 +295,7 @@ FN部分功能键为Windows上的软件专用，固在Mac上无反应
 
 - 邮箱：1551656605@qq.com
 - GitHub：https://github.com/bilijp153
-- 还可以通过 GitHub 的 Issues 或者 Pull Requests 功能与我们联系。
+- 还可以通过 GitHub 的 [Issues](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-X509JP--icelake-i7-1065G7-Hackintosh/issues)功能与我们联系。
 
 ## 📄 许可证
 该项目采用 MIT 许可证，详情请参见 [许可证](License) 文件。
