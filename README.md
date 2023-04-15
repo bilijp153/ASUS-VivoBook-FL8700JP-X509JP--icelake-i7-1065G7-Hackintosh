@@ -295,6 +295,11 @@ A: 通过OC引导界面按`Ctrl+Enter`或 `Mac 的系统偏好设置>启动磁�
 Q:为什么HDMI不能使用？
 
 A: 因为本机处理器即Ice Lake处理器已被苹果公司去除HDMI支持，故不能使用
+ 
+ 
+## 新功能完成进度
+ 
+  http://progressed.io/bar/36?title=Mac原生睡眠功能
 
 ## 👨 主要人员
    #### 维护人员 ©[Aurora极光](https://github.com/bilijp153)，基于[许可](./License)发布。
