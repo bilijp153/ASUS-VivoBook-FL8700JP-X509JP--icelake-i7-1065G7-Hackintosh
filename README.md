@@ -324,6 +324,6 @@ A: 因为本机处理器即Ice Lake处理器已被苹果公司去除HDMI支持�
 ## 📄 版权声明
 本项目遵循 MIT 开源协议。您可以自由地使用、修改和分发本项目，但请注明出处并保留原始版权声明。详情请参见 [许可证](License) 文件。
  
-©2021-2023 Aurora. All rights reserved.
+©2023 Aurora. All rights reserved.
    
 
