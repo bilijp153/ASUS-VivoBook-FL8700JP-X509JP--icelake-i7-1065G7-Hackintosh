@@ -299,7 +299,7 @@ A: 因为本机处理器即Ice Lake处理器已被苹果公司去除HDMI支持�
  
 ## 新功能完成进度
  
-  ![Progress](https://progress-bar.dev/36/?title=原生睡眠&width=120)
+  ![](https://geps.dev/progress/32?dangerColor=800000&warningColor=ff9900&successColor=006600&title=原生睡眠)
 
 ## 👨 主要人员
    #### 维护人员 ©[Aurora极光](https://github.com/bilijp153)，基于[许可](./License)发布。
