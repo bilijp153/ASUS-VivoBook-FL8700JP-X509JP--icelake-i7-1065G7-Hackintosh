@@ -302,9 +302,11 @@ A: 因为本机处理器即Ice Lake处理器已被苹果公司去除HDMI支持�
    
    
 ## 🙏 感谢
-   - [Acidanthera](https://github.com/acidanthera)--提供的 OpenCore 引导程序和相关 kext
-   - [daliansky](https://github.com/daliansky)--提供的相关教程和 EFI和他的的[Hackintosh](https://github.com/daliansky/Hackintosh)--加入我机型引导增加我EFI知名度
-   - [corpnewt](https://github.com/corpnewt)的[brigadier](https://github.com/corpnewt/brigadier)--白果启动方式工具
+   感谢以下人物、项目或论坛提供的驱动和教程
+   - [Acidanthera](https://github.com/acidanthera)
+   - [daliansky](https://github.com/daliansky)
+   - [Hackintosh](https://github.com/daliansky/Hackintosh)
+   - [brigadier](https://github.com/corpnewt/brigadier)
    
    
 ## 📧 联系方式
