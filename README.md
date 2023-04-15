@@ -301,14 +301,7 @@ A: 因为本机处理器即Ice Lake处理器已被苹果公司去除HDMI支持�
    在[贡献者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的帮助下，由[Aurora极光](https://github.com/bilijp153)编写和维护。
    
    
-## 🙏 感谢
-   感谢以下人物、项目或论坛提供的驱动和教程
-   - [Acidanthera](https://github.com/acidanthera)
-   - [daliansky](https://github.com/daliansky)
-   - [Hackintosh](https://github.com/daliansky/Hackintosh)
-   - [brigadier](https://github.com/corpnewt/brigadier)
-   
- 
+## 🙏 致谢
  本项目参考了以下项目：
 
   - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide)
