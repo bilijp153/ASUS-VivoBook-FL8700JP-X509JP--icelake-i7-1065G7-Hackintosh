@@ -234,7 +234,7 @@ EFI
 
 ### 下载和安装Mac
 1. [下载](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)本仓库中的 EFI 文件。
-2. 使用 USB 启动盘创建工具（推荐balenaEtcher）制作 U 盘启动盘。
+2. 使用 USB 启动盘创建工具（推荐[Etcher](https://www.balena.io/etcher/)）制作 U 盘启动盘。
 3. 将 EFI 文件夹复制到 U 盘的 EFI 分区中。
 4. 进入 BIOS 设置，在 Boot Options 中选择 U 盘启动。
 5. 进入 OpenCore 引导界面，选择u盘中的“Install macOS”（安装 macOS）。
@@ -308,6 +308,15 @@ A: 因为本机处理器即Ice Lake处理器已被苹果公司去除HDMI支持�
    - [Hackintosh](https://github.com/daliansky/Hackintosh)
    - [brigadier](https://github.com/corpnewt/brigadier)
    
+ 
+ 本项目参考了以下项目：
+
+  - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide)
+  - [Acidanthera](https://github.com/acidanthera)
+  - [Hackintosh](https://github.com/daliansky/Hackintosh)
+  - [brigadier](https://github.com/corpnewt/brigadier)
+
+感谢这些项目的作者对黑苹果社区做出的贡献！
    
 ## 📧 联系方式
 
