@@ -299,7 +299,7 @@ A: 因为本机处理器即Ice Lake处理器已被苹果公司去除HDMI支持�
  
 ## 新功能完成进度
  
-  ![progress](https://progress-bar.dev/36/?title=Mac原生睡眠功能&width=400)
+  Mac原生睡眠功能 https://progress-bar.dev/36/
 
 ## 👨 主要人员
    #### 维护人员 ©[Aurora极光](https://github.com/bilijp153)，基于[许可](./License)发布。
