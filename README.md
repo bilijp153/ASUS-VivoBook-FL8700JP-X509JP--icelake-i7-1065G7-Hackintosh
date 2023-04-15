@@ -51,12 +51,13 @@
 
  
 
-## 🤔 注意事项
+## 📢 注意事项
 - 该 EFI 文件仅适用于 ASUS FL8700JP（X509JP） 笔记本，不保证在其他设备上的兼容性。
 - 使用本项目时请仔细阅读使用方法。
 - 本项目仅提供黑苹果 EFI 文件，不包含 macOS 操作系统镜像文件。
 - 在安装过程中，请确保所有数据已备份，以免意外丢失。
 - 本项目仅供学习和研究使用，请勿用于商业用途或其他非法用途 
+- 在安装和使用该系统时，请遵守相关法律法规和知识产权保护规定。
 - 使用本项目可能会对电脑造成一定风险，如果您遇到任何问题，请参考 Hackintosh 社区的相关讨论或寻求专业人士的帮助，或在 [Issues](https://github.com/username/repo/issues) 中提出问题我们将尽快与您联系解决。
 
  
@@ -302,14 +303,14 @@ A: 因为本机处理器即Ice Lake处理器已被苹果公司去除HDMI支持�
    
    
 ## 🙏 致谢
- 本项目参考了以下项目：
+ 
 
   - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide)
   - [Acidanthera](https://github.com/acidanthera)
   - [Hackintosh](https://github.com/daliansky/Hackintosh)
   - [brigadier](https://github.com/corpnewt/brigadier)
 
-感谢这些项目的作者对黑苹果社区做出的贡献！
+
    
 ## 📧 联系方式
 
@@ -322,5 +323,7 @@ A: 因为本机处理器即Ice Lake处理器已被苹果公司去除HDMI支持�
 
 ## 📄 版权声明
 本项目遵循 MIT 开源协议。您可以自由地使用、修改和分发本项目，但请注明出处并保留原始版权声明。详情请参见 [许可证](License) 文件。
+ 
+©2021-2023 Aurora. All rights reserved.
    
 
