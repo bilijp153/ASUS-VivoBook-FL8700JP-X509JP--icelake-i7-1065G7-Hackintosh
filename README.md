@@ -26,9 +26,6 @@
  </div>
 
  
- ## 完善进度![](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600)
- 
- 
  # 📄 目录
 - [语言选择（語言選擇/Language Selection）](#-语言选择)
 - [注意事项](#-注意事项)
