@@ -122,7 +122,7 @@ Among them, Bootx64.efi in Boot is the notebook EFI boot file; ACPI in OC includ
 Note: Catalina supports from version 10.15.4
 
 ## ❓ What works and what doesn't
-- [x]Type-C
+- [x] Type-C
 - [x] USB interface
 - [x] card reader
 - [x] Intel lris Plus Graphics
