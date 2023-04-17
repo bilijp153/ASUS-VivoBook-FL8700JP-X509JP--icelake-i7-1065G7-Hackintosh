@@ -160,7 +160,7 @@ Note: The Intel core display ID of this machine is 0x8A5C0001
     Ice Lake processors have been removed by Apple for HDMI support, so they cannot be used
    
   
-###BIOS
+### BIOS
 
 - Need to close `SecureBoot` and `FastBoot`
 - The hard disk mode should be changed to `AHCI`
