@@ -325,13 +325,11 @@ A: Because the native processor, that is, the Ice Lake processor, has been remov
 ## 🙏 Thanks
     
   
-  - [Acidanthera](https://github.com/acidanthera)--provided OpenCore bootloader and related kexts
-  
-  
-  - [daliansky](https://github.com/daliansky)--provided related tutorials and EFI, and his [Hackintosh](https://github.com/daliansky/Hackintosh)--joined my machine type boot to increase my EFI visibility
-    
-  
-  -[brigadier](https://github.com/corpnewt/brigadier) of [corpnewt](https://github.com/corpnewt)--Ginkgo startup method tool
+- [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide)
+- [Acidanthera](https://github.com/acidanthera)
+- [Hackintosh](https://github.com/daliansky/Hackintosh)
+- [brigadier](https://github.com/corpnewt/brigadier)
+
   
   
 ## 📧 Contact
