@@ -42,7 +42,7 @@
 - [EFI注意事项](#EFI注意事项)
 - [新功能完成进度](#新功能完成进度) 
 - [主要人员](#-主要人员)
-- [致谢](#-致谢)
+- [感谢](#-感谢)
 - [联系方式](#-联系方式)
 - [版权声明](#-版权声明)
 
@@ -318,7 +318,7 @@ A: 因为本机处理器即Ice Lake处理器已被苹果公司去除HDMI支持�
 
    
    
-## 🙏 致谢
+## 🙏 感谢
  
 
   - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide)
