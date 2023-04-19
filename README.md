@@ -28,7 +28,7 @@
  
  # 📄 目录
 - [语言选择（語言選擇/Language Selection）](#-语言选择)
-- [注意事项](#-注意事项)
+- [项目注意事项](#-项目注意事项)
 - [配置文件](#-配置文件)
 - [实机图片](#实机图片)
 - [下载地址](#-下载地址)
@@ -51,7 +51,7 @@
 
  
 
-## 📢 注意事项
+## 📢 项目注意事项
 - 该 EFI 文件仅适用于 ASUS FL8700JP（X509JP） 笔记本，不保证在其他设备上的兼容性。
 - 使用本项目时请仔细阅读使用方法。
 - 本项目仅提供黑苹果 EFI 文件，不包含 macOS 操作系统镜像文件。
@@ -295,11 +295,17 @@ A: 通过OC引导界面按`Ctrl+Enter`或 `Mac 的系统偏好设置>启动磁�
 Q:为什么HDMI不能使用？
 
 A: 因为本机处理器即Ice Lake处理器已被苹果公司去除HDMI支持，故不能使用
+
+
+## EFI注意事项
+
+- 从 MacOS 13.3 起,对于本机存在了严重的bug，具体如下：睡眠唤醒后存在使用bug；蓝牙无法完美识别；wifi连接使用过慢。所以建议暂时不要使用该版本，建议使用比较稳定的 MacOS 12 和 MacOS 11 版本
+-安装完成后如出现睡眠很长时间都没有成功，请前往终端输入'sudo pmset -a standbydelay 300'即可在5分钟后进入苹果原生睡眠状态
  
  
 ## 新功能完成进度
  
-   Mac原生睡眠  ![](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600)
+   Mac原生睡眠  ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
    
  
    ELAN1200修复  ![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)
