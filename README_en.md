@@ -333,7 +333,7 @@ A: Because the native processor, that is, the Ice Lake processor, has been remov
   
 
 ## 👨 Principal Personnel
-   #### Maintainer ©[Aurora极光](https://github.com/bilijp153)
+   #### Maintainer [Aurora极光](https://github.com/bilijp153)
    #### Tester  [若涵](https://github.com/catlingyun)
    
    
