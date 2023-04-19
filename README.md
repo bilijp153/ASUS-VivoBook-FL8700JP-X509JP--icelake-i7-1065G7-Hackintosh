@@ -300,7 +300,7 @@ A: 因为本机处理器即Ice Lake处理器已被苹果公司去除HDMI支持�
 ## EFI注意事项
 
 - 从 MacOS 13.3 起,对于本机存在了严重的bug，具体如下：睡眠唤醒后存在使用bug；蓝牙无法完美识别；wifi连接使用过慢。所以建议暂时不要使用该版本，建议使用比较稳定的 MacOS 12 和 MacOS 11 版本
--安装完成后如出现睡眠很长时间都没有成功，请前往终端输入'sudo pmset -a standbydelay 300'即可在5分钟后进入苹果原生睡眠状态
+- 安装完成后如出现睡眠很长时间都没有成功，请前往终端输入`sudo pmset -a standbydelay 300`即可在5分钟后进入苹果原生睡眠状态
  
  
 ## 新功能完成进度
@@ -311,7 +311,7 @@ A: 因为本机处理器即Ice Lake处理器已被苹果公司去除HDMI支持�
    ELAN1200修复  ![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## 👨 主要人员
-   #### 维护人员 ©[Aurora极光](https://github.com/bilijp153)，基于[许可](./License)发布。
+   #### 维护人员 ©[Aurora极光](https://github.com/bilijp153)
    #### 测试人员  [若涵](https://github.com/catlingyun)
 
    
