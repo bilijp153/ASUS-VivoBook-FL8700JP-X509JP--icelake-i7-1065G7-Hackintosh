@@ -326,10 +326,11 @@ A: Because the native processor, that is, the Ice Lake processor, has been remov
  
 ## New feature completion progress
  
-    Mac-native-sleep  ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
+Mac-native-sleep  ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
    
  
-    ELAN1200-fix  ![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)
+    
+ELAN1200-fix  ![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)
   
 
 ## 👨 Principal Personnel
