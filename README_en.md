@@ -321,17 +321,15 @@ A: Because the native processor, that is, the Ice Lake processor, has been remov
   ## EFI Considerations
 
 - From MacOS 13.3 onwards, there are serious bugs for this machine, as follows: there are usage bugs after sleep and wake up; Bluetooth cannot be perfectly recognized; wifi connection is too slow to use. Therefore, it is recommended not to use this version for the time being, and it is recommended to use the more stable MacOS 12 and MacOS 11 versions
-
-  
-  - After the installation is complete, if sleep fails for a long time, please go to the terminal and enter `sudo pmset -a standbydelay 300` to enter Apple's native sleep state after 5 minutes
+- After the installation is complete, if sleep fails for a long time, please go to the terminal and enter `sudo pmset -a standbydelay 300` to enter Apple's native sleep state after 5 minutes
  
  
 ## New feature completion progress
  
-    Mac native sleep ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
+    Mac native sleep  ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
    
  
-    ELAN1200 fix![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)
+    ELAN1200 fix  ![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)
   
 
 ## 👨 Principal Personnel
