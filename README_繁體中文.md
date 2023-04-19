@@ -314,11 +314,24 @@ Q:為什麼HDMI不能使用？
 
 A: 因為本機處理器即Ice Lake處理器已被蘋果公司去除HDMI支持，故不能使用
 
+ 
+ ## EFI注意事項
+
+- 從 MacOS 13.3 起,對於本機存在了嚴重的bug，具體如下：睡眠喚醒後存在使用bug；藍牙無法完美識別；wifi連接使用過慢。所以建議暫時不要使用該版本，建議使用比較穩定的 MacOS 12 和 MacOS 11 版本
+-安裝完成後如出現睡眠很長時間都沒有成功，請前往終端輸入'sudo pmset -a standbydelay 300'即可在5分鐘後進入蘋果原生睡眠狀態
+ 
+ 
+## 新功能完成進度
+ 
+   Mac原生睡眠  ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
+   
+ 
+   ELAN1200修復  ![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)
+ 
 
 ## 👨 主要人員
-   #### 維護人員 ©[Aurora极光](https://github.com/bilijp153)，基於[許可](./License)發布。
+   #### 維護人員  [Aurora极光](https://github.com/bilijp153)
    #### 測試人員  [若涵](https://github.com/catlingyun)
-   在[貢獻者](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/graphs/contributors)的幫助下，由[Aurora极光](https://github.com/bilijp153)編寫和維護。
    
    
 ## 🙏 感謝
