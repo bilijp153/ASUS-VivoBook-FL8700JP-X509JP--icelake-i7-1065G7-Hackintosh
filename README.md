@@ -178,7 +178,7 @@ EFI
    
  ### ᯤ WiFi和蓝牙
    - 本机搭载的网卡是[Intel Wireless-AC 9461](https://ark.intel.com/content/www/cn/zh/ark/products/125193/intel-wirelessac-9461.html)
-   - 蓝牙为5.0
+   - 蓝牙为5.1
 
   ##### WiFi和蓝牙功能
 - [x] WiFi连接（2.4G/5G）
