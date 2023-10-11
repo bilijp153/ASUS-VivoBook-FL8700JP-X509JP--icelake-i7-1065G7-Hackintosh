@@ -310,9 +310,9 @@ A: 因为本机处理器即Ice Lake处理器已被苹果公司去除HDMI支持�
    Mac原生睡眠  ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
    
  
-   ELAN1200修复（正在测试中）  ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
+   ELAN1200修复  ![](https://geps.dev/progress/1?dangerColor=800000&warningColor=ff9900&successColor=006600)
  
-   Ventura蓝牙修复  ![](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600)
+   Ventura蓝牙修复  ![](https://geps.dev/progress/1?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## 👨 主要人员
    #### 维护人员 [Aurora极光](https://github.com/bilijp153)
