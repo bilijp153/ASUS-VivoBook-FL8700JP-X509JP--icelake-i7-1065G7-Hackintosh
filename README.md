@@ -118,6 +118,7 @@ EFI
   - [x] Big Sur 
   - [x] Monterey 
   - [x] Ventura 
+  - [x] Sonoma
 
 注:Catalina从10.15.4版本起支持
 
