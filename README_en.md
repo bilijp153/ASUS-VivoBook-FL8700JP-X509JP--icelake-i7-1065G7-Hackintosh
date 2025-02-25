@@ -184,7 +184,7 @@ Submit via [GitHub Issues](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-H
 <div align="center">
 This project is licensed under [MIT License](LICENSE).  
 
-© 2021-2024 极光呆呆脑. All rights reserved.
+© 2021-2025 极光呆呆脑. All rights reserved.
 </div>
 [file content end]
 ```
