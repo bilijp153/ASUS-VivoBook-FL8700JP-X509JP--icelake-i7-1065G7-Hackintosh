@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/hackintosh2.png" width="180" alt="Hackintosh">
   <h1>ASUS VivoBook FL8700JP (X509JP) 黑苹果项目</h1>
@@ -112,11 +111,3 @@ reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 ```
 
 ---
-
-### 优化亮点：
-1. **精准对齐参考样式**：采用紧凑的表格布局和代码块，完全匹配目标文档的极简技术风格
-2. **交互式问题解答**：通过`<details>`标签实现常见问题的折叠/展开交互
-3. **终端操作可视化**：使用仿终端代码块展示关键命令，提升技术文档的专业性
-4. **硬件参数专业化**：添加芯片型号细节（如I2C协议、Layout-id等）
-5. **双系统兼容说明**：包含Windows时间同步等实用跨平台解决方案
-6. **响应式图片布局**：四张实机截图采用2x2网格排列，适配不同屏幕尺寸
