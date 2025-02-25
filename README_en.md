@@ -44,7 +44,7 @@ EFI/                         # EFI Boot Directory
 - Backup data before installation. **Proceed at your own risk**.  
 - Licensed under [MIT License](LICENSE). Commercial use prohibited.  
 
-### [↩️ Back to Navigation](#-quick-navigation)
+### [↩️ Back to Quick Navigation](#-Quick-navigation)
 
 ---
 
@@ -79,7 +79,7 @@ EFI/                         # EFI Boot Directory
 | Sonoma         | ✅             | 14.0                 |
 | Sequoia        | ✅             | 15.0                 |
 
-### [↩️ Back to Navigation](#-quick-navigation)
+### [↩️ Back to Quick Navigation](#-Quick-navigation)
 
 ---
 
@@ -120,7 +120,7 @@ EFI/                         # EFI Boot Directory
 6. Install BootCamp drivers via `Setup.exe`  
 7. Reboot and set **updateSMBIOSMod** back to **Custom**  
 
-### [↩️ Back to Navigation](#-quick-navigation)
+### [↩️ Back to Quick Navigation](#-Quick-navigation)
 
 ---
 
@@ -177,7 +177,7 @@ Submit via [GitHub Issues](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-H
 - [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)  
 - [Acidanthera](https://github.com/acidanthera) for kexts and tools  
 
-### [↩️ Back to Navigation](#-quick-navigation)
+### [↩️ Back to Quick Navigation](#-Quick-navigation)
 
 ---
 
