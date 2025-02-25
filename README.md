@@ -81,7 +81,7 @@
 <details>
 <summary>📱 SMBIOS 三码生成（点击展开）</summary>
 
-1. 使用 **OpenCore Configurator**或者[**OCAuxiliaryTools**] (https://github.com/ic005k/OCAuxiliaryTools)生成唯一三码  
+1. 使用 **OpenCore Configurator**或者[**OCAuxiliaryTools**](https://github.com/ic005k/OCAuxiliaryTools) 生成唯一三码  
 2. 选择机型：`MacBook Pro 16,2` 或 `MacBook Air 9,1`  
 3. 验证序列号状态需显示 **"无效"**  
 4. 修改 `config.plist` 注入三码
