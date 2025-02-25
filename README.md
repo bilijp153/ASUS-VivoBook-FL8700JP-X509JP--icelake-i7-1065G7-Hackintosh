@@ -107,8 +107,8 @@ DVMT 预分配(DVMT Pre-Allocated) ➔ 64M
 ### 3. SMBIOS 配置
 
 1. 使用 **OpenCore Configurator**或者[**OCAuxiliaryTools**](https://github.com/ic005k/OCAuxiliaryTools)修改config里面的**pl**项目中的**SystemProductName**为**MacBookAir9,1或者MacBookPro16,2**使得你的机型被模拟成正确的Mac机型(推荐使用机型：MacBookAir9,1)
-2. 多次点按生成然后点击**SystemSerialNumber**后面的检查去Apple网站检查序列号**可用性**
-3. 成功生成后保存**config**文件并重启电脑
+2.  生成有效 **SystemSerialNumber** 并于 Apple [查看保障信息](https://checkcoverage.apple.com/)验证
+3. 保存**config**文件并重启
 
 ---
 
