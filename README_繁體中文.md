@@ -1,6 +1,3 @@
-```markdown
-[file name]: README_繁體中文.md
-[file content begin]
 <div align="center">
   <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/機型效果圖/hackintosh2.png" width="180" alt="Hackintosh Logo">
   <h1>華碩 VivoBook FL8700JP 黑蘋果</h1>
