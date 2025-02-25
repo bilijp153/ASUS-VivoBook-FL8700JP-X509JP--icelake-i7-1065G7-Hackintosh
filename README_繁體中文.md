@@ -51,8 +51,8 @@ EFI/                         # EFI 引導文件夾
 
 ## 📸 實機展示
 <div align="center">
-  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/機型效果圖/computer1.png" width="45%">
-  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/機型效果圖/computer2.png" width="45%">
+  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer1.png" width="45%">
+  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer2.png" width="45%">
 </div>
 
 ---
