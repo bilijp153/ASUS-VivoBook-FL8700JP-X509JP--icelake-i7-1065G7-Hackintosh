@@ -1,110 +1,121 @@
 <div align="center">
-  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/hackintosh2.png" width="180" alt="Hackintosh">
-  <h1>ASUS VivoBook FL8700JP (X509JP) 黑苹果项目</h1>
 
-  [![OpenCore 0.9.7](https://img.shields.io/badge/OpenCore-0.9.7-0066CC?logo=apple&logoColor=white)](https://github.com/acidanthera/OpenCorePkg)
-  [![macOS Catalina→Sonoma](https://img.shields.io/badge/macOS-Catalina→Sonoma-9999FF?logo=apple&logoColor=white)](https://www.apple.com/macos)
-  [![License MIT](https://img.shields.io/badge/License-MIT-00AA00)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/blob/main/License)
-  [![Last Commit](https://img.shields.io/github/last-commit/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?color=FF9900)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/commits)
+<img align="center" width="180" src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/hackintosh2.png" style="max-width: 100%; height: auto;">
+<h1>ASUS VivoBook FL8700JP (X509JP) Hackintosh</h1>
+
+[![GitHub License](https://img.shields.io/github/license/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh?label=License&style=flat-square)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/License)
+[![Latest Release](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh?label=Download&style=flat-square)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)
+[![OpenCore Version](https://img.shields.io/badge/OpenCore-0.9.7+-blue?style=flat-square)](https://github.com/acidanthera/OpenCorePkg)
+
+![Preview](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/简体1.png)
+
 </div>
 
 ---
 
-## 📖 目录
-- [✅ 功能状态](#-功能状态)
-- [⚙️ 硬件配置](#️-硬件配置)
+## 📋 目录
+- [📦 配置要求](#-配置要求)
+- [✅ 兼容性](#-兼容性)
+- [⚙️ 功能状态](#️-功能状态)
 - [📥 安装指南](#-安装指南)
 - [❓ 常见问题](#-常见问题)
-- [📸 实机效果](#-实机效果)
-- [📜 版权声明](#-版权声明)
+- [📜 更新日志](更新日志.md)
+- [🙏 致谢](#-致谢)
 
 ---
 
-## ✅ 功能状态
-| **功能模块**       | **状态** | **详细说明**                     |
-|--------------------|----------|----------------------------------|
-| **核显加速**       | ✔️ 正常  | Intel Iris Plus G7 完整驱动      |
-| **WiFi/蓝牙**      | ✔️ 正常  | 支持通用控制/Apple Watch解锁      |
-| **触控板手势**     | ✔️ 正常  | 支持多指操作和Mac原生手势         |
-| **电池管理**       | ✔️ 正常  | 电量显示/充电状态                 |
-| **Type-C接口**     | ✔️ 正常  | 支持USB设备/扩展坞（视频输出除外） |
-| **HDMI输出**       | ❌ 不可用 | Ice Lake架构限制                 |
-| **键盘背光**       | ❌ 不可用 | 硬件不支持                       |
+## 📦 配置要求
+| **组件**       | **型号**                         |
+|----------------|----------------------------------|
+| **处理器**     | Intel Core i7-1065G7 (Ice Lake)  |
+| **核显**       | Intel Iris Plus Graphics G7      |
+| **内存**       | 12GB DDR4 (8+4)                  |
+| **存储**       | Western Digital 512GB SSD        |
+| **无线网卡**   | Intel Wireless-AC 9461           |
+| **声卡**       | Realtek ALC256                   |
 
 ---
 
-## ⚙️ 硬件配置
-| **组件**           | **型号**                                |
-|---------------------|-----------------------------------------|
-| 处理器              | Intel Core i7-1065G7 (Ice Lake, 10nm)   |
-| 核显                | Intel Iris Plus Graphics G7 (64 EU)     |
-| 无线网卡            | Intel Wireless-AC 9461 (160MHz)         |
-| 触控板              | ELAN1200 (I2C协议)                      |
-| 声卡                | Realtek ALC256 (Layout-id: 11)          |
-| 硬盘                | 西部数据 SN550 512GB NVMe SSD           |
+## ✅ 兼容性
+| **macOS 版本** | **支持状态** |
+|----------------|--------------|
+| Catalina       | ✅ 10.15.4+   |
+| Big Sur        | ✅            |
+| Monterey       | ✅            |
+| Ventura        | ✅            |
+| Sonoma         | ✅            |
+
+---
+
+## ⚙️ 功能状态
+| **功能**         | **状态** | **备注**                     |
+|------------------|----------|------------------------------|
+| 核显加速         | ✅        | 支持4K输出                   |
+| 无线网络         | ✅        | 2.4G/5G双频                  |
+| 蓝牙             | ✅        | 文件传输支持                 |
+| 触控板手势       | ✅        | 多指操作流畅                 |
+| 睡眠唤醒         | ✅        | 需设置`standbydelay`         |
+| HDMI输出         | ❌        | Ice Lake架构限制             |
+| 独立显卡（MX330）| ❌        | 已屏蔽                       |
 
 ---
 
 ## 📥 安装指南
-### BIOS关键设置
-```bash
-1. 关闭 Secure Boot
-2. 禁用 Fast Boot
-3. 硬盘模式设为 AHCI
-4. DVMT预分配调整为 64MB
-```
+### 准备工作
+1. **BIOS设置**  
+   - 关闭 `Secure Boot` 和 `Fast Boot`  
+   - 硬盘模式设为 `AHCI`  
+   - 调整DVMT为 `64MB`
 
-### EFI部署流程
-```bash
-# 使用Etcher写入macOS镜像到U盘
-dd if=Install_macOS_Sonoma.dmg of=/dev/diskX bs=1m
+2. **创建安装盘**  
+   ```bash
+   # 使用终端命令创建安装盘
+   sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
+   ```
 
-# 挂载EFI分区并替换文件
-diskutil mount disk0s1
-cp -R EFI /Volumes/EFI/
-```
+3. **替换EFI**  
+   将本仓库的EFI文件复制到U盘的EFI分区。
 
-### SMBIOS生成规则
-| 推荐机型          | 标识符       | 验证要求                     |
-|-------------------|--------------|------------------------------|
-| MacBookPro16,2    | J680         | 序列号状态需显示「未验证」    |
-| MacBookAir9,1     | J413         | 不可使用已注册的购买日期      |
+### 多系统引导
+- **Windows/Mac切换**：在OpenCore引导界面按 `Ctrl+Enter` 设置默认启动项  
+- **BootCamp支持**：使用 [brigadier](https://github.com/corpnewt/brigadier) 安装驱动  
 
 ---
 
 ## ❓ 常见问题
 <details>
-<summary><strong>Q: 安装时卡在「苹果Logo」界面？</strong></summary>
-
-1. 检查BIOS中DVMT是否设置为64MB  
-2. 尝试添加引导参数 `-v keepsyms=1` 查看错误日志  
-3. 移除第三方SSDT补丁测试
+<summary>Q: HDMI无法使用怎么办？</summary>
+A: Ice Lake处理器原生不支持HDMI输出，建议使用Type-C转DP。
 </details>
 
 <details>
-<summary><strong>Q: Windows/macOS双系统时间不同步？</strong></summary>
+<summary>Q: 触控板间歇性失灵？</summary>
+A: ELAN1200固件问题，暂时可通过重启或睡眠唤醒恢复。
+</details>
 
-在Windows中执行：
-```regedit
-reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
-```
+<details>
+<summary>Q: 如何关闭启动音效？</summary>
+A: 系统设置 > 声音 > 取消勾选"启动时播放声音"。
 </details>
 
 ---
 
-## 📸 实机效果
+## 🙏 致谢
+- [OpenCore官方指南](https://dortania.github.io/OpenCore-Install-Guide/)
+- [Acidanthera](https://github.com/acidanthera) 提供核心驱动
+- [@catlingyun](https://github.com/catlingyun) 参与测试
+
+---
+
 <div align="center">
-  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/blob/main/机型效果图/computer.png" width="45%">
-  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/blob/main/机型效果图/computer1.png" width="45%">
-  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/blob/main/机型效果图/computer2.png" width="45%">
-  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/blob/main/机型效果图/computer4.png" width="45%">
+📧 反馈请提交至 <a href="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/issues">Issues</a>  
+© 2021-2024 Aurora极光 | MIT License
 </div>
 
 ---
 
-## 📜 版权声明
-**MIT License**  
-允许自由使用/修改/分发，但必须包含原始许可声明。  
-完整协议见 [LICENSE](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/blob/main/License)
-
-> © 2021-2024 [Aurora极光](https://github.com/bilijp153) | 由[若涵](https://github.com/catlingyun)提供测试支持
+### 多端优化特性
+- **响应式布局**：表格和图片自动适配屏幕宽度
+- **折叠内容**：复杂QA部分使用`<details>`标签折叠
+- **简洁导航**：目录层级扁平化，提升移动端操作体验
+- **徽章整合**：关键状态徽章集中展示，避免堆叠
