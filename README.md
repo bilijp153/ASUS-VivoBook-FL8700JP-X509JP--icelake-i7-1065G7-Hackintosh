@@ -158,7 +158,7 @@ DVMT 预分配(DVMT Pre-Allocated) ➔ 64M
 ## 🌟 贡献与支持
 | 角色 | 贡献者 |
 |------|--------|
-| 维护 |  [草莓小极光](https://github.com/bilijp153) |
+| 维护 |  [极光呆呆脑](https://github.com/bilijp153) |
 | 测试 |  [若涵](https://github.com/catlingyun) |
 
 ---
@@ -190,6 +190,6 @@ DVMT 预分配(DVMT Pre-Allocated) ➔ 64M
 <div align="center">
 本项目基于 [MIT License](LICENSE) 开源。  
 
-© 2021-2024 Aurora极光。保留所有权利。
+© 2021-2025 极光呆呆脑。保留所有权利。
 </div>
 
