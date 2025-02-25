@@ -108,4 +108,3 @@ reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 完整协议见 [LICENSE](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/blob/main/License)
 
 > © 2021-2024 [Aurora极光](https://github.com/bilijp153) | 由[若涵](https://github.com/catlingyun)提供测试支持
-```
