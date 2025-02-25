@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/hackintosh2.png" width="180" alt="Hackintosh Logo">
   <h1>🍎 华硕 VivoBook FL8700JP 黑苹果项目</h1>
