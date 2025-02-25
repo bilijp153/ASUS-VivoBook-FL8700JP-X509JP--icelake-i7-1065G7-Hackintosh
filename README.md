@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/hackintosh2.png" width="180" alt="Hackintosh Logo">
-  <h1>🍎 华硕 VivoBook FL8700JP 黑苹果项目</h1>
+  <h1> 华硕 VivoBook FL8700JP 黑苹果项目</h1>
   
   [![GitHub Stars](https://img.shields.io/github/stars/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh?color=ff69b4&style=for-the-badge)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/stargazers)
   [![Latest Release](https://img.shields.io/github/v/release/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh?style=for-the-badge&logo=apple)](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/releases)
@@ -123,6 +123,7 @@ A：在 OpenCore 界面按 `Ctrl+Enter`，或在系统设置中选择启动磁�
 
 <div align="center">
   📮 问题反馈：<a href="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/issues">GitHub Issues</a>  
+  
   © 2021-2024 Aurora极光 | MIT License
 </div>
 
