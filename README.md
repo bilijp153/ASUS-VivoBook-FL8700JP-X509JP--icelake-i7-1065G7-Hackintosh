@@ -20,7 +20,7 @@
 ## ✨ 特性
 - ✅ **完美驱动**：核显、声卡、WiFi/蓝牙、触控板、睡眠唤醒  
 - 🚫 **已知限制**：独显 MX330 不可用，HDMI 无输出  
-- 🌟 **系统支持**：Catalina → Sonoma（推荐 Monterey/Ventura）  
+- 🌟 **系统支持**：Catalina → Sonoma（推荐 BigSur/Monterey）  
 - 📱 **多端优化**：响应式布局，适配手机/平板/电脑  
 
 ---
