@@ -69,18 +69,18 @@ sudo pmset autopoweroff 0
 sudo pmset powernap 0 
  
  
-⚠️ 重要提示
+## ⚠️ 重要提示
 需要禁用BIOS中的 Secure Boot 
 推荐使用HIDPI缩放工具优化显示效果
 系统更新前请先验证OpenCore兼容性
  
-📅 更新日志
+## 📅 更新日志
 2025.02.25
 升级OpenCore至0.9.8正式版
 修复USB-C接口唤醒问题
 优化电池电量显示算法
  
-📜 致谢与协议
+## 📜 致谢与协议
 特别感谢 Acidanthera 团队的开源贡献
 本项目遵循 MIT License
 免责声明：Hackintosh安装存在风险，作者不对任何硬件损坏负责
