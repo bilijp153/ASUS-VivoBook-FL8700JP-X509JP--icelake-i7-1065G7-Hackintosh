@@ -189,6 +189,7 @@ DVMT 预分配(DVMT Pre-Allocated) ➔ 64M
 ---
 
 <div align="center">
+  
 本项目基于[MIT 许可证](License)开源。  
 
 © 2021-2025 极光呆呆脑。保留所有权利。
