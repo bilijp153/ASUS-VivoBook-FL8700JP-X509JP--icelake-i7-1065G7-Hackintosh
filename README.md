@@ -182,7 +182,7 @@ DVMT 预分配(DVMT Pre-Allocated) ➔ 64M
 ## 🙏 致谢
 - [OpenCore 官方指南](https://dortania.github.io/OpenCore-Install-Guide/)
 - [Acidanthera](https://github.com/acidanthera) 驱动开发团队
-- [laobamac](https://github.com/laobamac) OCLP-Mod开发作者
+- [laobamac](https://github.com/laobamac) OCLP-Mod开发者
 
 ### [↩️ 返回快速导航](#-快速导航繁體中文english)
 
