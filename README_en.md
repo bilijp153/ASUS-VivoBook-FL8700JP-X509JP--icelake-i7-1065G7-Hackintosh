@@ -189,5 +189,3 @@ This project is licensed under [MIT License](License)
 
 © 2021-2025 极光呆呆脑  All rights reserved
 </div>
-[file content end]
-```
