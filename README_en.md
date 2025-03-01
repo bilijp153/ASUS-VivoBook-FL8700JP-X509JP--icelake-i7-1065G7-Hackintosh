@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/hackintosh2.png" width="180" alt="Hackintosh Logo">
+  <img src=".机型效果图/hackintosh.png#gh-light-mode-only" width="180" alt="Hackintosh Logo">
+  <img src=".机型效果图/hackintosh-1.png#gh-dark-mode-only" width="180" alt="Hackintosh Logo">
   <h1>ASUS VivoBook FL8700JP Hackintosh</h1>
   <p>Run macOS on a Windows Laptop</p>
 </div>
