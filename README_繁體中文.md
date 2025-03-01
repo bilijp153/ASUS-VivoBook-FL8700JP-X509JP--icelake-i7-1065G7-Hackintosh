@@ -185,9 +185,9 @@ EFI/                         # EFI 引導文件夾
 
 <div align="center">
 
-本專案基於 [MIT 許可證](License) 開源。  
+本專案基於 [MIT 許可證](License) 開源  
 
-© 2021-2024 Aurora极光呆呆脑 保留所有權利。
+© 2021-2024 Aurora极光呆呆脑 保留所有權利
 </div>
 
 
