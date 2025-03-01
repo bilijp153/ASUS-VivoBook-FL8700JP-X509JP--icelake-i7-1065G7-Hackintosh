@@ -133,7 +133,7 @@ DVMT 预分配(DVMT Pre-Allocated) ➔ 64M
 ## ❓ 常见问题
 <details>
   <summary><b>Q: 开机有“咚”声如何关闭？</b></summary>
-  前往 系统设置 ➔ 声音 关闭启动音效
+  前往 系统设置 ➔ 声音 关闭启动时播放声音
 </details>
 
 <details>
