@@ -42,7 +42,7 @@ EFI/                         # EFI Boot Directory
 - **Only compatible with ASUS FL8700JP (X509JP)**. Other devices are not guaranteed.  
 - **No macOS installer included**. Prepare the installer yourself.  
 - Backup data before installation. **Proceed at your own risk**.  
-- Licensed under [MIT License](LICENSE). Commercial use prohibited.  
+- Licensed under [MIT License](License). Commercial use prohibited.  
 
 ### [↩️ Back to Quick Navigation](#-quick-navigation简体中文繁體中文)
 
@@ -183,7 +183,8 @@ Submit via [GitHub Issues](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-H
 ---
 
 <div align="center">
-This project is licensed under [MIT License](LICENSE).  
+  
+This project is licensed under [MIT License](License).  
 
 © 2021-2025 极光呆呆脑. All rights reserved.
 </div>
