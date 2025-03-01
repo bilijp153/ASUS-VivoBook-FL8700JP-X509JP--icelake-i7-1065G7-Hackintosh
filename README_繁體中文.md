@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./机型效果图/hackintosh2.png#gh-light-mode-only" width="180" alt="Hackintosh Logo">
-<img src="./机型效果图/hackintosh2.png#gh-dark-mode-only" width="180" alt="Hackintosh Logo">
+<img src="./机型效果图/hackintosh2-1.png#gh-dark-mode-only" width="180" alt="Hackintosh Logo">
   
   <h1>華碩 VivoBook FL8700JP 黑蘋果</h1>
   <p>讓 Windows 筆記本成功運行 macOS</p>
