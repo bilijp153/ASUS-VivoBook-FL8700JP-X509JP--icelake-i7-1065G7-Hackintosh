@@ -88,9 +88,9 @@ EFI/                         # EFI 引导文文件夹
 ## ⚙️ 安装指南
 ### 1. BIOS 设置
 
-(Secure Boot) ➔ 关闭 (Disabled)
-快速启动(Fast Boot) ➔ 关闭 (Disabled)
-DVMT 预分配(DVMT Pre-Allocated) ➔ 64M
+- (Secure Boot) ➔ 关闭 (Disabled)
+- 快速启动(Fast Boot) ➔ 关闭 (Disabled)
+- DVMT 预分配(DVMT Pre-Allocated) ➔ 64M
 
 
 ### 2. 安装步骤
