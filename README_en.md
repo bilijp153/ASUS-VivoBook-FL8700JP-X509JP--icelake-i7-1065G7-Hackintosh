@@ -175,7 +175,8 @@ Submit via [GitHub Issues](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-H
 
 ## 🙏 Acknowledgments
 - [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)  
-- [Acidanthera](https://github.com/acidanthera) for kexts and tools  
+- [Acidanthera](https://github.com/acidanthera) for kexts and tools
+- [laobamac](https://github.com/laobamac) OCLP-Mod Developer 
 
 ### [↩️ Back to Quick Navigation](#-quick-navigation简体中文繁體中文)
 
