@@ -119,7 +119,7 @@ EFI/                         # EFI Boot Directory
 4. Set **updateSMBIOSMod** to **Create** in `config.plist` and reboot  
 5. Select **Windows** in OpenCore  
 6. Install BootCamp drivers via `Setup.exe`  
-7. Reboot and set **updateSMBIOSMod** back to **Custom**  
+7. Reboot and set **updateSMBIOSMod** back to **Custom** in `config.plist`  
 
 ### [↩️ Back to Quick Navigation](#-quick-navigation简体中文繁體中文)
 
