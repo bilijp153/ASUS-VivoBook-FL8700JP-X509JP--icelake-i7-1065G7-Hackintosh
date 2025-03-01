@@ -176,7 +176,8 @@ EFI/                         # EFI 引導文件夾
 
 ## 🙏 致謝
 - [OpenCore 官方指南](https://dortania.github.io/OpenCore-Install-Guide/)  
-- [Acidanthera](https://github.com/acidanthera) 驅動開發團隊  
+- [Acidanthera](https://github.com/acidanthera) 驅動開發團隊
+- [laobamac](https://github.com/laobamac) OCLP-Mod開發者 
 
 ### [↩️ 返回快速導航](#-快速導航简体中文English)
 
