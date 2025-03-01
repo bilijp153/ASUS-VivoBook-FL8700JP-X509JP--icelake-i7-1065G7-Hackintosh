@@ -68,7 +68,7 @@ EFI/                         # EFI 引導文件夾
 | **聲卡**     | Realtek ALC256            | ✅ 正常工作 | 支援外設自動切換        |
 | **無線網卡** | Intel Wireless-AC 9461    | ✅ 部分支援 | 不支援 AirDrop/AirPlay  |
 | **觸控板**   | ELAN1200                  | ⚠️ 部分支援 | 偶發無回應（需重啟）    |
-| **Type-C**   | -                         | ⚠️ 部分支援 | 不支援 DP 顯示與 Thunderbolt |
+| **Type-C**   | -                         | ✅ 部分支援 | 不支援 DP 顯示與 Thunderbolt |
 
 ---
 
