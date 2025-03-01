@@ -66,7 +66,7 @@ EFI/                         # EFI Boot Directory
 | **Audio**      | Realtek ALC256            | ✅ Working | Auto-switch for peripherals |
 | **Wi-Fi**      | Intel Wireless-AC 9461    | ✅ Partial | No AirDrop/AirPlay       |
 | **Trackpad**   | ELAN1200                  | ⚠️ Partial | Occasional unresponsiveness |
-| **Type-C**     | -                         | ⚠️ Partial | No DP/Thunderbolt support |
+| **Type-C**     | -                         | ✅ Partial | No DP/Thunderbolt support |
 
 ---
 
