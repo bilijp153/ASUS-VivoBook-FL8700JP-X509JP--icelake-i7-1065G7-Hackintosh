@@ -133,7 +133,7 @@ DVMT 预分配(DVMT Pre-Allocated) ➔ 64M
 ## ❓ 常见问题
 <details>
   <summary><b>Q: 开机有“咚”声如何关闭？</b></summary>
-  前往 系统设置 ➔ 声音 关闭启动时播放声音
+  前往 系统设置 ➔ 声音 关闭「启动时播放声音」。
 </details>
 
 <details>
@@ -143,7 +143,7 @@ DVMT 预分配(DVMT Pre-Allocated) ➔ 64M
 
 <details>
   <summary><b>Q: 如何切换默认系统？</b></summary>
-  OpenCore 界面按 Ctrl+Enter 或系统设置 ➔ 启动磁盘。
+  OpenCore 界面按 Ctrl+Enter 或「系统设置」➔「启动磁盘」。
 </details>
 
 ---
