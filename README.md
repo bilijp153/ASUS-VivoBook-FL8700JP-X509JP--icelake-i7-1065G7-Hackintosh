@@ -107,7 +107,7 @@ EFI/                         # EFI 引导文文件夹
 
 ### 3. SMBIOS 配置
 
-1. 使用 **OpenCore Configurator**或者[**OCAuxiliaryTools**](https://github.com/ic005k/OCAuxiliaryTools)修改config里面的**pl**项目中的**SystemProductName**为**MacBookAir9,1或者MacBookPro16,2**使得你的机型被模拟成正确的Mac机型(推荐使用机型：MacBookAir9,1)
+1. 使用 **OpenCore Configurator**或者[**OCAuxiliaryTools**](https://github.com/ic005k/OCAuxiliaryTools)打开**config**修改机型为**MacBookAir9,1或者MacBookPro16,2**(推荐使用机型：MacBookAir9,1)
 2.  生成有效 **SystemSerialNumber** 并于 Apple [查看保障信息](https://checkcoverage.apple.com/)验证
 3. 保存**config**文件并重启
 
