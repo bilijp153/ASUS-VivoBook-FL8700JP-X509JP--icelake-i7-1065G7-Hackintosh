@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./机型效果图/hackintosh2.png#gh-light-mode-only" width="180" alt="Hackintosh Logo">
-  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/hackintosh2-1.png" width="180" alt="Hackintosh Logo">
+  <img src="./机型效果图/hackintosh2-1.png#gh-dark-mode-only" width="180" alt="Hackintosh Logo">
   <h1>华硕 VivoBook FL8700JP 黑苹果</h1>
   <p>让 Windows 笔记本成功运行 macOS</p>
 </div>
