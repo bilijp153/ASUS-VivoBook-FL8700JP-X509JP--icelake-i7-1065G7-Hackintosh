@@ -96,7 +96,7 @@ EFI/                         # EFI Boot Directory
 1. Download macOS installer ➔ Recommended: [Daliansky's Blog](https://blog.daliansky.net/)  
 2. Create macOS installer USB ➔ Use [BalenaEtcher](https://www.balena.io/etcher/)  
 3. [**Download**](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases) EFI files ➔ Replace the USB's EFI folder
-4. Download [SDTTime]（ https://github.com/corpnewt/SSDTTime ）Extract the local SSDT according to the prompts, find the extracted SSDT folder, rename * * FACP. aml * * in it to * * SSDT-FACP. aml * *, and replace * * SSDT-FACP.aml * * in * * EFI/OC/ACPI * ***  
+4. Download [SDTTime]（ https://github.com/corpnewt/SSDTTime ）Extract the local SSDT according to the prompts, find the extracted SSDT folder, rename **FACP.aml** in it to **SSDT-FACP.aml**, and replace **SSDT-FACP.aml** in **EFI/OC/ACPI**  
 5. Set USB as first boot device  
 6. Boot via OpenCore ➔ Select "Install macOS XXX"  
 7. Reboot multiple times until setup completes  
