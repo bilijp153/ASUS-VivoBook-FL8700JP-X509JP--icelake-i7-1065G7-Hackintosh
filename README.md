@@ -98,10 +98,11 @@ EFI/                         # EFI 引导文文件夹
 1. 下载Mac OS 镜像 ➔ 推荐使用[黑果小兵的部落阁](https://blog.daliansky.net/)
 2. 制作 Mac OS 安装盘 ➔ 推荐使用 [BalenaEtcher](https://www.balena.io/etcher/)
 3. [**下载**](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases)EFI 文件 ➔ 解压至 USB 驱动器替换原有EFI文件夹
-4. 调整启动顺序 ➔ 从 USB 启动
-5. 运行 OpenCore ➔ 选择 "Install macOS XXX"
-6. 多次重启后进入Mac开箱界面
-7. 完成设置后 ➔ 迁移 EFI 至本机固态EFI分区并移除U盘
+4. 下载[SSDTTime](https://github.com/corpnewt/SSDTTime)按照提示提取本机SSDT,找到提取出来的SSDT文件夹，把里面的**FACP.aml**重命名为**SSDT-FACP.aml**替换**EFI/OC/ACPI**里的**SSDT-FACP.aml**
+5. 调整启动顺序 ➔ 从 USB 启动
+6. 运行 OpenCore ➔ 选择 "Install macOS XXX"
+7. 多次重启后进入Mac开箱界面
+8. 完成设置后 ➔ 迁移 EFI 至本机固态EFI分区并移除U盘
 
 
 
