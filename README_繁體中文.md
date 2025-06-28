@@ -107,7 +107,7 @@ EFI/                         # EFI 引導文件夾
 ### 3. SMBIOS 設定
 
 1. 使用 **OpenCore Configurator** 或 [**OCAuxiliaryTools**](https://github.com/ic005k/OCAuxiliaryTools) 打开 **config**
-2. 修改機型為**MacBookAir9,1** 或 **MacBookPro16,2**（推薦：MacBookAir9,1）  
+2. 修改機型為**MacBookPro16,2**
 3. 生成有效 **SystemSerialNumber** 並於 Apple [檢查保固頁面](https://checkcoverage.apple.com/)驗證  
 4. 儲存**config**文件後重啟  
 
