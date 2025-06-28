@@ -269,7 +269,7 @@ graph LR
 <div align="center">
   
 📜 **License**: [MIT](LICENSE)  
-© 2021-2025 Jiguang Daidai Nao - All rights reserved
+© 2021-2025 极光呆呆脑 - All rights reserved
 
 > **Note**: This project is for educational purposes only. Use macOS in compliance with Apple's terms.
 
