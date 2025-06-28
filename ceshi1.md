@@ -29,8 +29,6 @@
 6. [❓ 常见问题](#-常见问题)
 7. [⚠️ 重要提示](#️-重要提示)
 8. [🤝 参与贡献](#-参与贡献)
-9. [🌐 多语言版本](#-多语言版本)
-
 ---
 
 ## 🖥 项目结构
@@ -265,16 +263,6 @@ graph LR
 - [提交 Issue](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/issues)
 - 发送邮件至: support@hackintosh-fl8700jp.com
 - 加入 Telegram 讨论组
-
----
-
-## 🌐 多语言版本
-
-<div align="center">
-  <a href="#english-version">English Version</a> | 
-  <a href="#繁體中文版">繁體中文版</a> | 
-  <strong>简体中文版</strong>
-</div>
 
 ---
 
