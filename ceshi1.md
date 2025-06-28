@@ -3,9 +3,9 @@
   <img src="./机型效果图/hackintosh2-1.png#gh-dark-mode-only" width="180" alt="Hackintosh Logo">
   <h1>让 Windows 笔记本完美运行 macOS</h1>
   <small>
-    <a href="#english-version">English</a> | 
+    <strong>简体中文</strong> |
     <a href="#繁體中文版">繁體中文</a> | 
-    <strong>简体中文</strong>
+    <a href="#english-version">English</a>
   </small>
   <p>为华硕 VivoBook FL8700JP (X509JP) 定制的黑苹果解决方案</p>
   
