@@ -201,7 +201,6 @@ graph LR
 <ul>
   <li>重启系统</li>
   <li>进入睡眠模式后唤醒</li>
-  <li>使用终端命令: <code>sudo killall AppleMultitouchDriver</code></li>
 </ul>
 </details>
 
