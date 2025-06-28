@@ -1,16 +1,12 @@
-
-<div align="right">
-  <small>
-    <a href="README.md>简体中文</a> | 
-    <strong>繁體中文</strong> | 
-    <a href="README_en.md">English</a>
-  </small>
-</div>
-
 <div align="center">
   <img src="./机型效果图/hackintosh2.png#gh-light-mode-only" width="180" alt="Hackintosh Logo">
   <img src="./机型效果图/hackintosh2-1.png#gh-dark-mode-only" width="180" alt="Hackintosh Logo">
   <h1>讓 Windows 筆記本完美運行 macOS</h1>
+    <small>
+    <a href="README.md>简体中文</a> | 
+    <strong>繁體中文</strong> | 
+    <a href="README_en.md">English</a>
+  </small>
   <p>為華碩 VivoBook FL8700JP (X509JP) 定制的黑蘋果解決方案</p>
   
   <div>
