@@ -164,3 +164,18 @@ E --> F[恢复 config 设置]
 
 ### 反馈渠道
 - [提交 Issue](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/issues)
+---
+
+## 🙏 特别鸣谢
+- [OpenCore 官方指南](https://dortania.github.io/OpenCore-Install-Guide/) - 黑苹果安装的黄金标准
+- [Acidanthera](https://github.com/acidanthera) - 提供核心驱动开发
+- [laobamac](https://github.com/laobamac) - OCLP-Mod 开发者
+
+---
+
+<div align="center">
+  
+📜 **许可证**: [MIT](LICENSE)  
+© 2021-2025 极光呆呆脑 - 保留所有权利
+
+</div>
