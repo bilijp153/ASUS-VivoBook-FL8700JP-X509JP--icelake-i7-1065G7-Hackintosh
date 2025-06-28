@@ -1,17 +1,12 @@
-# 🍎 华硕 VivoBook FL8700JP 黑苹果项目
-
-<div align="right">
+<div align="center">
+  <img src="./机型效果图/hackintosh2.png#gh-light-mode-only" width="180" alt="Hackintosh Logo">
+  <img src="./机型效果图/hackintosh2-1.png#gh-dark-mode-only" width="180" alt="Hackintosh Logo">
+  <h1>让 Windows 笔记本完美运行 macOS</h1>
   <small>
     <a href="#english-version">English</a> | 
     <a href="#繁體中文版">繁體中文</a> | 
     <strong>简体中文</strong>
   </small>
-</div>
-
-<div align="center">
-  <img src="./机型效果图/hackintosh2.png#gh-light-mode-only" width="180" alt="Hackintosh Logo">
-  <img src="./机型效果图/hackintosh2-1.png#gh-dark-mode-only" width="180" alt="Hackintosh Logo">
-  <h1>让 Windows 笔记本完美运行 macOS</h1>
   <p>为华硕 VivoBook FL8700JP (X509JP) 定制的黑苹果解决方案</p>
   
   <div>
@@ -300,152 +295,4 @@ graph LR
 
 > **温馨提示**：本项目仅用于学习和研究目的，使用 macOS 请遵守苹果公司相关协议
 
-</div>
-
----
-
-<a id="english-version"></a>
-## 🍎 ASUS VivoBook FL8700JP Hackintosh Project (English Version)
-
-<div align="right">
-  <small>
-    <strong>English</strong> | 
-    <a href="#繁體中文版">繁體中文</a> | 
-    <a href="#-华硕-vivobook-fl8700jp-黑苹果项目">简体中文</a>
-  </small>
-</div>
-
-<div align="center">
-  <img src="./机型效果图/hackintosh2.png#gh-light-mode-only" width="180" alt="Hackintosh Logo">
-  <img src="./机型效果图/hackintosh2-1.png#gh-dark-mode-only" width="180" alt="Hackintosh Logo">
-  <h1>Run macOS Perfectly on Windows Laptop</h1>
-  <p>Custom Hackintosh solution for ASUS VivoBook FL8700JP (X509JP)</p>
-  
-  <div>
-    <img src="https://img.shields.io/badge/OpenCore-1.0.4-blue?style=flat-square&logo=apple" alt="OpenCore">
-    <img src="https://img.shields.io/badge/macOS-Catalina→Sequoia-green?style=flat-square&logo=apple" alt="macOS Support">
-    <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="License">
-    <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status">
-  </div>
-</div>
-
----
-
-### ⚠️ Important Notes
-- **Specific Model**: Only for ASUS FL8700JP (X509JP)  
-- **System Preparation**: Need macOS installation image  
-- **Risk Warning**: Backup important data before operation  
-- **License**: Follow [MIT License](LICENSE), commercial use prohibited
-
----
-
-### 💻 Hardware Support
-| Component       | Model                     | Status      | Details                  |
-|-----------------|---------------------------|-------------|--------------------------|
-| **CPU**         | Intel i7-1065G7           | ✅ Perfect   | Ice Lake optimization   |
-| **iGPU**        | Intel Iris Plus G7        | ⚠️ Basic     | No HDMI output          |
-| **dGPU**        | NVIDIA MX330              | ❌ Not supported | Disabled in config      |
-| **Audio**       | Realtek ALC256            | ✅ Perfect   | Auto input/output switch|
-| **WiFi**        | Intel Wireless-AC 9461    | ⚠️ Partial   | No AirDrop support      |
-| **Trackpad**    | ELAN1200                  | ⚠️ Basic     | Occasional unresponsive |
-| **Type-C**      | -                         | ⚠️ Partial   | No video output         |
-
----
-
-### ⚙️ Quick Installation Guide
-1. **BIOS Settings**:
-   - Disable Secure Boot
-   - Disable Fast Boot
-   - Set DVMT Pre-Alloc to 64M
-   
-2. **Create USB Installer**:
-   - Download macOS image
-   - Use BalenaEtcher to create bootable USB
-
-3. **Install macOS**:
-   - Boot from USB
-   - Select "Install macOS"
-   - Follow on-screen instructions
-
-[View Full Guide](#️-installation-guide)
-
----
-
-<div align="center">
-  <a href="#-华硕-vivobook-fl8700jp-黑苹果项目">简体中文</a> | 
-  <a href="#繁體中文版">繁體中文</a> | 
-  <strong>English</strong>
-</div>
-
----
-
-<a id="繁體中文版"></a>
-## 🍎 華碩 VivoBook FL8700JP 黑蘋果專案 (繁體中文版)
-
-<div align="right">
-  <small>
-    <a href="#english-version">English</a> | 
-    <strong>繁體中文</strong> | 
-    <a href="#-华硕-vivobook-fl8700jp-黑苹果项目">简体中文</a>
-  </small>
-</div>
-
-<div align="center">
-  <img src="./机型效果图/hackintosh2.png#gh-light-mode-only" width="180" alt="Hackintosh Logo">
-  <img src="./机型效果图/hackintosh2-1.png#gh-dark-mode-only" width="180" alt="Hackintosh Logo">
-  <h1>讓 Windows 筆記本完美運行 macOS</h1>
-  <p>為華碩 VivoBook FL8700JP (X509JP) 定制的黑蘋果解決方案</p>
-  
-  <div>
-    <img src="https://img.shields.io/badge/OpenCore-1.0.4-blue?style=flat-square&logo=apple" alt="OpenCore">
-    <img src="https://img.shields.io/badge/macOS-Catalina→Sequoia-green?style=flat-square&logo=apple" alt="macOS Support">
-    <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="License">
-    <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status">
-  </div>
-</div>
-
----
-
-### ⚠️ 重要說明
-- **專屬適配**：僅適用於華碩 FL8700JP (X509JP) 特定機型  
-- **系統準備**：需自行取得 macOS 安裝映像  
-- **風險提示**：操作前請務必備份重要資料  
-- **授權許可**：遵循 [MIT 許可證](LICENSE)，禁止商業用途
-
----
-
-### 💻 硬體支援
-| 組件         | 型號                      | 狀態       | 詳細說明               |
-|--------------|---------------------------|------------|------------------------|
-| **處理器**   | Intel i7-1065G7           | ✅ 完美支援 | Ice Lake 架構優化     |
-| **內顯**     | Intel Iris Plus G7        | ⚠️ 基本支援 | 不支援 HDMI 輸出      |
-| **獨立顯卡** | NVIDIA MX330              | ❌ 不支援   | 已在配置中屏蔽        |
-| **音訊**     | Realtek ALC256            | ✅ 完美支援 | 自動切換輸入/輸出設備 |
-| **無線網路** | Intel Wireless-AC 9461    | ⚠️ 部分支援 | 不支援隔空投放       |
-
----
-
-### ⚙️ 快速安裝指南
-1. **BIOS 設定**：
-   - 停用 Secure Boot
-   - 關閉 Fast Boot
-   - 設定 DVMT 預分配為 64M
-   
-2. **建立安裝媒體**：
-   - 下載 macOS 映像檔
-   - 使用 BalenaEtcher 建立可開機 USB
-
-3. **安裝 macOS**：
-   - 從 USB 開機
-   - 選擇 "Install macOS"
-   - 按照螢幕指示操作
-
-[查看完整指南](#️-安裝指南)
-
----
-
-<div align="center">
-  <a href="#-华硕-vivobook-fl8700jp-黑苹果项目">简体中文</a> | 
-  <strong>繁體中文</strong> | 
-  <a href="#english-version">English</a>
 </div>
