@@ -1,5 +1,3 @@
-# 华硕 VivoBook FL8700JP 黑苹果项目
-
 <div align="center">
   <img src="./机型效果图/hackintosh2.png#gh-light-mode-only" width="180" alt="Hackintosh Logo">
   <img src="./机型效果图/hackintosh2-1.png#gh-dark-mode-only" width="180" alt="Hackintosh Logo">
