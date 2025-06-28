@@ -105,7 +105,7 @@ EFI/                         # EFI Boot Directory
 ### 3. SMBIOS Configuration
 
 1. Use **OpenCore Configurator** or [**OCAuxiliaryTools**](https://github.com/ic005k/OCAuxiliaryTools) to open **config**
-2. It is recommended to use the **MacBookAir9,1** or **MacBookPro16,2** (recommended: MacBookAir9,1)  
+2. It is recommended to use the **MacBookPro16,2**
 3. Generate a valid **SystemSerialNumber** and verify via Apple's [Check Coverage Page](https://checkcoverage.apple.com/)  
 4. Save **config** and reboot  
 
