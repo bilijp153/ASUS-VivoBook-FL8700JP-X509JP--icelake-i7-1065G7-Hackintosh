@@ -86,21 +86,19 @@ EFI/
 | **触控板**   | ELAN1200                  | ⚠️ 基本支持 | 偶发无响应            |
 | **Type-C**   | -                         | ⚠️ 部分支持 | 不支持视频输出        |
 | **蓝牙**     | Intel Bluetooth           | ✅ 完美支持 | 完整功能              |
-| **摄像头**   | 720p HD Camera            | ✅ 完美支持 | FaceTime 兼容         |
 
 ---
 
 ## 🖥️ 系统兼容
 
-| macOS 版本   | 兼容状态 | 最低要求版本 | 备注                  |
-|--------------|----------|--------------|-----------------------|
-| **Catalina** | ✅ 完美  | 10.15.4      | 完全兼容              |
-| **Big Sur**  | ✅ 完美  | 11.0         | 推荐版本              |
-| **Monterey** | ✅ 完美  | 12.0         | 最佳性能              |
-| **Ventura**  | ✅ 完美  | 13.0         | 完整功能支持          |
-| **Sonoma**   | ✅ 完美  | 14.0         | 需最新EFI            |
-| **Sequoia**  | ✅ 完美  | 15.0         | 开发者测试版兼容      |
-
+| macOS 版本   | 兼容状态 | 最低要求版本 |
+|--------------|----------|--------------|
+| **Catalina** | ✅ 完美  | 10.15.4      |
+| **Big Sur**  | ✅ 完美  | 11.0         |
+| **Monterey** | ✅ 完美  | 12.0         |
+| **Ventura**  | ✅ 完美  | 13.0         |
+| **Sonoma**   | ✅ 完美  | 14.0         |
+| **Sequoia**  | ✅ 完美  | 15.0         |
 ---
 
 ## ⚙️ 安装指南
@@ -111,7 +109,6 @@ EFI/
    - 禁用 Secure Boot
    - 关闭 Fast Boot
    - 设置 DVMT 预分配为 64M
-   - 禁用 CFG Lock（如支持）
 
 2. **安装介质**：
    - 下载 macOS 镜像（推荐[黑果小兵的部落阁](https://blog.daliansky.net/)）
@@ -144,7 +141,7 @@ graph TD
 
 4. **启动安装**  
    - 从U盘启动进入 OpenCore
-   - 选择 "Install macOS"
+   - 选择 "Install macOS XXX"
    - 按照屏幕提示完成安装
 
 5. **迁移 EFI**  
@@ -185,12 +182,6 @@ graph LR
 4. 重启进入 Windows 并安装 BootCamp
 5. 完成后恢复 updateSMBIOSMode 为 `Custom`
 
-### 性能优化技巧
-- 启用 `XCPM` 电源管理
-- 调整 `HWP` 参数提升睿频响应
-- 使用 `CPUFriend` 定制电源配置
-- 禁用不必要的内核扩展
-
 ---
 
 ## ❓ 常见问题
@@ -206,7 +197,6 @@ graph LR
 <ul>
   <li>重启系统</li>
   <li>进入睡眠模式后唤醒</li>
-  <li>使用终端命令: <code>sudo killall AppleMultitouchDriver</code></li>
 </ul>
 </details>
 
@@ -220,12 +210,12 @@ graph LR
 </details>
 
 <details>
-<summary><strong>Q: 蓝牙设备连接不稳定？</strong></summary>
+<summary><strong>Q: 蓝牙设备无法连接？</strong></summary>
 <p>尝试以下解决方案：</p>
 <ul>
-  <li>重置蓝牙模块: <code>sudo pkill bluetoothd</code></li>
-  <li>更新 <code>IntelBluetoothFirmware</code> 驱动</li>
-  <li>检查 USB 映射是否包含蓝牙控制器</li>
+  <li>检查蓝牙是否正常驱动</li>
+  <li>更新 新版本EFI</li>
+  <li>检查是否为设备问题</li>
 </ul>
 </details>
 
@@ -257,12 +247,11 @@ graph LR
 | 角色       | 贡献者                     | 联系方式                |
 |------------|----------------------------|-------------------------|
 | 项目维护   | [极光呆呆脑](https://github.com/bilijp153) | 1551656605@qq.com      |
-| 测试验证   | [若涵](https://github.com/catlingyun)    | catlingyun@example.com |
+| 测试验证   | [若涵](https://github.com/catlingyun)    | - |
 
 ### 反馈渠道
 - [提交 Issue](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/issues)
-- 发送邮件至: support@hackintosh-fl8700jp.com
-- 加入 Telegram 讨论组
+- 发送邮件至: 1551656605@qq.com
 
 ---
 
