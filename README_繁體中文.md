@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="./机型效果图/hackintosh2.png#gh-light-mode-only" width="180" alt="Hackintosh Logo">
-  <img src="./机型效果图/hackintosh2-1.png#gh-dark-mode-only" width="180" alt="Hackintosh Logo">
+  <img src="./机型效果图/hackintosh-cn1.png#gh-light-mode-only" width="180" alt="Hackintosh Logo">
+  <img src="./机型效果图/hackintosh-cn1dark.png#gh-dark-mode-only" width="180" alt="Hackintosh Logo">
   <h1>讓 Windows 筆記本完美運行 macOS</h1>
   <small>
     <a href="README.md">简体中文</a> | 
