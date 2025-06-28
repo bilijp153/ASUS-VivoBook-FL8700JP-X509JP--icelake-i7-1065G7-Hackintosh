@@ -168,4 +168,3 @@ E --> F[恢复 config 设置]
 - [提交 Issue](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/issues)
 - 社区支持：
   [![Bilibili](https://img.shields.io/badge/哔哩哔哩-极光呆呆脑-FF69B4?logo=bilibili)](https://space.bilibili.com/329351708)
-  [![Weibo](https://img.shields.io/badge/微博-草莓小极光-1DA1F2?logo=sinaweibo)](https://weibo.com/u/5264002671)
