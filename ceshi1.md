@@ -259,8 +259,7 @@ graph LR
 
 ### 反馈渠道
 - [提交 Issue](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/issues)
-- 发送邮件至: support@hackintosh-fl8700jp.com
-- 加入 Telegram 讨论组
+- 发送邮件至: s1551656605@qq.com
 
 ---
 
