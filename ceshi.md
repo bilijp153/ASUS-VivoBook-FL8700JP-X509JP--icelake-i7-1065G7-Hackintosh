@@ -6,7 +6,7 @@
   <h1>让 Windows 笔记本完美运行 macOS</h1>
   <p>为华硕 VivoBook FL8700JP (X509JP) 定制的黑苹果解决方案</p>
   
-  ![OpenCore Version](https://img.shields.io/badge/OpenCore-0.9.8-blue)
+  ![OpenCore Version](https://img.shields.io/badge/OpenCore-1.0.4-blue)
   ![macOS Support](https://img.shields.io/badge/macOS-Catalina→Sequoia-green)
   ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 </div>
