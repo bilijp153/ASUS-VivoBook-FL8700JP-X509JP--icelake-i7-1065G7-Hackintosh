@@ -1,4 +1,4 @@
-# 🍎 华硕 VivoBook FL8700JP 黑苹果项目 - 完美运行 macOS
+# 🍎 华硕 VivoBook FL8700JP 黑苹果项目
 
 <div align="center">
   <img src="./机型效果图/hackintosh2.png#gh-light-mode-only" width="180" alt="Hackintosh Logo">
@@ -6,91 +6,32 @@
   <h1>让 Windows 笔记本完美运行 macOS</h1>
   <p>为华硕 VivoBook FL8700JP (X509JP) 定制的黑苹果解决方案</p>
   
-  <div class="badges">
-    <img src="https://img.shields.io/badge/OpenCore-1.0.4-blue?style=for-the-badge&logo=apple" alt="OpenCore">
-    <img src="https://img.shields.io/badge/macOS-Catalina→Sequoia-green?style=for-the-badge&logo=apple" alt="macOS Support">
-    <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" alt="License">
-    <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
+  <div>
+    <img src="https://img.shields.io/badge/OpenCore-1.0.4-blue?style=flat-square&logo=apple" alt="OpenCore">
+    <img src="https://img.shields.io/badge/macOS-Catalina→Sequoia-green?style=flat-square&logo=apple" alt="macOS Support">
+    <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="License">
+    <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status">
   </div>
 </div>
-
----
-
-## 🚀 项目亮点概览
-
-<div class="features-grid">
-  <div class="feature-card">
-    <div class="icon">💯</div>
-    <h3>全版本支持</h3>
-    <p>Catalina 到 Sequoia 全兼容</p>
-  </div>
-  
-  <div class="feature-card">
-    <div class="icon">⚡</div>
-    <h3>极致性能</h3>
-    <p>原生电源管理 + 智能睿频</p>
-  </div>
-  
-  <div class="feature-card">
-    <div class="icon">🔋</div>
-    <h3>电池优化</h3>
-    <p>原生休眠支持 + 高效能耗控制</p>
-  </div>
-  
-  <div class="feature-card">
-    <div class="icon">🔧</div>
-    <h3>持续维护</h3>
-    <p>定期更新优化，修复问题</p>
-  </div>
-</div>
-
-> "这不是简单的黑苹果安装，而是让您的华硕笔记本获得接近原生 MacBook 的体验"
 
 ---
 
 ## 📚 目录导航
 
-1. [🌟 核心优势](#-核心优势)
-2. [🖥 项目结构](#-项目结构)
-3. [📸 效果展示](#-效果展示)
-4. [💻 硬件支持](#-硬件支持)
-5. [🖥️ 系统兼容](#️-系统兼容)
-6. [⚙️ 安装指南](#️-安装指南)
-7. [🛠️ 高级配置](#️-高级配置)
-8. [❓ 常见问题](#-常见问题)
-9. [⚠️ 重要提示](#️-重要提示)
-10. [🤝 参与贡献](#-参与贡献)
-
----
-
-## 🌟 核心优势
-
-### 🚀 全面系统支持
-从 Catalina 到 Sequoia 全版本完美运行，提供无缝升级体验
-
-### 🔧 深度硬件优化
-- Intel Iris Plus G7 核显完美驱动
-- Realtek ALC256 声卡完整支持
-- 原生电源管理 + CPU 睿频技术
-- USB 端口定制化映射
-
-### 🔋 电池效率提升
-- 原生休眠支持
-- 智能能耗控制
-- 电池状态精确显示
-- 低功耗模式优化
-
-### 🛠 持续维护更新
-- 定期优化 EFI 配置
-- 及时修复已知问题
-- 适配最新 macOS 版本
-- 社区驱动持续改进
+1. [🖥 项目结构](#-项目结构)
+2. [💻 硬件支持](#-硬件支持)
+3. [🖥️ 系统兼容](#️-系统兼容)
+4. [⚙️ 安装指南](#️-安装指南)
+5. [🛠️ 高级配置](#️-高级配置)
+6. [❓ 常见问题](#-常见问题)
+7. [⚠️ 重要提示](#️-重要提示)
+8. [🤝 参与贡献](#-参与贡献)
 
 ---
 
 ## 🖥 项目结构
 
-### 📂 EFI 配置文件结构
+### EFI 配置文件结构
 
 ```bash
 EFI/
@@ -115,39 +56,18 @@ EFI/
 
 ### ⚠️ 重要说明
 
-<div class="notice">
-  <div class="notice-header">专属适配</div>
-  <p>仅适用于华硕 FL8700JP (X509JP) 特定机型</p>
-</div>
-
-<div class="notice warning">
-  <div class="notice-header">系统准备</div>
-  <p>需自行获取 macOS 安装镜像</p>
-</div>
-
-<div class="notice important">
-  <div class="notice-header">风险提示</div>
-  <p>操作前请务必备份重要数据</p>
-</div>
-
-<div class="notice">
-  <div class="notice-header">授权许可</div>
-  <p>遵循 <a href="LICENSE">MIT 许可证</a>，禁止商业用途</p>
-</div>
+- **专属适配**：仅适用于华硕 FL8700JP (X509JP) 特定机型  
+- **系统准备**：需自行获取 macOS 安装镜像  
+- **风险提示**：操作前请务必备份重要数据  
+- **授权许可**：遵循 [MIT 许可证](LICENSE)，禁止商业用途  
 
 ---
 
 ## 📸 效果展示
 
-<div class="gallery">
-  <div class="gallery-item">
-    <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer1.png" alt="系统概览">
-    <p>系统信息概览</p>
-  </div>
-  <div class="gallery-item">
-    <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer2.png" alt="硬件信息">
-    <p>详细硬件信息</p>
-  </div>
+<div align="center">
+  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer1.png" width="45%" alt="系统概览">
+  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer2.png" width="45%" alt="硬件信息">
 </div>
 
 ---
@@ -197,10 +117,13 @@ EFI/
 
 ### 安装流程
 
-```plaintext
-1. 下载EFI文件      → 2. 提取本机ACPI表 → 3. 替换ACPI文件
-       ↓                                      ↓
-8. 配置SMBIOS    ← 7. 迁移EFI        ← 6. 安装系统      ← 4. 启动安装
+```mermaid
+graph TD
+    A[下载EFI文件] --> B[提取本机ACPI表]
+    B --> C[替换ACPI文件]
+    C --> D[启动安装]
+    D --> E[迁移EFI到系统分区]
+    E --> F[配置SMBIOS]
 ```
 
 ### 详细步骤
@@ -238,17 +161,13 @@ EFI/
 
 ### 双系统安装 (BootCamp)
 
-```plaintext
-+----------------+     +-----------------+     +-----------------+
-| 下载 brigadier | --> | 生成 BootCamp   | --> | 复制到 Windows  |
-|                |     | 支持文件        |     | 分区           |
-+----------------+     +-----------------+     +-----------------+
-                          |                           |
-                          v                           v
-+----------------+     +-----------------+     +-----------------+
-| 修改 config    | <-- | 安装 BootCamp   | <-- | 重启进入 Windows|
-| 恢复设置       |     | 驱动            |     |                 |
-+----------------+     +-----------------+     +-----------------+
+```mermaid
+graph LR
+    A[下载 brigadier] --> B[生成 BootCamp 文件]
+    B --> C[复制到 Windows 分区]
+    C --> D[修改 config.plist]
+    D --> E[安装 BootCamp 驱动]
+    E --> F[恢复 config 设置]
 ```
 
 1. 从 [brigadier](https://github.com/corpnewt/brigadier) 获取 BootCamp 支持文件
@@ -338,16 +257,6 @@ EFI/
 | 项目维护   | [极光呆呆脑](https://github.com/bilijp153) | 1551656605@qq.com      |
 | 测试验证   | [若涵](https://github.com/catlingyun)    | catlingyun@example.com |
 
-### 贡献流程
-
-```plaintext
-1. Fork 项目仓库         2. 创建特性分支       3. 提交修改
-       ↑                         |                      |
-       +-------------------------+----------------------+
-                                 ↓
-                          4. 发起 Pull Request
-```
-
 ### 反馈渠道
 - [提交 Issue](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/issues)
 - 发送邮件至: support@hackintosh-fl8700jp.com
@@ -373,108 +282,3 @@ EFI/
 > **温馨提示**：本项目仅用于学习和研究目的，使用 macOS 请遵守苹果公司相关协议
 
 </div>
-
-<style>
-  .features-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px;
-    margin: 30px 0;
-  }
-  
-  .feature-card {
-    background: linear-gradient(135deg, #f5f7fa 0%, #e4edf5 100%);
-    border-radius: 12px;
-    padding: 20px;
-    text-align: center;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    transition: transform 0.3s ease;
-  }
-  
-  .feature-card:hover {
-    transform: translateY(-5px);
-  }
-  
-  .feature-card .icon {
-    font-size: 2.5rem;
-    margin-bottom: 15px;
-  }
-  
-  .gallery {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin: 30px 0;
-  }
-  
-  .gallery-item {
-    flex: 1;
-    min-width: 300px;
-    text-align: center;
-  }
-  
-  .gallery-item img {
-    border-radius: 10px;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-    max-width: 100%;
-  }
-  
-  .notice {
-    border-left: 4px solid;
-    padding: 10px 15px;
-    margin: 15px 0;
-    border-radius: 0 8px 8px 0;
-  }
-  
-  .notice-header {
-    font-weight: bold;
-    margin-bottom: 5px;
-  }
-  
-  .notice {
-    background-color: #e3f2fd;
-    border-color: #2196f3;
-  }
-  
-  .notice.warning {
-    background-color: #fff8e1;
-    border-color: #ffc107;
-  }
-  
-  .notice.important {
-    background-color: #ffebee;
-    border-color: #f44336;
-  }
-  
-  .badges {
-    margin: 20px 0;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
-  
-  details {
-    background: #f8f9fa;
-    border-radius: 8px;
-    padding: 10px 15px;
-    margin-bottom: 10px;
-    border: 1px solid #dfe1e5;
-  }
-  
-  details summary {
-    font-weight: bold;
-    cursor: pointer;
-  }
-  
-  details[open] summary {
-    margin-bottom: 10px;
-  }
-  
-  @media (max-width: 768px) {
-    .features-grid {
-      grid-template-columns: 1fr;
-    }
-  }
-</style>
