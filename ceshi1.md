@@ -82,7 +82,6 @@ EFI/
 | **触控板**   | ELAN1200                  | ⚠️ 基本支持 | 偶发无响应            |
 | **Type-C**   | -                         | ⚠️ 部分支持 | 不支持视频输出        |
 | **蓝牙**     | Intel Bluetooth           | ✅ 完美支持 | 完整功能              |
-| **摄像头**   | 720p HD Camera            | ✅ 完美支持 | FaceTime 兼容         |
 
 ---
 
@@ -216,12 +215,12 @@ graph LR
 </details>
 
 <details>
-<summary><strong>Q: 蓝牙设备连接不稳定？</strong></summary>
+<summary><strong>Q: 蓝牙设备无法连接？</strong></summary>
 <p>尝试以下解决方案：</p>
 <ul>
-  <li>重置蓝牙模块: <code>sudo pkill bluetoothd</code></li>
-  <li>更新 <code>IntelBluetoothFirmware</code> 驱动</li>
-  <li>检查 USB 映射是否包含蓝牙控制器</li>
+  <li>检查蓝牙是否正常驱动</li>
+  <li>更新 新版本EFI</li>
+  <li>检查是否为设备问题</li>
 </ul>
 </details>
 
