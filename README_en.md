@@ -1,193 +1,276 @@
 <div align="center">
-  <img src="./机型效果图/hackintosh.png#gh-light-mode-only" width="180" alt="Hackintosh Logo">
-  <img src="./机型效果图/hackintosh-1.png#gh-dark-mode-only" width="180" alt="Hackintosh Logo">
-  <h1>ASUS VivoBook FL8700JP Hackintosh</h1>
-  <p>Run macOS on a Windows Laptop</p>
+  <img src="./机型效果图/hackintosh2.png#gh-light-mode-only" width="180" alt="Hackintosh Logo">
+  <img src="./机型效果图/hackintosh2-1.png#gh-dark-mode-only" width="180" alt="Hackintosh Logo">
+  <h1>Run macOS Perfectly on Windows Laptop</h1>
+  <small>
+    <a href="README.md">简体中文</a> |
+    <a href="README_繁體中文.md">繁體中文</a> | 
+    <strong>English</strong> 
+  </small>
+  <p>Custom Hackintosh solution for ASUS VivoBook FL8700JP (X509JP)</p>
+  
+  <div>
+    <img src="https://img.shields.io/badge/OpenCore-1.0.4-blue?style=flat-square&logo=apple" alt="OpenCore">
+    <img src="https://img.shields.io/badge/macOS-Catalina→Sequoia-green?style=flat-square&logo=apple" alt="macOS Support">
+    <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="License">
+  </div>
 </div>
 
 ---
 
-## 📌 Quick Navigation([简体中文](README.md))([繁體中文](README_繁體中文.md))
-|[🌟 Project Highlights](#-project-highlights) |[🚩 Project Overview](#-project-overview) |[📸 Gallery](#-gallery)|[💻 Hardware Compatibility](#-hardware-compatibility) |
-|------------------|------------------|----------------------------|----------------------------|
-|[🖥️ System Support](#️-system-support)|[⚙️ Installation Guide](#️-installation-guide) |[🛠️ Advanced Config](#️-advanced-config) |[❓ FAQ](#-faq) |
-|[⚠️ Notes](#️-notes)|[🌟 Contribution & Support](#️-contribution--support) |[📮 Feedback](#-feedback) |[🙏 Acknowledgments](#-acknowledgments) |
----
+## 📚 Table of Contents
 
-## 🌟 Project Highlights
-- ✅ **Full Compatibility**: Supports macOS Catalina ~ Sequoia  
-- 🖥 **Hardware Optimization**: Deep adaptation for iGPU/Audio/Wi-Fi  
-- 🚀 **Performance Tuning**: Native CPU power management + Turbo Boost  
-- 🔋 **Power Optimization**: Native power management + Sleep support  
-- 🛠 **Continuous Maintenance**: Regular EFI updates and bug fixes  
+1. [🖥 Project Structure](#-project-structure)
+2. [💻 Hardware Support](#-hardware-support)
+3. [🖥️ System Compatibility](#️-system-compatibility)
+4. [⚙️ Installation Guide](#️-installation-guide)
+5. [🛠️ Advanced Configuration](#️-advanced-configuration)
+6. [❓ Frequently Asked Questions](#-frequently-asked-questions)
+7. [⚠️ Important Notes](#️-important-notes)
+8. [🤝 Contribution](#-contribution)
 
 ---
 
-## 🚩 Project Overview
-### EFI Structure
+## 🖥 Project Structure
+
+### EFI Configuration Structure
+
 ```bash
-EFI/                         # EFI Boot Directory
-├── BOOT/                    # Boot Directory
-│   └── BOOTx64.efi          # UEFI Boot File
-└── OC/                      # OpenCore Directory
-    ├── ACPI/                # DSDT/SSDT Patches
-    ├── Kexts/               # Core Kexts
-    ├── Drivers/             # OpenCore Drivers
-    ├── config.plist         # Main Configuration
-    └── ...                  # Other Resources
-└── ...                      # Other System Directories
-
-
+EFI/
+├── BOOT/
+│   └── BOOTx64.efi              # Bootloader
+└── OC/
+    ├── ACPI/                    # System patches and fixes
+    │   ├── SSDT-AWAC.aml        # Clock controller fix
+    │   ├── SSDT-EC-USBX.aml     # Embedded controller
+    │   └── SSDT-PLUG.aml        # CPU power management
+    ├── Kexts/                   # Core hardware drivers
+    │   ├── Lilu.kext            # Core plugin
+    │   ├── VirtualSMC.kext      # System management controller
+    │   ├── WhateverGreen.kext   # Graphics fix
+    │   └── AppleALC.kext        # Audio driver
+    ├── Drivers/                 # OpenCore boot drivers
+    │   ├── OpenRuntime.efi      # Runtime services
+    │   └── HfsPlus.efi          # HFS+ filesystem support
+    ├── config.plist             # Main configuration file
+    └── Tools/                   # Utility collection
 ```
-### Notes
-- **Only compatible with ASUS FL8700JP (X509JP)**. Other devices are not guaranteed.  
-- **No macOS installer included**. Prepare the installer yourself.  
-- Backup data before installation. **Proceed at your own risk**.  
-- Licensed under [MIT License](License). Commercial use prohibited.  
 
-### [↩️ Back to Quick Navigation](#-quick-navigation简体中文繁體中文)
+### ⚠️ Important Notes
+
+- **Model Specific**: Only for ASUS FL8700JP (X509JP)  
+- **System Preparation**: Requires macOS installation image  
+- **Risk Warning**: Backup important data before operation  
+- **License**: Follow [MIT License](LICENSE), commercial use prohibited  
 
 ---
 
-## 📸 Gallery
+## 📸 Screenshots
+
 <div align="center">
-  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer1.png" width="45%">
-  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer2.png" width="45%">
+  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer1.png" width="45%" alt="System Overview">
+  <img src="https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-icelake-1065G7-Hackintosh/blob/main/机型效果图/computer2.png" width="45%" alt="Hardware Information">
 </div>
 
 ---
 
-## 💻 Hardware Compatibility
-| Component      | Model                     | Status    | Notes                     |
-|----------------|---------------------------|-----------|---------------------------|
-| **CPU**        | Intel i7-1065G7           | ✅ Working | Ice Lake architecture    |
-| **iGPU**       | Intel Iris Plus G7        | ⚠️ Partial | HDMI output unsupported  |
-| **dGPU**       | NVIDIA MX330              | ❌ Unsupported | Disabled via SSDT      |
-| **Audio**      | Realtek ALC256            | ✅ Working | Auto-switch for peripherals |
-| **Wi-Fi**      | Intel Wireless-AC 9461    | ✅ Partial | No AirDrop/AirPlay       |
-| **Trackpad**   | ELAN1200                  | ⚠️ Partial | Occasional unresponsiveness |
-| **Type-C**     | -                         | ✅ Partial | No DP/Thunderbolt support |
+## 💻 Hardware Support
+
+| Component        | Model                      | Status       | Details                  |
+|------------------|----------------------------|--------------|--------------------------|
+| **CPU**          | Intel i7-1065G7           | ✅ Perfect    | Ice Lake optimization   |
+| **iGPU**         | Intel Iris Plus G7        | ⚠️ Basic      | No HDMI output          |
+| **dGPU**         | NVIDIA MX330              | ❌ Not supported | Disabled in config      |
+| **Audio**        | Realtek ALC256            | ✅ Perfect    | Auto input/output switch|
+| **WiFi**         | Intel Wireless-AC 9461    | ⚠️ Partial    | No AirDrop support      |
+| **Trackpad**     | ELAN1200                  | ⚠️ Basic      | Occasionally unresponsive |
+| **Type-C**       | -                         | ⚠️ Partial    | No video output         |
+| **Bluetooth**    | Intel Bluetooth           | ✅ Perfect    | Full functionality      |
 
 ---
 
-## 🖥️ System Support
-| macOS Version  | Compatibility | Minimum Version       |
-|----------------|---------------|-----------------------|
-| Catalina       | ✅             | 10.15.4              |
-| Big Sur        | ✅             | 11.0                 |
-| Monterey       | ✅             | 12.0                 |
-| Ventura        | ✅             | 13.0                 |
-| Sonoma         | ✅             | 14.0                 |
-| Sequoia        | ✅             | 15.0                 |
+## 🖥️ System Compatibility
 
-### [↩️ Back to Quick Navigation](#-quick-navigation简体中文繁體中文)
+| macOS Version   | Compatibility | Minimum Version |
+|-----------------|---------------|-----------------|
+| **Catalina**    | ✅ Perfect     | 10.15.4         |
+| **Big Sur**     | ✅ Perfect     | 11.0            |
+| **Monterey**    | ✅ Perfect     | 12.0            |
+| **Ventura**     | ✅ Perfect     | 13.0            |
+| **Sonoma**      | ✅ Perfect     | 14.0            |
+| **Sequoia**     | ✅ Perfect     | 15.0            |
 
 ---
 
 ## ⚙️ Installation Guide
-### 1. BIOS Settings
 
-- **Secure Boot**: Disabled  
-- **Fast Boot**: Disabled  
-- **DVMT Pre-Allocated**: 64M  
+### Preparation
 
-### 2. Installation Steps
+1. **BIOS Settings**:
+   - Disable Secure Boot
+   - Disable Fast Boot
+   - Set DVMT Pre-Alloc to 64M
 
-1. Download macOS installer ➔ Recommended: [Daliansky's Blog](https://blog.daliansky.net/)  
-2. Create macOS installer USB ➔ Use [BalenaEtcher](https://www.balena.io/etcher/)  
-3. [**Download**](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases) EFI files ➔ Replace the USB's EFI folder
-4. Download [**SDTTime**](https://github.com/corpnewt/SSDTTime) Extract the local SSDT according to the prompts, find the extracted SSDT folder, rename **FACP.aml** in it to **SSDT-FACP.aml**, and replace **SSDT-FACP.aml** in **EFI/OC/ACPI**  
-5. Set USB as first boot device  
-6. Boot via OpenCore ➔ Select "Install macOS XXX"  
-7. Reboot multiple times until setup completes  
-8. Migrate EFI to the internal SSD and remove USB  
+2. **Installation Media**:
+   - Download macOS image (recommended [Daliansky Blog](https://blog.daliansky.net/))
+   - Use [BalenaEtcher](https://www.balena.io/etcher/) to create bootable USB
 
-### 3. SMBIOS Configuration
+### Installation Process
 
-1. Use **OpenCore Configurator** or [**OCAuxiliaryTools**](https://github.com/ic005k/OCAuxiliaryTools) to open **config**
-2. It is recommended to use the **MacBookPro16,2**
-3. Generate a valid **SystemSerialNumber** and verify via Apple's [Check Coverage Page](https://checkcoverage.apple.com/)  
-4. Save **config** and reboot  
+```mermaid
+graph TD
+    A[Download EFI] --> B[Extract ACPI Tables]
+    B --> C[Replace ACPI Files]
+    C --> D[Start Installation]
+    D --> E[Migrate EFI to System Partition]
+    E --> F[Configure SMBIOS]
+```
+
+### Detailed Steps
+
+1. **Download Project Files**  
+   Visit [Releases Page](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/releases) to download latest EFI
+
+2. **Extract Local ACPI Tables**  
+   ```bash
+   # Use SSDTTime to extract necessary files
+   SSDTTime extract → FACP.aml → Rename to SSDT-FACP.aml
+   ```
+
+3. **Replace Configuration Files**  
+   Place generated SSDT files in `EFI/OC/ACPI` directory
+
+4. **Start Installation**  
+   - Boot from USB into OpenCore
+   - Select "Install macOS XXX"
+   - Follow on-screen instructions
+
+5. **Migrate EFI**  
+   After installation, use [MountEFI](https://github.com/corpnewt/MountEFI) to migrate EFI to system partition
+
+6. **SMBIOS Configuration**  
+   ```bash
+   1. Use OCAuxiliaryTools to edit config.plist
+   2. Set model to MacBookPro16,2
+   3. Generate serials and validate
+   ```
 
 ---
 
-## 🛠️ Advanced Config
+## 🛠️ Advanced Configuration
 
-💻 BootCamp Dual Boot Configuration
+### Dual Boot Installation (BootCamp)
 
-1. Download files via [**brigadier**](https://github.com/corpnewt/brigadier)  
-2. Run the script and follow prompts to generate a **dmg**  
-3. Copy BootCamp folders to the Windows partition  
-4. Set **updateSMBIOSMod** to **Create** in `config.plist` and reboot  
-5. Select **Windows** in OpenCore  
-6. Install BootCamp drivers via `Setup.exe`  
-7. Reboot and set **updateSMBIOSMod** back to **Custom** in `config.plist`  
+```mermaid
+graph LR
+    A[Download brigadier] --> B[Generate BootCamp Files]
+    B --> C[Copy to Windows Partition]
+    C --> D[Modify config.plist]
+    D --> E[Install BootCamp Drivers]
+    E --> F[Restore config Settings]
+```
 
-### [↩️ Back to Quick Navigation](#-quick-navigation简体中文繁體中文)
+1. Get BootCamp support files from [brigadier](https://github.com/corpnewt/brigadier)
+2. Copy generated BootCamp folder to Windows system drive
+3. Modify config.plist:
+   ```xml
+   <key>PlatformInfo</key>
+   <dict>
+     <key>updateSMBIOSMode</key>
+     <string>Create</string>
+   </dict>
+   ```
+4. Reboot into Windows and install BootCamp
+5. After completion, restore updateSMBIOSMode to `Custom`
 
 ---
 
-## ❓ FAQ
+## ❓ Frequently Asked Questions
+
 <details>
-  <summary><b>Q: How to disable the startup "dong" sound?</b></summary>
-  Go to System Settings ➔ Sound ➔ Disable "Play sound on startup".
+<summary><strong>Q: How to disable the startup chime sound?</strong></summary>
+<p>Go to "System Settings" → "Sound" → Uncheck "Play sound on startup"</p>
 </details>
 
 <details>
-  <summary><b>Q: Trackpad occasionally unresponsive?</b></summary>
-  Reboot or sleep/wake to fix. Known issue with ELAN1200 drivers.
+<summary><strong>Q: Trackpad occasionally unresponsive?</strong></summary>
+<p>This is a known issue with ELAN1200 driver, temporary solutions:</p>
+<ul>
+  <li>Reboot system</li>
+  <li>Wake from sleep mode</li>
+</ul>
 </details>
 
 <details>
-  <summary><b>Q: How to switch default OS?</b></summary>
-  Press Ctrl+Enter in OpenCore or set via System Settings ➔ Startup Disk.
+<summary><strong>Q: How to change default boot system?</strong></summary>
+<p>Two methods:</p>
+<ol>
+  <li>Press <code>Ctrl+Enter</code> at OpenCore boot screen</li>
+  <li>In macOS: "System Settings" → "Startup Disk"</li>
+</ol>
+</details>
+
+<details>
+<summary><strong>Q: Bluetooth devices won't connect?</strong></summary>
+<p>Try these solutions:</p>
+<ul>
+  <li>Check if Bluetooth is properly driven</li>
+  <li>Update to latest EFI</li>
+  <li>Check if it's a device issue</li>
+</ul>
 </details>
 
 ---
 
-## ⚠️ Notes
-1. **Skip Apple ID login** during setup and log in later via System Settings.  
-2. Generate **unique SMBIOS** and ensure serial shows **"Invalid"** on Apple's site.  
-3. Only then attempt Apple ID registration.  
+## ⚠️ Important Notes
+
+1. **Initial Setup**  
+   Skip Apple ID login during initialization, log in after completing system setup
+
+2. **Serial Validation**  
+   Serial should show "Invalid Serial Number" on [Apple Coverage Check](https://checkcoverage.apple.com/)
+
+3. **Secure Login**  
+   Only log in to your Apple ID after completing the above steps
+
+4. **System Updates**  
+   Before updating macOS:
+   - Backup current EFI partition
+   - Check project update logs
+   - Wait for community compatibility confirmation
 
 ---
 
-## 🌟 Contribution & Support
-| Role           | Contributor                |
-|----------------|----------------------------|
-| Maintainer     | [极光呆呆脑](https://github.com/bilijp153) |
-| Tester         | [若涵](https://github.com/catlingyun) |
+## 🤝 Contribution
+
+### Core Team
+
+| Role         | Contributor                   | Contact                |
+|--------------|-------------------------------|------------------------|
+| Maintainer   | [极光呆呆脑](https://github.com/bilijp153) | 1551656605@qq.com      |
+| Tester       | [若涵](https://github.com/catlingyun)    | - |
+
+### Feedback Channels
+- [Submit Issue](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/issues)
+- Email: 1551656605@qq.com
 
 ---
 
-## 📮 Feedback
-Submit via [GitHub Issues](https://github.com/bilijp153/ASUS-VivoBook-FL8700JP-Hackintosh/issues) or contact:  
-📧 **Email**: 1551656605@qq.com  
+## 🙏 Special Thanks
 
-<a href="https://space.bilibili.com/329351708">
-    <img src="https://img.shields.io/badge/Bilibili-极光呆呆脑-FF69B4?logo=bilibili" alt="Bilibili">
-  </a>
-  <a href="https://weibo.com/u/5264002671">
-    <img src="https://img.shields.io/badge/Weibo-草莓小极光-1DA1F2?logo=sinaweibo" alt="Weibo">
-  </a>
-  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=B2Omg5IKCGWoMNXgMIPmA_AJqEMnMCUb&noverify=0&personal_qrcode_source=3">
-    <img src="https://img.shields.io/badge/QQ-极光呆呆脑-26A5E4?logo=QQ" alt="QQ">
-  </a>
-
----
-
-## 🙏 Acknowledgments
-- [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)  
-- [Acidanthera](https://github.com/acidanthera) for kexts and tools
-- [laobamac](https://github.com/laobamac) OCLP-Mod Developer 
-
-### [↩️ Back to Quick Navigation](#-quick-navigation简体中文繁體中文)
+- [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/) - Gold standard for Hackintosh
+- [Acidanthera](https://github.com/acidanthera) - Core driver development
+- [laobamac](https://github.com/laobamac) - OCLP-Mod developer
+- [Dortania Community](https://dortania.github.io) - Technical support and knowledge base
+- [Daliansky](https://blog.daliansky.net/) - Quality installation images
 
 ---
 
 <div align="center">
   
-This project is licensed under [MIT License](License)  
+📜 **License**: [MIT](LICENSE)  
+© 2021-2025 Jiguang Daidai Nao - All rights reserved
 
-© 2021-2025 极光呆呆脑  All rights reserved
+> **Note**: This project is for educational purposes only. Use macOS in compliance with Apple's terms.
+
 </div>
