@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/OpenCore-1.0.4-blue?style=flat-square&logo=apple" alt="OpenCore">
     <img src="https://img.shields.io/badge/macOS-Catalina→Sequoia-green?style=flat-square&logo=apple" alt="macOS Support">
     <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="License">
-    <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status">
   </div>
 </div>
 
