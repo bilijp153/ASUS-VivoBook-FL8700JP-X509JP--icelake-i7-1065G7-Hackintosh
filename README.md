@@ -10,7 +10,7 @@
   <p>为华硕 VivoBook FL8700JP (X509JP) 定制的黑苹果解决方案</p>
   
   <div>
-    <img src="https://img.shields.io/badge/OpenCore-1.0.4-blue?style=flat-square&logo=opencore" alt="OpenCore">
+    <img src="https://img.shields.io/badge/OpenCore-1.0.4-blue?style=flat-square&logo=apple" alt="OpenCore">
     <img src="https://img.shields.io/badge/macOS-Catalina→Sequoia-green?style=flat-square&logo=apple" alt="macOS Support">
     <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="License">
   </div>
